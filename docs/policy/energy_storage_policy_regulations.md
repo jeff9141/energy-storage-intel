@@ -124,6 +124,8 @@
 > - [Portable Energy Storage Certification Guide — GDESTL](https://en.gdestl.com/588.html) `[2025]`
 > - [EU Members Mixed Progress on Energy Storage — Energy Storage News](https://www.energy-storage.news/european-union-members-make-mixed-progress-in-implementing-energy-storage-strategies/) `[2025-04]`
 
+- `[2026-06-14 更新]` **2026-08-18 电池标注新要求即将生效**：EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地，电池须标注制造商信息、化学成分、重量、容量、制造日期及预期寿命；不可充电电池须加贴专用符号；EV 电池须在标签上显示碳足迹数据；电池体积过小时，须在包装或随附文件上体现相关信息（来源：[EU Battery Regulation 2026: What Retailers Must Know — Impala Services](https://www.impala-services.com/blog/eu-battery-regulation-technical-documentation-retailers) `[2026]`）
+
 #### PM 解读
 
 > **[2026-06-14]**
@@ -195,6 +197,11 @@
 > - [Balkonkraftwerk Gesetz 2026 — Anker SOLIX](https://www.ankersolix.com/de/blogs/balkonkraftwerk/balkonkraftwerk-gesetz) `[2026]`
 > - [What Does the New German Plug-in PV Norm Say? — Balkon.solar](https://balkon.solar/news/2025/11/22/what-does-the-new-german-plug-in-pv-norm-say/) `[2025-11]`
 > - [Balkonkraftwerk Gesetz 2026: VDE Norm — Energiemagazin](https://www.energiemagazin.com/balkonkraftwerk/vereinfachte-regeln/) `[2026]`
+
+- `[2026-06-14 更新]` **EEG 2027 Referentenentwurf（2026-02-27 发布）重大提案**：联邦经济与能源部（BMWK）发布 442 页草案，核心条款：① 2027-01-01 起，新建 <25 kWp 住宅光伏系统取消固定 EEG 馈电补偿（Einspeisevergütung），全部强制转向市场化 Direktvermarktung（包括单户住宅屋顶系统）；② 小型光伏系统设定 50% 馈电功率永久上限，配储能系统可豁免；③ 强制安装 iMSys 的装机门槛从 7 kW 降至 2 kW；④ 屋顶光伏拍卖规模从 2,300 MW/年削减至 1,500 MW/年（2027-2032），地面电站从 9,900 MW 扩大至 14,000 MW；⑤ 草案同时提出加大电池储能投资激励，定位储能为光伏标准配置。**该草案为部级草案，尚未进入正式立法程序**（来源：[Germany's EEG 2027 Draft: A New Era for Renewables — Freshfields](https://www.freshfields.com/en/our-thinking/blogs/sustainability/germanys-eeg-2027-draft-a-new-era-for-renewables-102mrfg) `[2026]`；[EEG 2027 – Overview — Taylor Wessing](https://www.taylorwessing.com/en/insights-and-events/insights/2026/03/eeg-2027-die-geplante-novelle-des-erneuerbare-energien-gesetzes-im-ueberblick) `[2026-03]`）
+- `[2026-06-14 更新]` **2026 年负电价小时数同比激增约 50%**：据 EPEX Spot 数据，2026 年德国负电价小时数相较 2025 年（576 小时）增幅约 50%，4 月因日照时长增加最为集中；太阳能捕获系数（solar capture factor）从 2025-04 的约 0.40 骤降至 2026-04 的约 0.26（跌幅约三分之一）；配储能系统可规避负电价窗口（来源：[Germany Power Prices Turn Deeply Negative — Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge) `[2026-04]`；[Solar Capture Factors Fall Across Europe — PV Magazine](https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/) `[2026-05]`）
+- `[2026-06-14 更新]` **2026 Q1 市场数据：住宅光伏降、储能创新高**：Q1 2026 德国住宅光伏新增同比下降 21%（至 850 MW），但储能新增创历史纪录——2 GWh（同比 +67%），其中 1 MWh 以上大型储能同比近四倍增长（超 1 GWh）；德国太阳能协会呼吁"简化光储协同监管框架"（来源：[German Solar Association confirms more storage, less solar — ESS News](https://www.ess-news.com/2026/05/04/german-solar-association-confirms-more-storage-less-solar-capacity-installed-in-q1-2026/) `[2026-05]`；[Drop in residential solar drives German PV down Q1 2026 — PV Tech](https://www.pv-tech.org/drop-in-residential-solar-drives-german-pv-installations-down-in-q1-2026/) `[2026]`）
+- `[2026-06-14 更新]` **iMSys 部署执法提速**：2026-03 下旬，BNetzA 对 77 家尚未启动智能电表部署的计量点运营商启动执法程序，威胁合规罚款（来源：[How is the German Smart Meter Rollout Progressing? — FfE](https://www.ffe.de/en/publications/how-is-the-german-smart-meter-rollout-progressing/) `[2026]`）
 
 #### PM 解读
 
@@ -383,8 +390,8 @@
 | 项目 | 内容 | 时间 |
 |------|------|------|
 | **0% 增值税** | 储能硬件及安装服务零税率（与光伏、热泵同等） | 2024 起，确认延续至 2027-03 |
-| **ECO4** | 能源公司义务计划，低收入家庭可通过该计划获得光伏+储能安装资助 | 运行至 2026-03，后续方案待定 |
-| **Warm Homes Plan** | £150 亿计划，含光伏、电池、热泵的补助和贷款。低收入家庭全额覆盖 | 推进中 |
+| **ECO4** | 能源公司义务计划（£4B），低收入家庭可获光伏+储能安装资助。ECO5 已取消，不再延续 ECO 框架 | 运行至 2026-12-31 |
+| **Warm Homes Plan** | £150 亿计划（WH:LG 低收入补贴 + WH:SHF £7.54 亿社会住房 + £20 亿零息贷款），含光伏、电池（£2,500 补贴）、热泵。低收入家庭全额覆盖 | 2026-01 发布，目标 2030 覆盖 500 万户 |
 | **苏格兰免息贷款** | 最高 £6,000，叠加 0% VAT | 持续有效 |
 
 ### 7.2 售电机制 `[家储]`
@@ -410,12 +417,14 @@
 > - [Battery Storage 576 MW in UK Capacity Market — PV Magazine](https://www.pv-magazine.com/2026/03/06/battery-storage-awarded-576-mw-in-uk-top-up-capacity-market-auction/) `[2026-03]`
 > - [Record-breaking 2025 for UK Battery Storage — Energy Storage News](https://www.energy-storage.news/another-record-breaking-year-for-uk-battery-storage-as-4gwh-comes-online/) `[2025]`
 
+**详细分析见 → [英国 Warm Homes Plan & Social Housing 专题分析](uk_warm_homes_plan_analysis.md)**（含 ECO4 终局、WHP 三层资金结构、Social Housing 批量部署、安装商工具规划、EPC Smart Readiness 战略窗口）
+
 #### PM 解读
 
 > **[2026-06-14]**
 > - **SEG 分时售电 + VPP 参与 = 英国家储 App 的核心能力矩阵**：最高 50p/kWh 的 SEG 分时电价意味着储能不再只是"省电"工具，而是"赚电费"工具。App 需要三层能力：① 分时电价数据集成（Octopus、British Gas 等零售商电价 API）；② 智能充放电调度（低价充、高价放）；③ VPP 接入（参与频率响应、容量市场等辅助服务）。这三层是递进关系，至少前两层是市场准入的基本要求
 > - **Warm Homes Plan 面向低收入群体，安装商 B 端工具需要适配补贴申请流程**：£150 亿预算中有大量资金通过安装商渠道落地。B 端工具（Installer App/Portal）如果能嵌入"Warm Homes Plan 资格查询 + 申请流程引导"，将是安装商选择合作品牌的加分项
-> - **ECO4 将于 2026-03 到期，后续方案是关键跟踪点**：如果继任方案（ECO5?）扩大储能覆盖范围，英国家储市场将获得新的增量。定时任务需要重点跟踪 Ofgem 关于 ECO 后续方案的公告
+> - **ECO4 于 2026-12-31 终止，ECO5 已确认取消**：政府决定终结整个 ECO 框架，£1.5B 资金重新分配至 Warm Homes Plan。渠道链路从"能源供应商分包"变为"地方政府 → 安装商"，安装商需持有 TrustMark + PAS 2030:2023 认证
 > - **英国是"VPP 最先落地"的家储市场之一**：容量市场拍卖 576 MW 说明大型储能已经深度参与电力市场。家储如果也能通过 VPP 聚合参与容量市场，将创造新的收入模型。App 中的"VPP 收益可视化"是差异化功能
 
 ---
