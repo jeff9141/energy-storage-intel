@@ -1,0 +1,62 @@
+site_name: 储能行业竞争情报
+site_description: 家庭储能、阳台储能、便携储能行业政策法规与竞对软件能力情报库
+site_url: ""
+
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: 切换暗色模式
+    - scheme: slate
+      primary: teal
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: 切换亮色模式
+  font:
+    text: Noto Sans SC
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.mark
+  - toc:
+      permalink: true
+
+nav:
+  - 首页: index.md
+  - 政策法规:
+      - 政策法规汇总: policy/energy_storage_policy_regulations.md
+      - EU 碳足迹合规专题: policy/eu_carbon_footprint_compliance_analysis.md
+  - 竞对分析:
+      - 竞对软件能力分析: competitors/competitor_software_analysis.md
+  - 信息源目录: reference_sources.md
+
+extra:
+  generator: false
