@@ -243,6 +243,9 @@
 > - [Italian Ruling Secures 30-Day Permit Window — ESS News](https://www.ess-news.com/2025/11/26/italian-ruling-secures-30-day-permit-window-for-storage-and-renewables-but-size-matters/) `[2025-11]`
 > - [Italy Superbonus Solar 2025-2026 — SurgePV](https://www.surgepv.com/blog/italy-superbonus-solar) `[2025]`
 
+- `[2026-06-14 更新]` **EIB 支持 €5.07 亿意大利光储项目（2026-03）**：欧洲投资银行宣布支持意大利 €5.07 亿太阳能+储能项目计划，利好大型储能市场扩张（来源：[EIB Backs €507 Million Solar and Storage Programme in Italy — Funds for NGOs](https://news.fundsforngos.org/2026/03/18/eib-backs-e507-million-solar-and-storage-programme-in-italy/) `[2026-03]`）
+- `[2026-06-14 更新]` **Ecobonus 65% 条件明确**：若光储安装结合建筑能效改造（需取得 APE 能效证书且能效等级提升），住宅税收抵扣比例可从 50% 提升至 65%，适用于 2026 年安装项目（来源：[Italy Superbonus Solar 2025-2026 — SurgePV](https://www.surgepv.com/blog/italy-superbonus-solar) `[2025]`）
+
 #### PM 解读
 
 > **[2026-06-14]**
@@ -373,6 +376,8 @@
 > - [Netherlands Dedicates €100 Million to Battery Storage — ACE Battery](https://www.acebattery.com/blogs/netherlands-dedicates-100-million-to-subsidize-battery-storage) `[2024]`
 > - [Netherlands Allocates €100M for Battery Storage — PV Magazine](https://www.pv-magazine.com/2024/04/18/netherlands-allocates-e100-million-for-battery-storage-subsidies/) `[2024-04]`
 > - [Subsidies for Battery Storage — Intercel](https://intercel.eu/knowledge-insights/subsidies-for-battery-storage/) `[2024]`
+
+- `[2026-06-14 更新]` **净计量终止为最终立法，2027-01-01 执行**：荷兰议会已正式批准 Saldering 终止方案，2027-01-01 生效为不可逆的立法结果；随着截止日期临近，荷兰储能市场需求显著上升，多家国际家储品牌（如 Jackery SolarVault 3 系列）于 2026-Q1 进入荷兰市场（来源：[Dutch parliament approves end of net metering in 2027 — PV Magazine](https://www.pv-magazine.com/2024/11/15/dutch-parliament-approves-end-of-net-metering-in-2027/) `[2024-11]`；[With Dutch net metering at an end, SolarVault 3 lands in Netherlands — NL Times](https://nltimes.nl/2026/04/09/dutch-net-metering-end-solarvault-3-energy-solutions-land-netherlands) `[2026-04]`）
 
 #### PM 解读
 
@@ -563,6 +568,8 @@
 > - [Poland Allocates Subsidies to 14.5 GWh — PV Magazine](https://www.pv-magazine.com/2025/12/19/poland-allocates-subsidies-to-14-5-gwh-of-energy-storage-projects/) `[2025-12]`
 > - [Poland Solar Subsidies 2025 — SurgePV](https://www.surgepv.com/hub/solar-industry/poland) `[2025]`
 
+- `[2026-06-14 更新]` **Mój Prąd 7.0 确认聚焦储能，预计 2026-Q1 开放申请**：官方名称调整为"家庭储能资助计划"（Finansowanie domowych magazynów energii），与前六期最大差异在于**完全以储能系统为主体**（不单独资助新建光伏；现有光伏用户方可搭配申请储能补贴）；公众咨询已于 2026-02-05 结束，预计 2026 年 3 月开放申请（来源：[Program Mój Prąd 7.0 powraca! — SWATT](https://swatt.pl/pl/SWATT_WIEDZY/dofinansowania/program-moj-prad-70-powraca-w-2026-rzad-finansuje-magazyny-energii-i-ciepla) `[2026]`；[Czy będzie Mój Prąd 7.0? — Sunergo](https://sunergo.pl/blog/czy-bedzie-moj-prad-7-0-co-juz-wiemy-o-programie-i-kiedy-moj-prad-2026-startuje/) `[2026]`）
+
 #### PM 解读
 
 > **[2026-06-14]**
@@ -715,6 +722,9 @@
 > - [Solar & Battery Rebates 2026 — SolarQuotes](https://www.solarquotes.com.au/rebates-subsidies/) `[2026]`
 > - [Federal Battery Rebate — Solar Choice](https://www.solarchoice.net.au/learn/solar-rebates/government-battery-rebate/) `[2026]`
 > - [Changes to Cheaper Home Batteries — Solar Choice](https://www.solarchoice.net.au/learn/solar-rebates/government-battery-rebate/changes-1-may-2026/) `[2026-05]`
+
+- `[2026-06-14 更新]` **原 $23 亿预算提前耗尽，扩资至 $72 亿的直接原因**：原联邦计划资金预计于 2026-06 初耗尽（远早于 2030 年截止），这是 2025-12 宣布将资金规模扩大至 $72 亿澳元的直接触发因素；预计至 2030 年完成超过 200 万户家庭储能安装，新增约 40 GWh 容量（来源：[Why the government is overhauling its Cheaper Home Batteries Program — Canstar](https://www.canstar.com.au/energy/why-the-government-is-overhauling-its-cheaper-home-batteries-program/) `[2026]`；[Six Months of the Cheaper Home Batteries Program — energy.gov.au](https://www.energy.gov.au/news/six-months-cheaper-home-batteries-program) `[2026]`）
+- `[2026-06-14 更新]` **澳洲 VPP 市场快速扩张**：截至 2026 年中，全国活跃 VPP 项目已超过 12 个且持续增加；市场法规改革允许 VPP 直接参与与煤电、气电的市场竞争；参与 VPP 的家储用户年收益在 $300–$1,000+（不同计划和电池容量有差异）（来源：[VPP Offers in Australia 2026 — Energy Matters](https://www.energymatters.com.au/vpp-offer/) `[2026]`；[Virtual Power Plants in Australia: 2026 Guide — Australian Battery Quotes](https://australianbatteryquotes.com.au/vpp-australia-2026-guide/) `[2026]`）
 
 #### PM 解读
 
