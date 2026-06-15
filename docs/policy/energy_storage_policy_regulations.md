@@ -125,6 +125,7 @@
 > - [EU Members Mixed Progress on Energy Storage — Energy Storage News](https://www.energy-storage.news/european-union-members-make-mixed-progress-in-implementing-energy-storage-strategies/) `[2025-04]`
 
 - `[2026-06-14 更新]` **2026-08-18 电池标注新要求即将生效**：EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地，电池须标注制造商信息、化学成分、重量、容量、制造日期及预期寿命；不可充电电池须加贴专用符号；EV 电池须在标签上显示碳足迹数据；电池体积过小时，须在包装或随附文件上体现相关信息（来源：[EU Battery Regulation 2026: What Retailers Must Know — Impala Services](https://www.impala-services.com/blog/eu-battery-regulation-technical-documentation-retailers) `[2026]`）
+- `[2026-06-14 更新]` **EU 各成员国须在 2026-07 前完成灵活性评估，2027-01 前设定储能目标**：根据 EU 电力市场设计（Electricity Market Design）改革要求，ACER 已于 2025-07 批准欧盟统一的非化石灵活性需求评估方法论；各成员国须在 **2026-07 前**完成并提交国家灵活性评估报告，并于 **2027-01 前**设定包含储能子目标的非化石灵活性指示性目标；ACER 将于 2027-07 发布欧盟层面汇总报告（来源：[ACER approves EU-wide methodology to assess national electricity flexibility needs — ACER](https://www.acer.europa.eu/news/acer-approves-eu-wide-methodology-assess-national-electricity-flexibility-needs) `[2025-07]`；[EU energy flexibility trends 2026 — electron.net](https://electron.net/energy-flexibility-trends-updates-european-union-eu/) `[2026]`）
 
 #### PM 解读
 
@@ -202,6 +203,7 @@
 - `[2026-06-14 更新]` **2026 年负电价小时数同比激增约 50%**：据 EPEX Spot 数据，2026 年德国负电价小时数相较 2025 年（576 小时）增幅约 50%，4 月因日照时长增加最为集中；太阳能捕获系数（solar capture factor）从 2025-04 的约 0.40 骤降至 2026-04 的约 0.26（跌幅约三分之一）；配储能系统可规避负电价窗口（来源：[Germany Power Prices Turn Deeply Negative — Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge) `[2026-04]`；[Solar Capture Factors Fall Across Europe — PV Magazine](https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/) `[2026-05]`）
 - `[2026-06-14 更新]` **2026 Q1 市场数据：住宅光伏降、储能创新高**：Q1 2026 德国住宅光伏新增同比下降 21%（至 850 MW），但储能新增创历史纪录——2 GWh（同比 +67%），其中 1 MWh 以上大型储能同比近四倍增长（超 1 GWh）；德国太阳能协会呼吁"简化光储协同监管框架"（来源：[German Solar Association confirms more storage, less solar — ESS News](https://www.ess-news.com/2026/05/04/german-solar-association-confirms-more-storage-less-solar-capacity-installed-in-q1-2026/) `[2026-05]`；[Drop in residential solar drives German PV down Q1 2026 — PV Tech](https://www.pv-tech.org/drop-in-residential-solar-drives-german-pv-installations-down-in-q1-2026/) `[2026]`）
 - `[2026-06-14 更新]` **iMSys 部署执法提速**：2026-03 下旬，BNetzA 对 77 家尚未启动智能电表部署的计量点运营商启动执法程序，威胁合规罚款（来源：[How is the German Smart Meter Rollout Progressing? — FfE](https://www.ffe.de/en/publications/how-is-the-german-smart-meter-rollout-progressing/) `[2026]`）
+- `[2026-06-14 更新]` ⚠️ **信息更新：VDE-AR-N 4105:2026-03（2026-03-01 生效）正式取消 2,000 Wp 组件上限**：新版并网连接标准废除 Solarpaket I 所设的 2,000 Wp 模组功率上限；在 800 VA 并网馈电上限不变的前提下，允许阳台光伏配备更大功率组件（实测配置可达 5-10 kWp），将日间多余电力存入电池而非馈网；含储能系统的阳台光伏被正式纳入简化注册流程，无需专业电工介入，用户可自行填写专用表格完成 Marktstammdatenregister 注册（来源：[New German rule allows larger plug-in PV without electrician — PV Magazine](https://www.pv-magazine.com/2026/04/08/new-german-rule-allows-larger-plug-in-pv-without-electrician/) `[2026-04]`；[New German allowances give further boosts for plug-in PV and storage — ESS News](https://www.ess-news.com/2026/04/10/new-german-allowances-give-further-boosts-for-plug-in-pv-and-storage/) `[2026-04]`）
 
 #### PM 解读
 
@@ -245,6 +247,7 @@
 
 - `[2026-06-14 更新]` **EIB 支持 €5.07 亿意大利光储项目（2026-03）**：欧洲投资银行宣布支持意大利 €5.07 亿太阳能+储能项目计划，利好大型储能市场扩张（来源：[EIB Backs €507 Million Solar and Storage Programme in Italy — Funds for NGOs](https://news.fundsforngos.org/2026/03/18/eib-backs-e507-million-solar-and-storage-programme-in-italy/) `[2026-03]`）
 - `[2026-06-14 更新]` **Ecobonus 65% 条件明确**：若光储安装结合建筑能效改造（需取得 APE 能效证书且能效等级提升），住宅税收抵扣比例可从 50% 提升至 65%，适用于 2026 年安装项目（来源：[Italy Superbonus Solar 2025-2026 — SurgePV](https://www.surgepv.com/blog/italy-superbonus-solar) `[2025]`）
+- `[2026-06-14 更新]` **Decreto Bollette（DL no. 21/2026，2026-02-24 通过）对 BESS 套利经济性构成隐患**：意大利政府批准"电费法令"，通过补贴气电燃气输送费及 EU ETS 排放权成本（从 2027-01-01 起生效），人为压低气电边际成本以降低终端电价；行业机构警告：此举将导致太阳能捕获价下滑超 30%，同时压缩峰谷价差和电价波动，直接削弱 BESS 套利收益；EU 委员会已对 ETS 补贴机制合法性提出异议（来源：[Italy's new energy provisions could boost gas use — PV Magazine](https://www.pv-magazine.com/2026/02/25/italys-new-energy-provisions-could-boost-gas-use-undermine-renewables-and-storage-competitiveness/) `[2026-02]`；[Italian Energy/Bills Decree DL Bollette — DLA Piper](https://www.dlapiper.com/en/insights/publications/2026/03/decreto-energia-bollette) `[2026-03]`）
 
 #### PM 解读
 
