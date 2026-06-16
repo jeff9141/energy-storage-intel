@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-06-15
+> 最后更新：2026-06-16
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -126,10 +126,11 @@
 
 - `[2026-06-14 更新]` **2026-08-18 电池标注新要求即将生效**：EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地，电池须标注制造商信息、化学成分、重量、容量、制造日期及预期寿命；不可充电电池须加贴专用符号；EV 电池须在标签上显示碳足迹数据；电池体积过小时，须在包装或随附文件上体现相关信息（来源：[EU Battery Regulation 2026: What Retailers Must Know — Impala Services](https://www.impala-services.com/blog/eu-battery-regulation-technical-documentation-retailers) `[2026]`）
 - `[2026-06-14 更新]` **EU 各成员国须在 2026-07 前完成灵活性评估，2027-01 前设定储能目标**：根据 EU 电力市场设计（Electricity Market Design）改革要求，ACER 已于 2025-07 批准欧盟统一的非化石灵活性需求评估方法论；各成员国须在 **2026-07 前**完成并提交国家灵活性评估报告，并于 **2027-01 前**设定包含储能子目标的非化石灵活性指示性目标；ACER 将于 2027-07 发布欧盟层面汇总报告（来源：[ACER approves EU-wide methodology to assess national electricity flexibility needs — ACER](https://www.acer.europa.eu/news/acer-approves-eu-wide-methodology-assess-national-electricity-flexibility-needs) `[2025-07]`；[EU energy flexibility trends 2026 — electron.net](https://electron.net/energy-flexibility-trends-updates-european-union-eu/) `[2026]`）
+- `[2026-06-16 更新]` **EU 委员会须在 2026-08-18 前发布电池护照委托法规，同期发布供应链尽职调查指南**：根据 EU 电池法规要求，欧盟委员会须在 **2026-08-18** 前发布委托法规（Delegated Act），详细规定数字电池护照的数据访问权限（公开数据 vs 受控数据分层）及护照信息录入、修改和更新规则；该委托法规是护照技术系统设计的关键输入——访问权限划定决定前端角色 UI 设计，更新规则决定数据管道架构；同期，委员会预计于 **2026-07** 发布供应链尽职调查实施指南，明确钴、锂、镍等关键原材料的供应链溯源路径要求（来源：[EU Battery Passport Regulation: What You Need to Know in 2026 — Base Battery Passport](https://base-batterypassport.com/blog/regulations-4/eu-battery-passport-regulation-57) `[2026]`；[DPP Timeline 2026-2030: Every Deadline — PassportCraft](https://passportcraft.com/insights/dpp-timeline-2026-2030-every-deadline) `[2026]`）
 
 #### PM 解读
 
-> **[2026-06-14]**
+> **[2026-06-16]**
 >
 > - 碳足迹合规是 2026-2027 年 EU 市场准入的**第一优先级事项**。不做 = 退出 EU 市场（无碳足迹申报 → 无 CE 认证 → 产品禁售）
 > - 碳足迹合规不是"填个表"，而是需要**六层软件系统全链路贯通**的系统工程：供应链数据采集 → LCA 计算引擎 → 电池护照平台 → BMS 固件改造 → 云平台扩展 → App 端展示
@@ -137,6 +138,7 @@
 > - `[家储]` 全面受影响（市场主力 5-15 kWh 全部 >2 kWh）；`[阳储]` 多数受影响（需逐一确认 2 kWh 边界）；`[移储]` 推迟至 2028，但大容量产品（如 DELTA Pro 3.6 kWh）需提前合规
 > - 性能等级标签（A/B/C/D）将成为新的竞争分层维度，LFP 路线在碳足迹等级上可能占优
 > - IEC 62133 vs IEC 62619 标准分野意味着不同产品线的 BMS 固件安全逻辑不能简单复用
+> - **2026-08-18 委托法规是电池护照系统设计的最后一块拼图**：委托法规将明确护照数据访问权限分层（谁可以看哪些字段）和信息更新规则。这是构建电池护照软件系统的关键输入——访问权限划分决定前端角色 UI 设计（不同身份可见字段不同），更新规则决定数据管道架构（谁能写入、谁能只读、何时触发更新）。2026-08-18 发布后应立即解读并同步更新系统设计，距 2027-02 电池护照强制生效仅剩约 6 个月
 >
 > **详细分析见 → [EU 碳足迹合规专题分析](eu_carbon_footprint_compliance_analysis.md)**（含六层架构拆解、不合规四级影响链路、产品线差异化影响、竞争格局分析、行动时间表）
 
@@ -206,10 +208,12 @@
 - `[2026-06-14 更新]` ⚠️ **信息更新：VDE-AR-N 4105:2026-03（2026-03-01 生效）正式取消 2,000 Wp 组件上限**：新版并网连接标准废除 Solarpaket I 所设的 2,000 Wp 模组功率上限；在 800 VA 并网馈电上限不变的前提下，允许阳台光伏配备更大功率组件（实测配置可达 5-10 kWp），将日间多余电力存入电池而非馈网；含储能系统的阳台光伏被正式纳入简化注册流程，无需专业电工介入，用户可自行填写专用表格完成 Marktstammdatenregister 注册（来源：[New German rule allows larger plug-in PV without electrician — PV Magazine](https://www.pv-magazine.com/2026/04/08/new-german-rule-allows-larger-plug-in-pv-without-electrician/) `[2026-04]`；[New German allowances give further boosts for plug-in PV and storage — ESS News](https://www.ess-news.com/2026/04/10/new-german-allowances-give-further-boosts-for-plug-in-pv-and-storage/) `[2026-04]`）
 - `[2026-06-15 更新]` **EEG 2027 内阁表决推迟，新目标日期 2026-06-24**：原定 2026-06-10 的内阁会议未就 EEG 2027 改革法案表决，经济部与环境部在"再调度条款"（Redispatch）及 ≤25 kWp 住宅光伏馈电补偿问题上存在分歧；新目标表决日期调整为 2026-06-24；最新研究警示：若取消小型住宅光伏固定馈电补偿（Einspeisevergütung）且无任何替代机制，典型 10 kW 系统投资回收期将从 15.6 年骤增至 30 年以上（来源：[Wohl weiter warten auf die EEG-Novelle im Kabinett — PV Magazine Deutschland](https://www.pv-magazine.de/2026/05/26/wohl-weiter-warten-auf-die-eeg-novelle-im-kabinett/) `[2026-05]`；[EEG 2027: Studie warnt vor 30 Jahren Amortisation — EMA Energiewelt](https://ema-energiewelt.de/wissen/eeg-2027-amortisation-30-jahre-kabinett-vertagt) `[2026-06]`）
 - `[2026-06-15 更新]` **BNetzA 发布 AgNes 电网费改革方案（2026-05-27），大型 BESS 获政策利好**：联邦网络局（BNetzA）公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes）初步方案，核心内容：① 现有 BESS 暂不纳入电网费征缴范围（逆转 2026-01 信号）；② **祖父条款**：2029-08-04 前并网、且在 AgNes 最终决定（预计 2026 年底）前完成最终投资决策（FID）的项目获完整豁免；③ 未来新项目适用纯容量电网费，约 €4,000–7,000/MW/年，**无电量计费分量**；④ 2023-01-01 前并网老项目的"可避免电网费"（Vermiedene Netzentgelte）将逐步退出：2026 年削减 25%、2027 年削减 50%、2028 年削减 75%；BNetzA 认为整体方案对储能呈净正面效果，但业界指出大型独立储能受益、光伏配储及产消者（Prosumer）负担加重（来源：[Major German BESS outcomes: Grid fee exemptions remain — ESS News](https://www.ess-news.com/2026/05/28/major-german-bess-outcomes-grid-fee-exemptions-remain-higher-costs-for-prosumers/) `[2026-05]`；[German grid fees: Regulator unveils near-best-case for BESS — Modo Energy](https://modoenergy.com/research/germany-grid-fees-agnes-netzentgelte-bess-batteries-bnetza-update-capacity-fees-may-2026) `[2026-05]`）
+- `[2026-06-16 更新]` **MiSpeL（储能与充电桩市场整合法规）预计 2026-06-30 前完成 BNetzA 认定程序**：MiSpeL（Marktintegration von Speichern und Ladepunkten）核心突破：共址（co-location）场景下，BESS 充入非 100% 可再生电力也不再丧失 EEG 补贴资格，允许按市场电价优化充放电策略；BNetzA 须在 **2026-06-30** 前完成 EEG 电量认定程序；两种核算方案：包干方案（Pauschaloption，适合小型系统，简化核算）和分割方案（Abgrenzungsoption，精准计量能量流向，适合大型商业系统）；认定程序完成后，电网运营商尚需 6–12 个月完成系统适配，预计实际影响在 2027 年初显现（来源：[Understanding MiSpeL: New Regulatory Framework for German Co-located Storage — GridCog](https://www.gridcog.com/blog/understanding-mispel-the-new-regulatory-framework-for-german-co-located-storage) `[2026]`；['Moment of truth': 2026 regulatory agenda for large battery storage in Germany — Energy-Storage.News](https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/) `[2026]`）
+- `[2026-06-16 更新]` **德国 BESS 累计装机达 17.9 GW / 27.2 GWh（2026-04），大型储能季度新增首次超越住宅端**：截至 2026-04，德国电池储能累计装机 17.9 GW / 27.2 GWh；2026 年 Q1 大型商用/公用 BESS 季度新增容量**7 年来首次超越住宅端**，与 Q1 储能装机总量同比 +67%（创历史纪录）相印证，德国储能市场正进入"商业化规模化"阶段（来源：[BESS Market Germany 2026: Trends & Growth Analysis — Mobility House Energy](https://mobilityhouse-energy.com/int_en/knowledge-center/article/bess-in-germany-market-overview-2026) `[2026]`）
 
 #### PM 解读
 
-> **[2026-06-15]**
+> **[2026-06-16]**
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
 > - **负电价窗口规避是家储 App 的核心卖点场景**：2025-02 政策意味着用户在 EPEX 现货价为负时馈电收益为零。App 必须集成 EPEX 实时电价数据，并实现"负电价窗口自动充电、正电价窗口放电/馈电"的智能调度。这不是 AI 花活，而是直接影响用户收益的刚需功能
 > - **800W 馈电上限对阳储微逆固件提出精准控制要求**：VDE V 0126-95 明确 800W 上限，意味着微逆固件必须实现精准的功率钳位（power clamping），超限馈电可能导致合规风险。App 端需要实时展示当前馈电功率和限值状态，让用户可见可信
@@ -217,6 +221,7 @@
 > - **Schuko 960 Wp 限制是产品定义的边界约束**：使用 Schuko 插头时模组不能超 960 Wp，这意味着阳储产品如果要支持 Schuko 场景，硬件功率上限已被政策锁死。App 里需要在安装引导流程中区分 Schuko vs Wieland 两种场景的功率配置
 > - **EEG 2027 内阁表决悬而未决，但储能的结构性刚需已不可逆**：EEG 2027 若取消 ≤25 kWp 住宅光伏固定馈电补偿且无替代机制，新装系统 ROI 从 15.6 年拉长至 30 年以上——除非配储能规避负电价窗口并提升自消费率。6 月 24 日内阁无论是否通过，这个方向已在市场层面形成共识。App 应提前备好"光储捆绑 ROI 计算器"：用户输入系统参数后，对比"纯光伏 vs 光储组合"两条回收曲线，让 30 年 vs 10 年的对比自己说话
 > - **AgNes 对家储存量用户是隐性负面，收益数字必须更新**：BNetzA 确认大型独立 BESS 获电网费豁免（2029-08 前并网 + 2026 年底前 FID），利好商业项目。但 2023-01-01 前并网的老住宅光储系统，"可避免电网费"（Vermiedene Netzentgelte）将在 2026–2028 年累计削减 75%。App 端若仍展示基于旧数据的年度预估收益，会向存量用户呈现失真数字，造成信任风险——需要接入最新电网费数据源，并在界面上标注"收益测算截至 XXXX，电网费变化已纳入计算"
+> - **MiSpeL 是 2026 年德国大型储能 EMS 策略的重大解绑**：共址 BESS 不再要求 100% 可再生电力充入才能保留 EEG 补贴，意味着 EMS 算法可以从"最大化绿电消纳"切换为"最大化市场套利"——日间光伏富余时充入，夜间高价时放出，两者不再互斥。对家储产品的直接影响相对有限（住宅规模不涉及 EEG 认定），但对同时拥有商业储能业务线的厂商，MiSpeL 意味着 EMS 算法需要增加"EEG 电量分割核算"模块：在包干方案下自动估算可再生电力比例，在分割方案下接入精准计量数据源，满足 BNetzA 合规要求的同时最大化套利收益
 
 ---
 
@@ -441,14 +446,17 @@
 **详细分析见 → [英国 Warm Homes Plan & Social Housing 专题分析](uk_warm_homes_plan_analysis.md)**（含 ECO4 终局、WHP 三层资金结构、Social Housing 批量部署、安装商工具规划、EPC Smart Readiness 战略窗口）
 
 - `[2026-06-15 更新]` **英国容量市场 T-4 拍卖（2029/30 交付年）：BESS 斩获 1.22 GW**：国家能源系统运营商（NESO）在 T-4 长期容量市场拍卖中为 2029/30 交付年采购 1.22 GW 去额定 BESS 容量，清算价格 £27.10/kW/年（2022 年以来最低 T-4 清算价），在建项目占获批容量的绝大多数；结合 T-1 拍卖（576 MW，2026/27 交付年）来看，英国容量市场 2026 年已为储能锁定超 1.8 GW 合同容量（来源：[Batteries awarded 1.22 GW in UK capacity market auction for 2029 delivery — ESS News](https://www.ess-news.com/2026/03/11/batteries-awarded-1-22-gw-in-uk-capacity-market-auction-for-2029-delivery/) `[2026-03]`）
+- `[2026-06-16 更新]` **BS 7671:2018 Amendment 4（2026-04-15 发布）引入电池安全安装新标准，2026-10-15 起强制适用**：英国电气布线法规 BS 7671:2018 第四号修订案正式引入独立的"固定式蓄电池"专章，涵盖家用及商用储能系统；核心要求：① **明确禁止在阁楼（loft）或逃生路线（楼梯、走廊等）安装电池**，以降低热失控扩散风险；② 安装位置须具备充足通风、可维护性和紧急隔离点（safe isolation point）；③ 从 **2026-10-15** 起所有新建住宅电池安装须符合 Amendment 4 要求；违规安装将影响保险理赔及房屋售出前的 EPC 认证（来源：[New rules ban home batteries from lofts in UK homes — Homebuilding](https://www.homebuilding.co.uk/eco-homes/energy/home-battery-systems-banned-from-lofts-under-new-wiring-rules) `[2026]`；[Home Battery Installation Rules UK 2026 — Habo Energy](https://haboenergy.co.uk/home-battery-installation-rules-uk) `[2026]`）
+- `[2026-06-16 更新]` **Ofgem 长时储能（LDES）容量上限方案首批合同预计 2026 年中落地**：Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气等）提供收益稳定性保障（设置收益上限和下限），降低长期资本风险；首批合同签署预计于 **2026 年中**完成；LDES 激励与 BESS 参与容量市场形成互补，共同构建英国多时长储能政策矩阵（来源：[EU and UK Energy Storage Regulation 2026 — Morgan Lewis](https://www.morganlewis.com/pubs/2026/03/eu-and-uk-energy-storage-regulation-in-2026-and-beyond) `[2026-03]`；[Energy Storage Landscape 2026 — Energy Global](https://www.energyglobal.com/special-reports/14012026/energy-storage-landscape-2026-regulatory-developments-litigation-outlook-and-ma-trends-in-the-uk-and-eul/) `[2026]`）
 
 #### PM 解读
 
-> **[2026-06-15]**
+> **[2026-06-16]**
 > - **SEG 分时售电 + VPP 参与 = 英国家储 App 的核心能力矩阵**：最高 50p/kWh 的 SEG 分时电价意味着储能不再只是"省电"工具，而是"赚电费"工具。App 需要三层能力：① 分时电价数据集成（Octopus、British Gas 等零售商电价 API）；② 智能充放电调度（低价充、高价放）；③ VPP 接入（参与频率响应、容量市场等辅助服务）。这三层是递进关系，至少前两层是市场准入的基本要求
 > - **Warm Homes Plan 面向低收入群体，安装商 B 端工具需要适配补贴申请流程**：£150 亿预算中有大量资金通过安装商渠道落地。B 端工具（Installer App/Portal）如果能嵌入"Warm Homes Plan 资格查询 + 申请流程引导"，将是安装商选择合作品牌的加分项
 > - **ECO4 于 2026-12-31 终止，ECO5 已确认取消**：政府决定终结整个 ECO 框架，£1.5B 资金重新分配至 Warm Homes Plan。渠道链路从"能源供应商分包"变为"地方政府 → 安装商"，安装商需持有 TrustMark + PAS 2030:2023 认证
 > - **T-1 + T-4 合计超 1.8 GW，VPP 收益可视化应从差异化功能升级为 App 核心模块**：T-1 拍卖（576 MW，2026/27 交付）+ T-4 拍卖（1.22 GW，2029/30 交付）合计超 1.8 GW 容量市场合同，确认英国是欧洲 BESS 参与电力市场最成熟的国家。对家储 App 的含义：VPP 收益不再是"未来可能有"的叙事，而是已经发生的真实收入来源——App 首屏应该展示"昨天 VPP 帮你赚了 £X"，而不是把 VPP 功能埋在设置里等用户发现
+> - **BS 7671 Amendment 4 禁止阁楼安装，重塑英国家储安装规范，安装商工具需同步升级**：历史上相当比例的英国住宅电池安装在阁楼（空间充裕、不占生活区），Amendment 4 从 2026-10-15 起强制禁止此做法，违规安装影响保险和 EPC 认证。对产品端的含义：① 硬件需充分测试车库、外墙壁挂、地下室等替代安装场景的热管理性能；② 安装商工具（Installer App）需内置"Amendment 4 合规位置核查清单"，安装前自动判断候选位置是否满足通风/逃生/维护要求，避免安装商因不了解新规而将设备装在不合规位置引发的合规与保险纠纷；③ C 端 App 的安装引导流程须更新，明确告知用户禁止安装位置并给出合规替代位置示意图
 
 ---
 
