@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-06-16
+> 最后更新：2026-06-17
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -210,10 +210,11 @@
 - `[2026-06-15 更新]` **BNetzA 发布 AgNes 电网费改革方案（2026-05-27），大型 BESS 获政策利好**：联邦网络局（BNetzA）公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes）初步方案，核心内容：① 现有 BESS 暂不纳入电网费征缴范围（逆转 2026-01 信号）；② **祖父条款**：2029-08-04 前并网、且在 AgNes 最终决定（预计 2026 年底）前完成最终投资决策（FID）的项目获完整豁免；③ 未来新项目适用纯容量电网费，约 €4,000–7,000/MW/年，**无电量计费分量**；④ 2023-01-01 前并网老项目的"可避免电网费"（Vermiedene Netzentgelte）将逐步退出：2026 年削减 25%、2027 年削减 50%、2028 年削减 75%；BNetzA 认为整体方案对储能呈净正面效果，但业界指出大型独立储能受益、光伏配储及产消者（Prosumer）负担加重（来源：[Major German BESS outcomes: Grid fee exemptions remain — ESS News](https://www.ess-news.com/2026/05/28/major-german-bess-outcomes-grid-fee-exemptions-remain-higher-costs-for-prosumers/) `[2026-05]`；[German grid fees: Regulator unveils near-best-case for BESS — Modo Energy](https://modoenergy.com/research/germany-grid-fees-agnes-netzentgelte-bess-batteries-bnetza-update-capacity-fees-may-2026) `[2026-05]`）
 - `[2026-06-16 更新]` **MiSpeL（储能与充电桩市场整合法规）预计 2026-06-30 前完成 BNetzA 认定程序**：MiSpeL（Marktintegration von Speichern und Ladepunkten）核心突破：共址（co-location）场景下，BESS 充入非 100% 可再生电力也不再丧失 EEG 补贴资格，允许按市场电价优化充放电策略；BNetzA 须在 **2026-06-30** 前完成 EEG 电量认定程序；两种核算方案：包干方案（Pauschaloption，适合小型系统，简化核算）和分割方案（Abgrenzungsoption，精准计量能量流向，适合大型商业系统）；认定程序完成后，电网运营商尚需 6–12 个月完成系统适配，预计实际影响在 2027 年初显现（来源：[Understanding MiSpeL: New Regulatory Framework for German Co-located Storage — GridCog](https://www.gridcog.com/blog/understanding-mispel-the-new-regulatory-framework-for-german-co-located-storage) `[2026]`；['Moment of truth': 2026 regulatory agenda for large battery storage in Germany — Energy-Storage.News](https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/) `[2026]`）
 - `[2026-06-16 更新]` **德国 BESS 累计装机达 17.9 GW / 27.2 GWh（2026-04），大型储能季度新增首次超越住宅端**：截至 2026-04，德国电池储能累计装机 17.9 GW / 27.2 GWh；2026 年 Q1 大型商用/公用 BESS 季度新增容量**7 年来首次超越住宅端**，与 Q1 储能装机总量同比 +67%（创历史纪录）相印证，德国储能市场正进入"商业化规模化"阶段（来源：[BESS Market Germany 2026: Trends & Growth Analysis — Mobility House Energy](https://mobilityhouse-energy.com/int_en/knowledge-center/article/bess-in-germany-market-overview-2026) `[2026]`）
+- `[2026-06-17 更新]` **Reiche 在 BDEW 大会（2026-06-10）承诺夏休前提交内阁，并释放 Redispatch 关键妥协信号**：联邦经济部长 Reiche 在 BDEW 年会（柏林，2026-06-10）明确表态，EEG 改革草案和 Netzpaket（电网立法包）将在**夏季议会休会前**提交内阁；同时释放关键妥协信号——表示可放弃草案中业界强烈反对的"Redispatch 预留条款"（允许电网运营商在瓶颈时段切断风电/光伏馈电且不予补偿），该条款是导致内阁推迟（从 6-10 延至 6-24）的两大核心争点之一；Reiche 让步后内阁通过可能性大幅提升；SPD 与 Union 在 Netzpaket 部分细节上仍存分歧，但整体立法推进势头明显加速（来源：[Reiche auf BDEW-Kongress 2026: EEG und Netzpaket noch vor der Sommerpause ins Kabinett — PV Magazine Deutschland](https://www.pv-magazine.de/2026/06/10/reiche-auf-bdew-kongress-2026-eeg-und-netzpaket-noch-vor-der-sommerpause-ins-kabinett/) `[2026-06]`；[BDEW-Kongress: Reiche zeigt sich bei Energiewende kompromissbereit — T-Online](https://www.t-online.de/finanzen/energie/id_101292472/bdew-kongress-reiche-zeigt-sich-bei-energiewende-kompromissbereit.html) `[2026-06]`）
 
 #### PM 解读
 
-> **[2026-06-16]**
+> **[2026-06-17]**
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
 > - **负电价窗口规避是家储 App 的核心卖点场景**：2025-02 政策意味着用户在 EPEX 现货价为负时馈电收益为零。App 必须集成 EPEX 实时电价数据，并实现"负电价窗口自动充电、正电价窗口放电/馈电"的智能调度。这不是 AI 花活，而是直接影响用户收益的刚需功能
 > - **800W 馈电上限对阳储微逆固件提出精准控制要求**：VDE V 0126-95 明确 800W 上限，意味着微逆固件必须实现精准的功率钳位（power clamping），超限馈电可能导致合规风险。App 端需要实时展示当前馈电功率和限值状态，让用户可见可信
@@ -222,6 +223,7 @@
 > - **EEG 2027 内阁表决悬而未决，但储能的结构性刚需已不可逆**：EEG 2027 若取消 ≤25 kWp 住宅光伏固定馈电补偿且无替代机制，新装系统 ROI 从 15.6 年拉长至 30 年以上——除非配储能规避负电价窗口并提升自消费率。6 月 24 日内阁无论是否通过，这个方向已在市场层面形成共识。App 应提前备好"光储捆绑 ROI 计算器"：用户输入系统参数后，对比"纯光伏 vs 光储组合"两条回收曲线，让 30 年 vs 10 年的对比自己说话
 > - **AgNes 对家储存量用户是隐性负面，收益数字必须更新**：BNetzA 确认大型独立 BESS 获电网费豁免（2029-08 前并网 + 2026 年底前 FID），利好商业项目。但 2023-01-01 前并网的老住宅光储系统，"可避免电网费"（Vermiedene Netzentgelte）将在 2026–2028 年累计削减 75%。App 端若仍展示基于旧数据的年度预估收益，会向存量用户呈现失真数字，造成信任风险——需要接入最新电网费数据源，并在界面上标注"收益测算截至 XXXX，电网费变化已纳入计算"
 > - **MiSpeL 是 2026 年德国大型储能 EMS 策略的重大解绑**：共址 BESS 不再要求 100% 可再生电力充入才能保留 EEG 补贴，意味着 EMS 算法可以从"最大化绿电消纳"切换为"最大化市场套利"——日间光伏富余时充入，夜间高价时放出，两者不再互斥。对家储产品的直接影响相对有限（住宅规模不涉及 EEG 认定），但对同时拥有商业储能业务线的厂商，MiSpeL 意味着 EMS 算法需要增加"EEG 电量分割核算"模块：在包干方案下自动估算可再生电力比例，在分割方案下接入精准计量数据源，满足 BNetzA 合规要求的同时最大化套利收益
+> - **Redispatch 妥协信号落地，EEG 2027 内阁审议可期，产品路线图应立即解锁**：经济部长在 BDEW 大会公开承诺夏休前审议且明确放弃 Redispatch 条款，将 EEG 2027 内阁表决确定性从"不明朗"升级为"大概率通过"。产品规划不应继续观望——≤25 kWp 住宅光伏取消固定馈电补偿（配储豁免 50% 馈电上限）和 iMSys 门槛降至 2 kW 两条核心条款几乎必然进入最终法案。建议立即将"光储 ROI 双轨计算器（纯光伏 vs 光储对比曲线）"和"iMSys 智能电表接入兼容适配"排入 2026 Q3 开发计划，无需等待立法最终通过
 
 ---
 
