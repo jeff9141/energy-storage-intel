@@ -373,7 +373,21 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [German Solar Association confirms more storage, less solar — ESS News](https://www.ess-news.com/2026/05/04/german-solar-association-confirms-more-storage-less-solar-capacity-installed-in-q1-2026/) `[2026-05]`
 > - [Drop in residential solar drives German PV down Q1 2026 — PV Tech](https://www.pv-tech.org/drop-in-residential-solar-drives-german-pv-installations-down-in-q1-2026/) `[2026]`
 
-- `[2026-06-19 更新]` **StromVKG（Strom-Versorgungssicherheits- und Kapazitätengesetz，电力供应安全与容量法）草案**于 2026-04-24 正式发布（原 Kraftwerksstrategie）。目标新增 **11 GW** 备用容量：其中 **9 GW** 针对氢气就绪型燃气机组（须满足 10 小时满负荷标准）、**2 GW** 技术中立向储能开放。首轮拍卖计划于 2026-09 启动。能源经济学家和行业协会警告：9/2 容量比实质上确立"气优储劣"基准，独立大型 BESS 被排除在主体补贴体系之外，仅靠 EPEX 套利和 AgNes 容量费收益，投资回报路径需重新建模（来源：[Kraftwerksstrategie konkretisiert sich — GÖRG](https://www.goerg.de/de/aktuelles/veroeffentlichungen/24-04-2026/kraftwerksstrategie-konkretisiert-sich-der-referentenentwurf-zum-stromvkg-liegt-vor) `[2026-04]`；[SMC-Studie StromVKG: 11 GW Lücke — CleanThinking](https://www.cleanthinking.de/smc-studie-kraftwerksstrategie-stromvkg/) `[2026-04]`）
+### 2.9 电力供应安全与容量法（StromVKG） `[工商储]`
+
+#### Referentenentwurf（部级草案） `[立法进行中]`
+
+**政策正文概述：** StromVKG（原 Kraftwerksstrategie）草案于 2026-04-24 发布，目标新增 **11 GW** 备用容量：其中 **9 GW** 针对氢气就绪型燃气机组（须满足 10 小时满负荷标准），**2 GW** 技术中立向储能开放。9/2 容量比实质上确立"气优储劣"基准，独立大型 BESS 被排除在主体补贴体系之外。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-04-24 | 部级草案（Referentenentwurf）正式发布 |
+| **2026-09（计划）** | **首轮容量拍卖启动** |
+
+> **来源：**
+> - [Kraftwerksstrategie konkretisiert sich — GÖRG](https://www.goerg.de/de/aktuelles/veroeffentlichungen/24-04-2026/kraftwerksstrategie-konkretisiert-sich-der-referentenentwurf-zum-stromvkg-liegt-vor) `[2026-04]`
+> - [SMC-Studie StromVKG: 11 GW Lücke — CleanThinking](https://www.cleanthinking.de/smc-studie-kraftwerksstrategie-stromvkg/) `[2026-04]`
 
 #### PM 解读
 
@@ -472,7 +486,24 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Italy's energy storage needs could reach 170 GWh by 2035 — ESS News](https://www.ess-news.com/2026/06/12/italys-energy-storage-needs-could-reach-170-gwh-by-2035/) `[2026-06]`
 > - [EIB Backs €507 Million Solar and Storage Programme in Italy — Funds for NGOs](https://news.fundsforngos.org/2026/03/18/eib-backs-e507-million-solar-and-storage-programme-in-italy/) `[2026-03]`
 
-- `[2026-06-19 更新]` **MACSE 第二轮拍卖**：Terna 确认第二轮 MACSE 储能容量拍卖于 **2026-11-24** 举行，目标容量 **16 GWh**（为 2029 年交付），较第一轮（2025-10-01，10 GWh）规模扩大 60%。参与时间表：申请窗口 7 月 7–27 日、文件上传截止 9 月 10 日、保证金及声明截止 10 月 20 日。南部及卡拉布里亚区上限升至 11.5 GWh，西西里区下限翻倍至 1 GWh（来源：[Italy sets November date for MACSE storage auction targeting 16 GWh — ESS News](https://www.ess-news.com/2026/06/02/italy-sets-november-date-for-macse-storage-auction-targeting-16-gwh/) `[2026-06]`；[Italy's MACSE 2026: bigger volumes, same rules — Modo Energy](https://modoenergy.com/research/en/italy-macse-2026-auction-bess-rules-terna) `[2026]`）
+### 3.6 储能容量拍卖（MACSE） `[工商储]`
+
+#### 第二轮拍卖 `[已确认]`
+
+**政策正文概述：** Terna 确认第二轮 MACSE 储能容量拍卖于 **2026-11-24** 举行，目标容量 **16 GWh**（2029 年交付），较第一轮（2025-10-01，10 GWh）规模扩大 60%。南部及卡拉布里亚区上限升至 11.5 GWh，西西里区下限翻倍至 1 GWh。
+
+**参与时间表：**
+| 时间 | 事件 |
+|------|------|
+| 2025-10-01 | 第一轮拍卖完成（10 GWh） |
+| **2026-07-07 至 07-27** | **第二轮申请窗口** |
+| 2026-09-10 | 系统资格认证文件上传截止 |
+| 2026-10-20 | 保证金及声明截止 |
+| **2026-11-24** | **第二轮拍卖（16 GWh）** |
+
+> **来源：**
+> - [Italy sets November date for MACSE storage auction targeting 16 GWh — ESS News](https://www.ess-news.com/2026/06/02/italy-sets-november-date-for-macse-storage-auction-targeting-16-gwh/) `[2026-06]`
+> - [Italy's MACSE 2026: bigger volumes, same rules — Modo Energy](https://modoenergy.com/research/en/italy-macse-2026-auction-bess-rules-terna) `[2026]`
 
 #### PM 解读
 
@@ -1022,13 +1053,21 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 | **爱尔兰** | `[家储]` | 已建立完整的储能监管框架 | 截至 2025-04 |
 | **葡萄牙** | `[家储]` | 已建立完整的储能监管框架 | 截至 2025-04 |
 | **希腊** | `[家储]` | 储能政策早期阶段 | 截至 2025-04 |
-| **罗马尼亚** | `[家储]` | 储能政策早期阶段 | 截至 2025-04 |
+| **罗马尼亚** | `[工商储]` | EC 批准 €1.5 亿独立储能补贴计划（现代化基金） | 2026-03 |
 | **匈牙利** | `[家储]` | 储能政策早期阶段 | 截至 2025-04 |
 
 > **来源：**
 > - [EU Members Make Mixed Progress on Energy Storage — Energy Storage News](https://www.energy-storage.news/european-union-members-make-mixed-progress-in-implementing-energy-storage-strategies/) `[2025-04]`
 
-- `[2026-06-19 更新]` **罗马尼亚**：欧盟委员会于 2026-03-09 批准罗马尼亚 **€1.5 亿**独立储能补贴计划（通过 EU 现代化基金资助），目标部署至少 **2,174 MWh** 独立储能；每 MWh 最高补贴 €69,000，单项目上限 €1,500 万，最高覆盖 100% 合规成本；竞争性招标，部署须于 2030 年前完成（来源：[European Commission approves Romania's battery storage subsidy scheme — ESS News](https://www.ess-news.com/2026/03/09/european-commission-approves-romanias-battery-storage-subsidy-scheme/) `[2026-03]`；[Commission approves €150 million Romanian State aid scheme — EC](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_524) `[2026-03]`）
+### 14.1 罗马尼亚独立储能补贴 `[工商储]`
+
+#### EU 现代化基金补贴计划 `[已批准]`
+
+**政策正文概述：** 欧盟委员会于 2026-03-09 批准罗马尼亚 **€1.5 亿**独立储能补贴计划（通过 EU 现代化基金资助），目标部署至少 **2,174 MWh** 独立储能。每 MWh 最高补贴 €69,000，单项目上限 €1,500 万，最高覆盖 100% 合规成本。竞争性招标，部署须于 2030 年前完成。
+
+> **来源：**
+> - [European Commission approves Romania's battery storage subsidy scheme — ESS News](https://www.ess-news.com/2026/03/09/european-commission-approves-romanias-battery-storage-subsidy-scheme/) `[2026-03]`
+> - [Commission approves €150 million Romanian State aid scheme — EC](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_524) `[2026-03]`
 
 #### PM 解读
 
@@ -1069,13 +1108,14 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 | 州 | 政策 | 状态 |
 |----|------|------|
 | **新南威尔士（NSW）** | VPP 激励：加入 VPP 的 2-28 kWh 电池可获 $60-$1,680 证书 | 有效（电池补贴已终止，仅 VPP 激励存续） |
-| **维多利亚（VIC）** | 免息贷款计划（Solar Victoria） | **已关闭** |
+| **维多利亚（VIC）** | 免息贷款计划（Solar Victoria）**已关闭**；2026-07-01 起补贴收入门槛从 $210,000 降至 **$150,000** | 收紧中 |
 | **昆士兰（QLD）** | Battery Booster Loan and Rebate：免息贷款最高 $6,000 + 补贴最高 $3,000 | **已关闭** |
-| **南澳（SA）** | REPS 认证 VPP 补贴，最高 $2,050 | 有效 |
+| **南澳（SA）** | REPS 认证 VPP 补贴，最高 $2,050；⚠️ 2026-04-07 起 VPP1 暂停，2026-05-05 起非优先群体无法申请，仅 Amber SmartShift 优先群体可申 | 收紧中 |
 | **西澳（WA）** | 需跟踪具体方案 | 待确认 |
 
-- `[2026-06-19 更新]` **南澳（SA）REPS VPP 补贴收紧**：自 2026-04-07 起 VPP1 申请暂停，自 2026-05-05 起非优先群体（non-priority group）无法申请 REPS 补贴；当前仅 Amber SmartShift 优先群体用户可申请，最高 $2,050 补贴的实际受益群体大幅缩窄（来源：[Understanding REPS in South Australia and what's changing in 2026 — MAC Trade Services](https://mactradeservices.com.au/understanding-reps-in-south-australia-and-whats-changing-in-2026) `[2026]`）
-- `[2026-06-19 更新]` **维多利亚（VIC）Solar 补贴收入门槛下调**：自 2026-07-01 起，申请维州太阳能相关补贴的合并家庭年收入上限从 $210,000 降至 **$150,000**；2026-06-30 17:00 前提交申请仍适用旧标准（来源：[Solar Battery Rebate VIC — Zero Energy Australia](https://zeroenergygroup.com.au/solar-battery-rebate-victoria-everything-you-need-to-know-before-applying-2026-edition/) `[2026]`）
+> **来源（州级政策更新）：**
+> - [Understanding REPS in South Australia and what's changing in 2026 — MAC Trade Services](https://mactradeservices.com.au/understanding-reps-in-south-australia-and-whats-changing-in-2026) `[2026]`
+> - [Solar Battery Rebate VIC — Zero Energy Australia](https://zeroenergygroup.com.au/solar-battery-rebate-victoria-everything-you-need-to-know-before-applying-2026-edition/) `[2026]`
 
 ### 15.4 阳台/便携储能 `[阳储]` `[移储]`
 
