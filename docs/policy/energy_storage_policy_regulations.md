@@ -10,6 +10,7 @@
 | `[家储]` | 家庭储能（Home Storage） |
 | `[阳储]` | 阳台储能（Balcony Storage / Balkonkraftwerk） |
 | `[移储]` | 便携/移动储能（Portable Power Station） |
+| `[工商储]` | 工商业/公用级储能（C&I / Utility-scale BESS） |
 | `[通用]` | 适用所有储能品类 |
 
 **常用单位说明：**
@@ -169,24 +170,69 @@
 ### 2.3 馈电政策 `[家储]`
 
 - `[2025-02]` **Solarspitzengesetz（太阳能峰值法）生效**：所有 >2 kWp 新系统在 EPEX 现货价格为负的任何 15 分钟区间内，馈电补偿为零；新系统馈电功率限制为 60%（除非安装智能电表）；>2 kWp 新系统强制安装智能电表（iMSys）
-- `[2025]` 德国全年负电价小时数达 576 小时（同比 +26%），日间 10:00-15:00 集中出现
 - `[2025-04]` **§14a EnWG Modul 3 生效**：分时动态电网费（高/中/低三档），可控负载设备可节省超过 12 ct/kWh 电网费价差
 - `[2026-12]` EEG 2023 国家援助审批到期，德国正推动从固定馈电补贴转向市场化机制
 - **影响**：配储能的系统可规避负电价窗口，储能配套从"锦上添花"变为"经济性刚需"
 
 **详细分析见 → [德国馈电政策专题分析](germany_feed_in_policy_analysis.md)**（含 EMS 算法需求、§14a 动态电网费、VPP 生态、竞品对标、四层软件架构拆解、分阶段实施路线）
 
+**负电价趋势** `[持续恶化]`
+
+德国负电价小时数持续攀升，日间 10:00-15:00 集中出现，太阳能捕获系数（solar capture factor）同步下滑。配储能系统可规避负电价窗口。
+
+| 年份 | 负电价小时数 | 同比 | 太阳能捕获系数（4月） |
+|------|-------------|------|----------------------|
+| 2025 | 576 小时 | +26% | ~0.40 |
+| 2026 | ~864 小时（估） | ~+50% | ~0.26（跌幅约 1/3） |
+
+> **来源：**
+> - [Germany Power Prices Turn Deeply Negative — Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge) `[2026-04]`
+> - [Solar Capture Factors Fall Across Europe — PV Magazine](https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/) `[2026-05]`
+
+**EEG 2027 改革（Referentenentwurf）** `[立法进行中]`
+
+BMWK 于 2026-02-27 发布 442 页草案，核心条款：① 2027-01-01 起，新建 <25 kWp 住宅光伏系统取消固定 EEG 馈电补偿（Einspeisevergütung），全部强制转向市场化 Direktvermarktung；② 小型光伏系统设定 50% 馈电功率永久上限，配储能系统可豁免；③ 强制安装 iMSys 的装机门槛从 7 kW 降至 2 kW；④ 屋顶光伏拍卖规模从 2,300 MW/年削减至 1,500 MW/年（2027-2032），地面电站从 9,900 MW 扩大至 14,000 MW；⑤ 草案同时提出加大电池储能投资激励，定位储能为光伏标准配置。若取消固定馈电补偿且无替代机制，典型 10 kW 系统投资回收期将从 15.6 年骤增至 30 年以上。
+
+> **进展追踪**
+> - `[2026-02-27]` BMWK 发布部级草案（Referentenentwurf），442 页，尚未进入正式立法程序
+> - `[2026-06-10]` 原定内阁表决未进行，经济部与环境部在 Redispatch 条款及 ≤25 kWp 馈电补偿问题上存在分歧
+> - `[2026-06-10]` Reiche 在 BDEW 年会承诺夏休前提交内阁，明确放弃 Redispatch 预留条款（关键妥协信号）
+> - `[2026-06-15]` 新目标表决日期调整为 2026-06-24
+
+> **来源：**
+> - [Germany's EEG 2027 Draft: A New Era for Renewables — Freshfields](https://www.freshfields.com/en/our-thinking/blogs/sustainability/germanys-eeg-2027-draft-a-new-era-for-renewables-102mrfg) `[2026]`
+> - [EEG 2027 – Overview — Taylor Wessing](https://www.taylorwessing.com/en/insights-and-events/insights/2026/03/eeg-2027-die-geplante-novelle-des-erneuerbare-energien-gesetzes-im-ueberblick) `[2026-03]`
+> - [Wohl weiter warten auf die EEG-Novelle im Kabinett — PV Magazine Deutschland](https://www.pv-magazine.de/2026/05/26/wohl-weiter-warten-auf-die-eeg-novelle-im-kabinett/) `[2026-05]`
+> - [EEG 2027: Studie warnt vor 30 Jahren Amortisation — EMA Energiewelt](https://ema-energiewelt.de/wissen/eeg-2027-amortisation-30-jahre-kabinett-vertagt) `[2026-06]`
+> - [Reiche auf BDEW-Kongress 2026 — PV Magazine Deutschland](https://www.pv-magazine.de/2026/06/10/reiche-auf-bdew-kongress-2026-eeg-und-netzpaket-noch-vor-der-sommerpause-ins-kabinett/) `[2026-06]`
+> - [BDEW-Kongress: Reiche zeigt sich kompromissbereit — T-Online](https://www.t-online.de/finanzen/energie/id_101292472/bdew-kongress-reiche-zeigt-sich-bei-energiewende-kompromissbereit.html) `[2026-06]`
+
+**iMSys 智能电表部署** `[执法加速中]`
+
+EEG 2027 草案将强制安装门槛从 7 kW 降至 2 kW，覆盖几乎所有家储用户。BNetzA 于 2026-03 下旬对 77 家未启动部署的计量点运营商启动执法程序，威胁合规罚款。
+
+> **来源：**
+> - [How is the German Smart Meter Rollout Progressing? — FfE](https://www.ffe.de/en/publications/how-is-the-german-smart-meter-rollout-progressing/) `[2026]`
+
 ### 2.4 阳台储能法规 `[阳储]`
 
 | 项目 | 内容 | 时间 |
 |------|------|------|
-| **组件功率上限** | 模组输出最高 2000 Wp | 2024-05 Solarpaket I 生效 |
-| **逆变器馈电上限** | 800W | 2024-05 Solarpaket I 生效 |
+| **组件功率上限** | ~~模组输出最高 2000 Wp~~（已取消） | 2024-05 Solarpaket I 设定；**2026-03 VDE 取消** |
+| **逆变器馈电上限** | 800W（800 VA），不变 | 2024-05 Solarpaket I 生效 |
 | **Schuko 插头限制** | 使用 Schuko 连接时，模组总输出不超过 960 Wp（800W 的 120% 技术缓冲） | 2025-12 VDE 标准明确 |
 | **技术标准** | DIN VDE V 0126-95 发布，规范模组功率、逆变器馈电、插头类型 | 2025-12 |
-| **注册要求** | 仅需在联邦网络局（Bundesnetzagentur）市场主数据登记处注册，无需向本地电网运营商报备 | 2024-05 简化 |
+| **注册要求** | 仅需在联邦网络局（Bundesnetzagentur）市场主数据登记处注册，无需向本地电网运营商报备；含储能系统同样适用简化流程 | 2024-05 简化；2026-03 确认含储能 |
 | **租户权利** | 一般允许租户安装，除非房东或住户公约明确禁止 | 2024-05 立法确认 |
 | **市场规模** | 已注册超 120 万套，2024-2025 年各新增约 40 万套 | 2026 年初数据 |
+
+**VDE-AR-N 4105:2026-03 重大更新** `[2026-03-01 生效]`
+
+新版并网连接标准废除 Solarpaket I 所设的 2,000 Wp 模组功率上限。在 800 VA 馈电上限不变的前提下，允许阳台光伏配备更大功率组件（实测配置可达 5–10 kWp），将日间多余电力存入电池而非馈网。含储能系统的阳台光伏被正式纳入简化注册流程，无需专业电工介入，用户可自行填写专用表格完成 Marktstammdatenregister 注册。
+
+> **来源：**
+> - [New German rule allows larger plug-in PV without electrician — PV Magazine](https://www.pv-magazine.com/2026/04/08/new-german-rule-allows-larger-plug-in-pv-without-electrician/) `[2026-04]`
+> - [New German allowances give further boosts for plug-in PV and storage — ESS News](https://www.ess-news.com/2026/04/10/new-german-allowances-give-further-boosts-for-plug-in-pv-and-storage/) `[2026-04]`
 
 ### 2.5 便携储能 `[移储]`
 
@@ -203,16 +249,70 @@
 > - [What Does the New German Plug-in PV Norm Say? — Balkon.solar](https://balkon.solar/news/2025/11/22/what-does-the-new-german-plug-in-pv-norm-say/) `[2025-11]`
 > - [Balkonkraftwerk Gesetz 2026: VDE Norm — Energiemagazin](https://www.energiemagazin.com/balkonkraftwerk/vereinfachte-regeln/) `[2026]`
 
-- `[2026-06-14 更新]` **EEG 2027 Referentenentwurf（2026-02-27 发布）重大提案**：联邦经济与能源部（BMWK）发布 442 页草案，核心条款：① 2027-01-01 起，新建 <25 kWp 住宅光伏系统取消固定 EEG 馈电补偿（Einspeisevergütung），全部强制转向市场化 Direktvermarktung（包括单户住宅屋顶系统）；② 小型光伏系统设定 50% 馈电功率永久上限，配储能系统可豁免；③ 强制安装 iMSys 的装机门槛从 7 kW 降至 2 kW；④ 屋顶光伏拍卖规模从 2,300 MW/年削减至 1,500 MW/年（2027-2032），地面电站从 9,900 MW 扩大至 14,000 MW；⑤ 草案同时提出加大电池储能投资激励，定位储能为光伏标准配置。**该草案为部级草案，尚未进入正式立法程序**（来源：[Germany's EEG 2027 Draft: A New Era for Renewables — Freshfields](https://www.freshfields.com/en/our-thinking/blogs/sustainability/germanys-eeg-2027-draft-a-new-era-for-renewables-102mrfg) `[2026]`；[EEG 2027 – Overview — Taylor Wessing](https://www.taylorwessing.com/en/insights-and-events/insights/2026/03/eeg-2027-die-geplante-novelle-des-erneuerbare-energien-gesetzes-im-ueberblick) `[2026-03]`）
-- `[2026-06-14 更新]` **2026 年负电价小时数同比激增约 50%**：据 EPEX Spot 数据，2026 年德国负电价小时数相较 2025 年（576 小时）增幅约 50%，4 月因日照时长增加最为集中；太阳能捕获系数（solar capture factor）从 2025-04 的约 0.40 骤降至 2026-04 的约 0.26（跌幅约三分之一）；配储能系统可规避负电价窗口（来源：[Germany Power Prices Turn Deeply Negative — Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge) `[2026-04]`；[Solar Capture Factors Fall Across Europe — PV Magazine](https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/) `[2026-05]`）
-- `[2026-06-14 更新]` **2026 Q1 市场数据：住宅光伏降、储能创新高**：Q1 2026 德国住宅光伏新增同比下降 21%（至 850 MW），但储能新增创历史纪录——2 GWh（同比 +67%），其中 1 MWh 以上大型储能同比近四倍增长（超 1 GWh）；德国太阳能协会呼吁"简化光储协同监管框架"（来源：[German Solar Association confirms more storage, less solar — ESS News](https://www.ess-news.com/2026/05/04/german-solar-association-confirms-more-storage-less-solar-capacity-installed-in-q1-2026/) `[2026-05]`；[Drop in residential solar drives German PV down Q1 2026 — PV Tech](https://www.pv-tech.org/drop-in-residential-solar-drives-german-pv-installations-down-in-q1-2026/) `[2026]`）
-- `[2026-06-14 更新]` **iMSys 部署执法提速**：2026-03 下旬，BNetzA 对 77 家尚未启动智能电表部署的计量点运营商启动执法程序，威胁合规罚款（来源：[How is the German Smart Meter Rollout Progressing? — FfE](https://www.ffe.de/en/publications/how-is-the-german-smart-meter-rollout-progressing/) `[2026]`）
-- `[2026-06-14 更新]` ⚠️ **信息更新：VDE-AR-N 4105:2026-03（2026-03-01 生效）正式取消 2,000 Wp 组件上限**：新版并网连接标准废除 Solarpaket I 所设的 2,000 Wp 模组功率上限；在 800 VA 并网馈电上限不变的前提下，允许阳台光伏配备更大功率组件（实测配置可达 5-10 kWp），将日间多余电力存入电池而非馈网；含储能系统的阳台光伏被正式纳入简化注册流程，无需专业电工介入，用户可自行填写专用表格完成 Marktstammdatenregister 注册（来源：[New German rule allows larger plug-in PV without electrician — PV Magazine](https://www.pv-magazine.com/2026/04/08/new-german-rule-allows-larger-plug-in-pv-without-electrician/) `[2026-04]`；[New German allowances give further boosts for plug-in PV and storage — ESS News](https://www.ess-news.com/2026/04/10/new-german-allowances-give-further-boosts-for-plug-in-pv-and-storage/) `[2026-04]`）
-- `[2026-06-15 更新]` **EEG 2027 内阁表决推迟，新目标日期 2026-06-24**：原定 2026-06-10 的内阁会议未就 EEG 2027 改革法案表决，经济部与环境部在"再调度条款"（Redispatch）及 ≤25 kWp 住宅光伏馈电补偿问题上存在分歧；新目标表决日期调整为 2026-06-24；最新研究警示：若取消小型住宅光伏固定馈电补偿（Einspeisevergütung）且无任何替代机制，典型 10 kW 系统投资回收期将从 15.6 年骤增至 30 年以上（来源：[Wohl weiter warten auf die EEG-Novelle im Kabinett — PV Magazine Deutschland](https://www.pv-magazine.de/2026/05/26/wohl-weiter-warten-auf-die-eeg-novelle-im-kabinett/) `[2026-05]`；[EEG 2027: Studie warnt vor 30 Jahren Amortisation — EMA Energiewelt](https://ema-energiewelt.de/wissen/eeg-2027-amortisation-30-jahre-kabinett-vertagt) `[2026-06]`）
-- `[2026-06-15 更新]` **BNetzA 发布 AgNes 电网费改革方案（2026-05-27），大型 BESS 获政策利好** `[工商储]`：联邦网络局（BNetzA）公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes）初步方案；**适用范围**：住宅低压储能 `[家储]` 和阳台光伏 `[阳储]` 明确豁免，不受 AgNes 新电网费影响；全体住宅用户基础电费（Grundgebühr）结构性上调（<€100/年），但与是否安装光储无关，不影响光储购买决策的 ROI 差值；AgNes 核心影响对象为大型独立 BESS `[工商储]`；核心内容：① 现有 BESS 暂不纳入电网费征缴范围（逆转 2026-01 信号）；② **祖父条款**：2029-08-04 前并网、且在 AgNes 最终决定（预计 2026 年底至 2027 年初）前完成最终投资决策（FID）的项目获 **20 年**完整豁免；FID 定义：绑定订单覆盖总投资额约 50%、不可无重大财务损失撤销、加绑定并网承诺；③ 未来新项目适用纯容量电网费，约 €4,000–7,000/MW/年（BNetzA 五年滚动均值测算 €5,380–5,650/MW/年），**无电量计费分量**——不惩罚高频充放电，对 EMS 运营优化中性；Modo Energy 建模：最坏情况（€7k/MW/yr）对 4 小时储能、2030 COD 项目仅降低 IRR 约 0.5 个百分点；④ **仅对 2023-01-01 前并网老项目**："可避免电网费"（Vermiedene Netzentgelte）将逐步退出——2026 年削减 25%、2027 年削减 50%、2028 年削减 75%；⑤ 动态电网费（储能）最早 2030、目标 2033，动态电网费（发电）最早 2032、目标 2035（来源：[Major German BESS outcomes: Grid fee exemptions remain — ESS News](https://www.ess-news.com/2026/05/28/major-german-bess-outcomes-grid-fee-exemptions-remain-higher-costs-for-prosumers/) `[2026-05]`；[German grid fees: Regulator unveils near-best-case for BESS — Modo Energy](https://modoenergy.com/research/germany-grid-fees-agnes-netzentgelte-bess-batteries-bnetza-update-capacity-fees-may-2026) `[2026-05]`）
-- `[2026-06-16 更新]` **MiSpeL（储能与充电桩市场整合法规）预计 2026-06-30 前完成 BNetzA 认定程序** `[工商储]`：MiSpeL（Marktintegration von Speichern und Ladepunkten）核心突破：共址（co-location）场景下，BESS 充入非 100% 可再生电力也不再丧失 EEG 补贴资格，允许按市场电价优化充放电策略；BNetzA 须在 **2026-06-30** 前完成 EEG 电量认定程序；**适用范围**：包干方案要求光伏装机 ≥30 kW 且同一运营主体，年度补贴上限 500 kWh/kW装机，典型住宅光储系统（5–15 kWp）不满足门槛，MiSpeL 实际仅适用于 C&I（工商业）及公用级储能；两种核算方案：包干方案（Pauschaloption，光伏 ≥30 kW 的 C&I 系统，按标准化比例估算绿电占比，超年度上限部分按市场价结算）和分割方案（Abgrenzungsoption，15 分钟级校准计量，精准核算能量流向，适合大型商业系统）；认定程序完成后，电网运营商尚需 6–12 个月完成系统适配，预计实际影响在 2027 年初显现（来源：[Understanding MiSpeL: New Regulatory Framework for German Co-located Storage — GridCog](https://www.gridcog.com/blog/understanding-mispel-the-new-regulatory-framework-for-german-co-located-storage) `[2026]`；['Moment of truth': 2026 regulatory agenda for large battery storage in Germany — Energy-Storage.News](https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/) `[2026]`；[MiSpeL-Entwurf: Neue Förderung für Energiespeicher und Ladepunkte — KPMG Law](https://kpmg-law.de/mispel-entwurf-neue-foerderung-fuer-energiespeicher-und-ladepunkte/) `[2026]`）
-- `[2026-06-16 更新]` **德国 BESS 累计装机达 17.9 GW / 27.2 GWh（2026-04），大型储能季度新增首次超越住宅端**：截至 2026-04，德国电池储能累计装机 17.9 GW / 27.2 GWh；2026 年 Q1 大型商用/公用 BESS 季度新增容量**7 年来首次超越住宅端**，与 Q1 储能装机总量同比 +67%（创历史纪录）相印证，德国储能市场正进入"商业化规模化"阶段（来源：[BESS Market Germany 2026: Trends & Growth Analysis — Mobility House Energy](https://mobilityhouse-energy.com/int_en/knowledge-center/article/bess-in-germany-market-overview-2026) `[2026]`）
-- `[2026-06-17 更新]` **Reiche 在 BDEW 大会（2026-06-10）承诺夏休前提交内阁，并释放 Redispatch 关键妥协信号**：联邦经济部长 Reiche 在 BDEW 年会（柏林，2026-06-10）明确表态，EEG 改革草案和 Netzpaket（电网立法包）将在**夏季议会休会前**提交内阁；同时释放关键妥协信号——表示可放弃草案中业界强烈反对的"Redispatch 预留条款"（允许电网运营商在瓶颈时段切断风电/光伏馈电且不予补偿），该条款是导致内阁推迟（从 6-10 延至 6-24）的两大核心争点之一；Reiche 让步后内阁通过可能性大幅提升；SPD 与 Union 在 Netzpaket 部分细节上仍存分歧，但整体立法推进势头明显加速（来源：[Reiche auf BDEW-Kongress 2026: EEG und Netzpaket noch vor der Sommerpause ins Kabinett — PV Magazine Deutschland](https://www.pv-magazine.de/2026/06/10/reiche-auf-bdew-kongress-2026-eeg-und-netzpaket-noch-vor-der-sommerpause-ins-kabinett/) `[2026-06]`；[BDEW-Kongress: Reiche zeigt sich bei Energiewende kompromissbereit — T-Online](https://www.t-online.de/finanzen/energie/id_101292472/bdew-kongress-reiche-zeigt-sich-bei-energiewende-kompromissbereit.html) `[2026-06]`）
+### 2.6 电网费政策 `[工商储]`
+
+**AgNes 电网费改革（BNetzA，2026-05-27 初步方案）** `[制度制定中]`
+
+BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes）初步方案。**适用范围**：住宅低压储能 `[家储]` 和阳台光伏 `[阳储]` 明确豁免，不受影响；全体住宅用户基础电费（Grundgebühr）结构性上调（<€100/年），但与是否安装光储无关，不影响 ROI 差值；核心影响对象为大型独立 BESS `[工商储]`。
+
+核心内容：
+- ① 现有 BESS 暂不纳入电网费征缴范围（逆转 2026-01 信号）
+- ② **祖父条款**：2029-08-04 前并网、且在 AgNes 最终决定前完成 FID 的项目获 **20 年**完整豁免；FID 定义：绑定订单覆盖总投资额约 50%、不可无重大财务损失撤销、加绑定并网承诺
+- ③ 未来新项目适用纯容量电网费 €4,000–7,000/MW/年（BNetzA 五年滚动均值 €5,380–5,650/MW/年），**无电量计费分量**——不惩罚高频充放电，对 EMS 运营优化中性；Modo Energy 建模：最坏情况（€7k/MW/yr）仅降低 IRR 约 0.5 个百分点
+- ④ **仅 2023-01-01 前并网老项目**："可避免电网费"（Vermiedene Netzentgelte）逐步退出——2026 年削减 25%、2027 年削减 50%、2028 年削减 75%
+- ⑤ 动态电网费（储能）最早 2030、目标 2033；动态电网费（发电）最早 2032、目标 2035
+
+> **进展追踪**
+> - `[2026-05-27]` BNetzA 发布 AgNes 初步方案
+> - `[2026 年夏]` 正式征求意见（预计）
+> - `[2026 年底–2027 年初]` 框架决定终稿（预计）
+> - `[2029 年起]` 新项目费率开始征收
+
+> **来源：**
+> - [Major German BESS outcomes: Grid fee exemptions remain — ESS News](https://www.ess-news.com/2026/05/28/major-german-bess-outcomes-grid-fee-exemptions-remain-higher-costs-for-prosumers/) `[2026-05]`
+> - [German grid fees: Regulator unveils near-best-case for BESS — Modo Energy](https://modoenergy.com/research/germany-grid-fees-agnes-netzentgelte-bess-batteries-bnetza-update-capacity-fees-may-2026) `[2026-05]`
+
+### 2.7 储能市场整合 `[工商储]`
+
+**MiSpeL（Marktintegration von Speichern und Ladepunkten）** `[认定程序进行中]`
+
+核心突破：共址（co-location）场景下，BESS 充入非 100% 可再生电力也不再丧失 EEG 补贴资格，允许按市场电价优化充放电策略。**适用范围**：包干方案要求光伏装机 ≥30 kW 且同一运营主体，年度补贴上限 500 kWh/kW 装机，典型住宅光储系统（5–15 kWp）不满足门槛，仅适用于 C&I 及公用级储能。
+
+两种核算方案：
+- **包干方案（Pauschaloption）**：光伏 ≥30 kW 的 C&I 系统，按标准化比例估算绿电占比，超年度上限部分按市场价结算
+- **分割方案（Abgrenzungsoption）**：15 分钟级校准计量，精准核算能量流向，适合大型商业系统
+
+认定程序完成后，电网运营商尚需 6–12 个月完成系统适配，预计实际影响在 2027 年初显现。
+
+> **进展追踪**
+> - `[2025-10-01]` BNetzA 公开研讨会
+> - `[2025-10-24]` 意见征集截止
+> - `[2026-06-30]` BNetzA 须完成 EEG 电量认定程序（法定截止日）
+> - `[2027 年初]` 电网运营商适配完成后实际生效（预计）
+
+> **来源：**
+> - [Understanding MiSpeL: New Regulatory Framework for German Co-located Storage — GridCog](https://www.gridcog.com/blog/understanding-mispel-the-new-regulatory-framework-for-german-co-located-storage) `[2026]`
+> - ['Moment of truth': 2026 regulatory agenda for large battery storage in Germany — Energy-Storage.News](https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/) `[2026]`
+> - [MiSpeL-Entwurf: Neue Förderung für Energiespeicher und Ladepunkte — KPMG Law](https://kpmg-law.de/mispel-entwurf-neue-foerderung-fuer-energiespeicher-und-ladepunkte/) `[2026]`
+
+### 2.8 市场动态 `[通用]`
+
+**累计装机**
+
+截至 2026-04，德国电池储能累计装机 **17.9 GW / 27.2 GWh**。
+
+> **来源：**
+> - [BESS Market Germany 2026: Trends & Growth Analysis — Mobility House Energy](https://mobilityhouse-energy.com/int_en/knowledge-center/article/bess-in-germany-market-overview-2026) `[2026]`
+
+**季度新增**
+
+| 季度 | 住宅光伏新增 | 储能新增 | 大型储能（>1 MWh） | 要点 |
+|------|-------------|---------|-------------------|------|
+| 2026 Q1 | 850 MW（同比 -21%） | 2 GWh（同比 +67%，创历史纪录） | >1 GWh（同比近四倍） | 大型储能季度新增 **7 年来首次超越住宅端**，德国储能市场进入"商业化规模化"阶段 |
+
+> **来源：**
+> - [German Solar Association confirms more storage, less solar — ESS News](https://www.ess-news.com/2026/05/04/german-solar-association-confirms-more-storage-less-solar-capacity-installed-in-q1-2026/) `[2026-05]`
+> - [Drop in residential solar drives German PV down Q1 2026 — PV Tech](https://www.pv-tech.org/drop-in-residential-solar-drives-german-pv-installations-down-in-q1-2026/) `[2026]`
 
 #### PM 解读
 
