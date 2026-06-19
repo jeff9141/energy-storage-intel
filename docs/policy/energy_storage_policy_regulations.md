@@ -125,10 +125,69 @@
 > - [Portable Energy Storage Certification Guide — GDESTL](https://en.gdestl.com/588.html) `[2025]`
 > - [EU Members Mixed Progress on Energy Storage — Energy Storage News](https://www.energy-storage.news/european-union-members-make-mixed-progress-in-implementing-energy-storage-strategies/) `[2025-04]`
 
-- `[2026-06-14 更新]` **2026-08-18 电池标注新要求即将生效**：EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地，电池须标注制造商信息、化学成分、重量、容量、制造日期及预期寿命；不可充电电池须加贴专用符号；EV 电池须在标签上显示碳足迹数据；电池体积过小时，须在包装或随附文件上体现相关信息（来源：[EU Battery Regulation 2026: What Retailers Must Know — Impala Services](https://www.impala-services.com/blog/eu-battery-regulation-technical-documentation-retailers) `[2026]`）
-- `[2026-06-14 更新]` **EU 各成员国须在 2026-07 前完成灵活性评估，2027-01 前设定储能目标**：根据 EU 电力市场设计（Electricity Market Design）改革要求，ACER 已于 2025-07 批准欧盟统一的非化石灵活性需求评估方法论；各成员国须在 **2026-07 前**完成并提交国家灵活性评估报告，并于 **2027-01 前**设定包含储能子目标的非化石灵活性指示性目标；ACER 将于 2027-07 发布欧盟层面汇总报告（来源：[ACER approves EU-wide methodology to assess national electricity flexibility needs — ACER](https://www.acer.europa.eu/news/acer-approves-eu-wide-methodology-assess-national-electricity-flexibility-needs) `[2025-07]`；[EU energy flexibility trends 2026 — electron.net](https://electron.net/energy-flexibility-trends-updates-european-union-eu/) `[2026]`）
-- `[2026-06-16 更新]` **EU 委员会须在 2026-08-18 前发布电池护照委托法规，同期发布供应链尽职调查指南**：根据 EU 电池法规要求，欧盟委员会须在 **2026-08-18** 前发布委托法规（Delegated Act），详细规定数字电池护照的数据访问权限（公开数据 vs 受控数据分层）及护照信息录入、修改和更新规则；该委托法规是护照技术系统设计的关键输入——访问权限划定决定前端角色 UI 设计，更新规则决定数据管道架构；同期，委员会预计于 **2026-07** 发布供应链尽职调查实施指南，明确钴、锂、镍等关键原材料的供应链溯源路径要求（来源：[EU Battery Passport Regulation: What You Need to Know in 2026 — Base Battery Passport](https://base-batterypassport.com/blog/regulations-4/eu-battery-passport-regulation-57) `[2026]`；[DPP Timeline 2026-2030: Every Deadline — PassportCraft](https://passportcraft.com/insights/dpp-timeline-2026-2030-every-deadline) `[2026]`）
-- `[2026-06-18 更新]` **EU 工业加速法案（Industrial Accelerator Act，2026-03-04 草案）引入 BESS 欧产含量阶段性要求，对补贴/采购资格构成潜在门槛**：欧盟委员会于 2026-03-04 发布《工业加速法案》（IAA）草案，对受公共资金支持的净零技术采购（含补贴发放和竞标拍卖）引入分阶段 Made in Europe 含量要求；**BESS 专项要求**：① 法案生效后 **1 年**起，>1 MWh 系统须采用欧盟制造的 BMS（电池管理系统）；② 生效后 **3 年**起，须额外采用欧盟制造的电池电芯及至少一个主要部件；覆盖范围含电池、BESS、光伏、热泵、风电等净零技术；法案仍在 EU 立法程序中，尚未正式生效；行业协会（Energy Storage Europe）警告：若时间表过紧，将在储能扩张最急迫阶段反而放慢 BESS 部署（来源：[EU industrial strategy could slow BESS progress, association warns — ESS News](https://www.ess-news.com/2026/03/05/eu-industrial-strategy-could-slow-bess-progress-association-warns/) `[2026-03]`；[EU Industrial Accelerator Act — Bird & Bird](https://www.twobirds.com/en/insights/2026/europe-powers-up-the-eu's-bold-legislative-drive-for-a-homegrown-battery-industry) `[2026]`）
+### 1.5 电池法规近期实施节点 `[通用]`
+
+#### 2026-08-18 标注新要求 `[即将生效]`
+
+EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
+
+| 要求 | 说明 |
+|------|------|
+| **制造商标注** | 制造商信息、化学成分、重量、容量、制造日期、预期寿命 |
+| **不可充电电池** | 须加贴专用符号 |
+| **EV 电池** | 须在标签上显示碳足迹数据 |
+| **小体积电池** | 信息可在包装或随附文件上体现 |
+
+#### 电池护照委托法规 `[待发布]`
+
+欧盟委员会须在 **2026-08-18** 前发布委托法规（Delegated Act），规定数字电池护照的数据访问权限（公开 vs 受控分层）及信息录入、修改和更新规则。同期预计于 **2026-07** 发布供应链尽职调查实施指南，明确钴、锂、镍等关键原材料的供应链溯源路径要求。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2024-04 | 碳足迹申报委托法规和实施法规发布 |
+| 2026-02-18 | >2 kWh 工业电池碳足迹申报生效 |
+| 2026-07（预计） | 供应链尽职调查指南发布 |
+| **2026-08-18** | **标注新要求生效 + 电池护照委托法规发布 + 碳足迹性能等级标签启动** |
+| 2027-02-18 | 数字电池护照强制生效 |
+
+> **来源：**
+> - [EU Battery Regulation 2026: What Retailers Must Know — Impala Services](https://www.impala-services.com/blog/eu-battery-regulation-technical-documentation-retailers) `[2026]`
+> - [EU Battery Passport Regulation: What You Need to Know in 2026 — Base Battery Passport](https://base-batterypassport.com/blog/regulations-4/eu-battery-passport-regulation-57) `[2026]`
+> - [DPP Timeline 2026-2030: Every Deadline — PassportCraft](https://passportcraft.com/insights/dpp-timeline-2026-2030-every-deadline) `[2026]`
+
+### 1.6 电力市场灵活性评估 `[通用]`
+
+**政策正文概述：** 根据 EU 电力市场设计（Electricity Market Design）改革要求，ACER 已于 2025-07 批准欧盟统一的非化石灵活性需求评估方法论。各成员国须在 **2026-07 前**完成并提交国家灵活性评估报告，并于 **2027-01 前**设定包含储能子目标的非化石灵活性指示性目标。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2025-07 | ACER 批准统一灵活性评估方法论 |
+| **2026-07** | **各成员国提交灵活性评估报告** |
+| **2027-01** | **各成员国设定储能子目标** |
+| 2027-07 | ACER 发布欧盟层面汇总报告 |
+
+> **来源：**
+> - [ACER approves EU-wide methodology to assess national electricity flexibility needs — ACER](https://www.acer.europa.eu/news/acer-approves-eu-wide-methodology-assess-national-electricity-flexibility-needs) `[2025-07]`
+> - [EU energy flexibility trends 2026 — electron.net](https://electron.net/energy-flexibility-trends-updates-european-union-eu/) `[2026]`
+
+### 1.7 工业加速法案（Industrial Accelerator Act） `[通用]` `[立法进行中]`
+
+**政策正文概述：** 欧盟委员会于 2026-03-04 发布 IAA 草案，对受公共资金支持的净零技术采购（含补贴发放和竞标拍卖）引入分阶段 Made in Europe 含量要求。覆盖电池、BESS、光伏、热泵、风电等净零技术。法案仍在 EU 立法程序中，尚未正式生效。
+
+**BESS 欧产含量要求：**
+
+| 阶段 | 时间点 | 要求 |
+|------|--------|------|
+| 第一阶段 | 法案生效后 **1 年** | >1 MWh 系统须采用欧盟制造的 **BMS** |
+| 第二阶段 | 法案生效后 **3 年** | 须额外采用欧盟制造的**电池电芯**及至少一个主要部件 |
+
+行业协会（Energy Storage Europe）警告：若时间表过紧，将在储能扩张最急迫阶段反而放慢 BESS 部署。
+
+> **来源：**
+> - [EU industrial strategy could slow BESS progress, association warns — ESS News](https://www.ess-news.com/2026/03/05/eu-industrial-strategy-could-slow-bess-progress-association-warns/) `[2026-03]`
+> - [EU Industrial Accelerator Act — Bird & Bird](https://www.twobirds.com/en/insights/2026/europe-powers-up-the-eu's-bold-legislative-drive-for-a-homegrown-battery-industry) `[2026]`
 
 #### PM 解读
 
@@ -1020,12 +1079,68 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - [Federal Battery Rebate — Solar Choice](https://www.solarchoice.net.au/learn/solar-rebates/government-battery-rebate/) `[2026]`
 > - [Changes to Cheaper Home Batteries — Solar Choice](https://www.solarchoice.net.au/learn/solar-rebates/government-battery-rebate/changes-1-may-2026/) `[2026-05]`
 
-- `[2026-06-14 更新]` **原 $23 亿预算提前耗尽，扩资至 $72 亿的直接原因**：原联邦计划资金预计于 2026-06 初耗尽（远早于 2030 年截止），这是 2025-12 宣布将资金规模扩大至 $72 亿澳元的直接触发因素；预计至 2030 年完成超过 200 万户家庭储能安装，新增约 40 GWh 容量（来源：[Why the government is overhauling its Cheaper Home Batteries Program — Canstar](https://www.canstar.com.au/energy/why-the-government-is-overhauling-its-cheaper-home-batteries-program/) `[2026]`；[Six Months of the Cheaper Home Batteries Program — energy.gov.au](https://www.energy.gov.au/news/six-months-cheaper-home-batteries-program) `[2026]`）
-- `[2026-06-14 更新]` **澳洲 VPP 市场快速扩张**：截至 2026 年中，全国活跃 VPP 项目已超过 12 个且持续增加；市场法规改革允许 VPP 直接参与与煤电、气电的市场竞争；参与 VPP 的家储用户年收益在 $300–$1,000+（不同计划和电池容量有差异）（来源：[VPP Offers in Australia 2026 — Energy Matters](https://www.energymatters.com.au/vpp-offer/) `[2026]`；[Virtual Power Plants in Australia: 2026 Guide — Australian Battery Quotes](https://australianbatteryquotes.com.au/vpp-australia-2026-guide/) `[2026]`）
-- `[2026-06-15 更新]` **日均安装超 1,500 套、平均电池容量翻倍，触发计划提前扩资**：Cheaper Home Batteries Program 峰值安装速度超 1,500 套/日，用户平均安装容量较计划启动前翻倍；这是原 $23 亿预算预计 2026-06 耗尽（较原计划提前约 3.5 年）的直接触发因素，促成政府宣布扩资至 $72 亿（来源：[Cheaper Home Batteries Program Expansion: What's New in 2026 — EcoFlow AU](https://energy.ecoflow.com/au/blog/cheaper-home-batteries-program) `[2026]`；[More Australians to benefit from Cheaper Home Batteries — energy.gov.au](https://minister.dcceew.gov.au/bowen/media-releases/more-australians-benefit-cheaper-home-batteries) `[2026]`）
-- `[2026-06-15 更新]` **澳洲 VPP 容量达 900 MW（2026 Q1），西澳新规要求逆变器默认并网交互**：据 AEMO 数据，截至 2026 Q1 全国电力市场（NEM）VPP 容量达 900 MW，较 2024 年初约 350 MW 增长超 150%；10 家 VPP 运营商活跃运营；西澳（WA）更新 WEM Procedure，要求逆变器默认具备并网交互能力（grid-interactive by default），不符合要求的储能系统将被排除在 VPP 激励机制之外（来源：[Best VPP Plans Australia 2026 Compared — Gridly](https://www.gridly.com.au/blog/best-vpp-plans-australia) `[2026]`；[Is Your Battery VPP-Ready? Smart Inverters Matter in 2026 — Energy Matters](https://www.energymatters.com.au/renewable-news/battery-vpp-ready-smart-inverters-australia/) `[2026]`）
-- `[2026-06-18 更新]` **AEMO CEO 在 2026 年澳洲能源周（2026-06-12）宣布：60 万套家庭"被动电池"正从根本上改变电网规划**：AEMO CEO Daniel Westerman 在澳洲能源周（Australian Energy Week）发表主旨演讲，披露截至 2026 Q1 关键数据：① 全国住宅电池超 **60 万套**，即使完全不参与 VPP 调度的"被动模式"电池，在峰值需求时段每套较纯光伏用户少从电网取电约 **1.4 kW**（峰值减负幅度约 80%）；② 大型储能侧：2025 Q1 以来新增 **4,445 MW** 大型 BESS（超过 NEM 总装机翻倍），NEM 平均电池放电量较一年前增至 3 倍（359 MW vs 98 MW），2026-01-07 创放电历史记录（3,556 MW）；AEMO CEO 表示"对被动家庭电池对系统的正面冲击规模感到意外"，正据此修订电网容量规划基础假设（来源：[AEMO CEO speech at Australian Energy Week 2026 — PV Magazine Australia](https://www.pv-magazine-australia.com/2026/06/12/aemo-ceo-speech-at-australian-energy-week-2026/) `[2026-06]`；[Australia's battery storage fleet triples daily load-shifting as 4.4GW comes online — Energy-Storage.News](https://www.energy-storage.news/australias-battery-storage-fleet-triples-daily-load-shifting-as-4-4gw-comes-online-in-q1-2026-says-aemo/) `[2026-04]`）
-- `[2026-06-18 更新]` **AEMC Dispatch Mode（VPP 竞价框架）$5,000 万早期激励已于 2026-04 开放，VPP 2027-05 正式竞价**：澳大利亚能源市场委员会（AEMC）终局裁定（2025-01）确立的"调度模式"（Dispatch Mode）允许 VPP/聚合商以分布式资源池直接在 NEM 批发市场竞价，与煤电气电同台；**$5,000 万早期参与激励**从 **2026-04** 起向聚合商开放（覆盖早期接入的技术与合规成本）；正式调度模式从 **2027-05** 生效；AEMC 建模：若聚合资源全面参与，2027-2050 年可节省系统性成本约 AUD 8.34 亿（来源：[New rules allow VPPs to compete in Australia's energy market from 2027 — PV Magazine](https://www.pv-magazine.com/2025/01/09/new-rules-allow-vpps-to-compete-in-australias-energy-market-from-2027/) `[2025-01]`；[AEMC energy market reform: VPP dispatch mode — PV Tech](https://www.pv-tech.org/australia-aemc-consumer-energy-rule-change/) `[2025]`）
+### 15.5 VPP 政策与市场 `[家储]`
+
+#### AEMC Dispatch Mode（VPP 竞价框架） `[制度制定中]`
+
+**政策正文概述：** AEMC 终局裁定（2025-01）确立"调度模式"（Dispatch Mode），允许 VPP/聚合商以分布式资源池直接在 NEM 批发市场竞价，与煤电气电同台。AEMC 建模：若聚合资源全面参与，2027-2050 年可节省系统性成本约 AUD 8.34 亿。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2025-01 | AEMC 终局裁定，确立 Dispatch Mode |
+| **2026-04** | **$5,000 万早期参与激励开放**（覆盖早期接入的技术与合规成本） |
+| **2027-05** | **正式调度模式生效，VPP 批发市场竞价启动** |
+
+#### VPP 市场现状（截至 2026 Q1）
+
+| 指标 | 数值 |
+|------|------|
+| NEM VPP 容量 | **900 MW**（2024 年初约 350 MW，增长 >150%） |
+| 活跃 VPP 运营商 | 10+ 家 |
+| 全国活跃 VPP 项目 | 12+ 个 |
+| 家储用户年 VPP 收益 | **$300–$1,000+**（因计划和容量而异） |
+
+**西澳（WA）新规：** 更新 WEM Procedure，要求逆变器默认具备并网交互能力（grid-interactive by default），不符合要求的储能系统将被排除在 VPP 激励机制之外。
+
+> **来源：**
+> - [New rules allow VPPs to compete in Australia's energy market from 2027 — PV Magazine](https://www.pv-magazine.com/2025/01/09/new-rules-allow-vpps-to-compete-in-australias-energy-market-from-2027/) `[2025-01]`
+> - [AEMC energy market reform: VPP dispatch mode — PV Tech](https://www.pv-tech.org/australia-aemc-consumer-energy-rule-change/) `[2025]`
+> - [VPP Offers in Australia 2026 — Energy Matters](https://www.energymatters.com.au/vpp-offer/) `[2026]`
+> - [Best VPP Plans Australia 2026 Compared — Gridly](https://www.gridly.com.au/blog/best-vpp-plans-australia) `[2026]`
+> - [Is Your Battery VPP-Ready? Smart Inverters Matter in 2026 — Energy Matters](https://www.energymatters.com.au/renewable-news/battery-vpp-ready-smart-inverters-australia/) `[2026]`
+
+### 15.6 市场动态 `[通用]`
+
+**CHB 计划执行数据：**
+
+| 指标 | 数值 |
+|------|------|
+| 峰值安装速度 | **>1,500 套/日** |
+| 用户平均安装容量 | 较计划启动前**翻倍** |
+| 原 $23 亿预算 | 预计 2026-06 耗尽（较原计划提前 ~3.5 年） |
+| 扩资后预算 | **$72 亿**（至 2030 年） |
+| 2030 年目标 | 超 200 万户安装，新增约 40 GWh |
+
+**AEMO 关键数据（2026 澳洲能源周，CEO Daniel Westerman 主旨演讲）：**
+
+| 指标 | 数值 |
+|------|------|
+| 住宅电池总量 | **>60 万套** |
+| 被动电池峰值减负 | 每套较纯光伏用户少取电 **~1.4 kW**（减负 ~80%） |
+| 2025 Q1 以来新增大型 BESS | **4,445 MW**（NEM 总装机翻倍） |
+| NEM 平均电池放电量 | **359 MW**（一年前 98 MW，增至 3 倍） |
+| 放电历史记录 | 3,556 MW（2026-01-07） |
+
+AEMO CEO 表示"对被动家庭电池对系统的正面冲击规模感到意外"，正据此修订电网容量规划基础假设。
+
+> **来源：**
+> - [Why the government is overhauling its Cheaper Home Batteries Program — Canstar](https://www.canstar.com.au/energy/why-the-government-is-overhauling-its-cheaper-home-batteries-program/) `[2026]`
+> - [Six Months of the Cheaper Home Batteries Program — energy.gov.au](https://www.energy.gov.au/news/six-months-cheaper-home-batteries-program) `[2026]`
+> - [Cheaper Home Batteries Program Expansion: What's New in 2026 — EcoFlow AU](https://energy.ecoflow.com/au/blog/cheaper-home-batteries-program) `[2026]`
+> - [More Australians to benefit from Cheaper Home Batteries — energy.gov.au](https://minister.dcceew.gov.au/bowen/media-releases/more-australians-benefit-cheaper-home-batteries) `[2026]`
+> - [AEMO CEO speech at Australian Energy Week 2026 — PV Magazine Australia](https://www.pv-magazine-australia.com/2026/06/12/aemo-ceo-speech-at-australian-energy-week-2026/) `[2026-06]`
+> - [Australia's battery storage fleet triples daily load-shifting as 4.4GW comes online — Energy-Storage.News](https://www.energy-storage.news/australias-battery-storage-fleet-triples-daily-load-shifting-as-4-4gw-comes-online-in-q1-2026-says-aemo/) `[2026-04]`
 
 #### PM 解读
 
