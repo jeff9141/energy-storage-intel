@@ -335,13 +335,18 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 | 项目 | 内容 | 时间 |
 |------|------|------|
-| **Ecobonus 50%** | 光伏+储能系统 50% 税收抵扣（10 年分摊），适用于主要住宅 | 确认延续至 2026 年底 |
+| **Ecobonus 50%/65%** | 光伏+储能系统 50% 税收抵扣（10 年分摊），适用于主要住宅；若结合建筑能效改造（需取得 APE 能效证书且能效等级提升），可提升至 **65%** | 确认延续至 2026 年底；2027 年降至 36%→30% |
 | **Superbonus** | 已大幅退坡：110%→90%→70%→65%，2026 年起独立光伏不再适用 | 2025 年 65%，2026 年退出 |
-| **Conto Termico 2.0** | 能效改造激励，间接覆盖储能配套 | 持续有效 |
+| **Conto Termico 3.0** | GSE 新版 PortalTermico 于 2026-04-13 重开申请；**首次明确将光伏+储能纳入补贴**（须配套热力系统改造），最高补贴比例 **65%**；总预算 **€9 亿**；已取代 CT 2.0 成为意大利补贴强度最高的能效激励通道 | 2026-04-13 重开申请 |
 | **区域补贴** | 西西里、撒丁岛、卡拉布里亚有 EU 基金支持的区域项目 | 2025-2026 有效 |
 
 - **申请要求**：付款必须通过可追溯的银行转账，配合官方发票和财务收据
 - `[2025-11]` 裁定：储能和可再生能源项目享有 30 天许可审批窗口
+- **Conto Termico 3.0 要点**：光储必须与热泵等热力系统改造捆绑才能触达 65% 最高档；已有光伏用户若同步进行热力系统升级，可申请"PV + 储能 + 热泵三合一"补贴包
+
+> **来源（Conto Termico 3.0）：**
+> - [Conto Termico 3.0: Portal Reopened April 13, 2026 — Studio RCG](https://www.studiorcg.it/en/conto-termico-3-0-portal-reopened-from-april-13-2026-for-direct-applications/) `[2026]`
+> - [A full guide to the Conto Termico 3.0 — Enel](https://www.enel.it/en-us/blog/guide/guida-conto-termico) `[2026]`
 
 ### 3.2 阳台储能政策 `[阳储]`
 
@@ -358,12 +363,52 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Italian Ruling Secures 30-Day Permit Window — ESS News](https://www.ess-news.com/2025/11/26/italian-ruling-secures-30-day-permit-window-for-storage-and-renewables-but-size-matters/) `[2025-11]`
 > - [Italy Superbonus Solar 2025-2026 — SurgePV](https://www.surgepv.com/blog/italy-superbonus-solar) `[2025]`
 
-- `[2026-06-14 更新]` **EIB 支持 €5.07 亿意大利光储项目（2026-03）**：欧洲投资银行宣布支持意大利 €5.07 亿太阳能+储能项目计划，利好大型储能市场扩张（来源：[EIB Backs €507 Million Solar and Storage Programme in Italy — Funds for NGOs](https://news.fundsforngos.org/2026/03/18/eib-backs-e507-million-solar-and-storage-programme-in-italy/) `[2026-03]`）
-- `[2026-06-14 更新]` **Ecobonus 65% 条件明确**：若光储安装结合建筑能效改造（需取得 APE 能效证书且能效等级提升），住宅税收抵扣比例可从 50% 提升至 65%，适用于 2026 年安装项目（来源：[Italy Superbonus Solar 2025-2026 — SurgePV](https://www.surgepv.com/blog/italy-superbonus-solar) `[2025]`）
-- `[2026-06-14 更新]` **Decreto Bollette（DL no. 21/2026，2026-02-24 通过）对 BESS 套利经济性构成隐患**：意大利政府批准"电费法令"，通过补贴气电燃气输送费及 EU ETS 排放权成本（从 2027-01-01 起生效），人为压低气电边际成本以降低终端电价；行业机构警告：此举将导致太阳能捕获价下滑超 30%，同时压缩峰谷价差和电价波动，直接削弱 BESS 套利收益；EU 委员会已对 ETS 补贴机制合法性提出异议（来源：[Italy's new energy provisions could boost gas use — PV Magazine](https://www.pv-magazine.com/2026/02/25/italys-new-energy-provisions-could-boost-gas-use-undermine-renewables-and-storage-competitiveness/) `[2026-02]`；[Italian Energy/Bills Decree DL Bollette — DLA Piper](https://www.dlapiper.com/en/insights/publications/2026/03/decreto-energia-bollette) `[2026-03]`）
-- `[2026-06-15 更新]` **意大利 2026 Q1 储能市场：C&I 与独立 BESS 增长，住宅趋于平稳**：截至 2026-03-31，意大利光伏配储电化学储能容量达 11.4 GWh；全国约 919,000 套 BESS 系统，总容量 18.8 GWh、总功率 7.73 GW；C&I（商工业）储能和独立（standalone）BESS 增长提速，住宅储能市场趋于稳定（来源：[Italian storage market in Q1 2026: C&I and standalone BESS grow, residential stabilizes — ESS News](https://www.ess-news.com/2026/05/05/italian-storage-market-in-q1-2026-ci-and-standalone-bess-grow-residential-stabilizes/) `[2026-05]`）
-- `[2026-06-15 更新]` **意大利储能需求预测：2035 年可能触及 170 GWh**：据 Terna 最新预测，意大利 2035 年储能需求基准情景约 134 GWh，高情景可能触及 170 GWh；PNIEC（国家能源气候计划）设定 2030 年目标为 9 GW / 71 GWh；2026–2030 年被业界视为意大利储能从"光伏附件"升格为"电力基础设施"的关键五年（来源：[Italy's energy storage needs could reach 170 GWh by 2035 — ESS News](https://www.ess-news.com/2026/06/12/italys-energy-storage-needs-could-reach-170-gwh-by-2035/) `[2026-06]`）
-- `[2026-06-18 更新]` **Conto Termico 3.0（Decreto 07/08/2025，€9 亿）于 2026-04-13 正式重开申请门户，光储捆绑首次明确纳入激励范围**：GSE 新版 Conto Termico 3.0 的 PortalTermico 于 2026-04-13 重开直接申请通道；核心亮点：**首次明确将光伏系统+储能（须配套热力系统改造）纳入补贴范围**，最高不可退还补贴比例达 **65%**（要求同期进行热泵等热力系统改造）；对于 Superbonus 已退出且 Ecobonus 逐年下调（2026 年 36%→2027 年 30%）的背景，CT 3.0 是目前意大利补贴强度最高的能效激励通道；已有光伏用户若同步进行热力系统升级，可申请"PV + 储能 + 热泵三合一"补贴包；计划总预算 €9 亿（来源：[Conto Termico 3.0: Portal Reopened April 13, 2026 — Studio RCG](https://www.studiorcg.it/en/conto-termico-3-0-portal-reopened-from-april-13-2026-for-direct-applications/) `[2026]`；[A full guide to the Conto Termico 3.0 — Enel](https://www.enel.it/en-us/blog/guide/guida-conto-termico) `[2026]`）
+### 3.4 电价政策 `[通用]`
+
+#### Decreto Bollette（电费法令）`[立法已通过]`
+
+**政策正文概述：** 意大利政府于 2026-02-24 通过 DL no. 21/2026 "电费法令"，核心措施包括补贴气电燃气输送费及 EU ETS 排放权成本（从 2027-01-01 起生效），目的是人为压低气电边际成本以降低终端电价。行业机构警告：此举将导致太阳能捕获价下滑超 30%，同时压缩峰谷价差和电价波动，直接削弱 BESS 套利收益。EU 委员会已对 ETS 补贴机制合法性提出异议。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-02-24 | DL no. 21/2026 获批 |
+| 2027-01-01 | ETS 补贴机制生效 |
+| 待定 | EU 委员会对 ETS 补贴合法性审查结果 |
+
+> **来源：**
+> - [Italy's new energy provisions could boost gas use — PV Magazine](https://www.pv-magazine.com/2026/02/25/italys-new-energy-provisions-could-boost-gas-use-undermine-renewables-and-storage-competitiveness/) `[2026-02]`
+> - [Italian Energy/Bills Decree DL Bollette — DLA Piper](https://www.dlapiper.com/en/insights/publications/2026/03/decreto-energia-bollette) `[2026-03]`
+
+### 3.5 市场动态 `[通用]`
+
+**装机概况（截至 2026 Q1）：**
+
+| 指标 | 数值 |
+|------|------|
+| BESS 系统总数 | ~919,000 套 |
+| 总容量 | 18.8 GWh |
+| 总功率 | 7.73 GW |
+| 光伏配储电化学储能 | 11.4 GWh |
+| 趋势 | 住宅趋稳，C&I 与独立 BESS 增长提速 |
+
+**长期预测（Terna）：**
+
+| 情景 | 2030 目标 | 2035 预测 |
+|------|----------|----------|
+| PNIEC 目标 | 9 GW / 71 GWh | — |
+| 基准情景 | — | ~134 GWh |
+| 高情景 | — | ~170 GWh |
+
+2026–2030 年被业界视为意大利储能从"光伏附件"升格为"电力基础设施"的关键五年。
+
+**投资动态：**
+- `[2026-03]` 欧洲投资银行（EIB）宣布支持意大利 **€5.07 亿**太阳能+储能项目计划，利好大型储能市场扩张
+
+> **来源：**
+> - [Italian storage market in Q1 2026 — ESS News](https://www.ess-news.com/2026/05/05/italian-storage-market-in-q1-2026-ci-and-standalone-bess-grow-residential-stabilizes/) `[2026-05]`
+> - [Italy's energy storage needs could reach 170 GWh by 2035 — ESS News](https://www.ess-news.com/2026/06/12/italys-energy-storage-needs-could-reach-170-gwh-by-2035/) `[2026-06]`
+> - [EIB Backs €507 Million Solar and Storage Programme in Italy — Funds for NGOs](https://news.fundsforngos.org/2026/03/18/eib-backs-e507-million-solar-and-storage-programme-in-italy/) `[2026-03]`
 
 #### PM 解读
 
@@ -460,7 +505,20 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Spain Allocates €840M for Storage — Energy Storage News](https://www.energy-storage.news/spain-allocates-e840-million-funds-for-storage-projects-passes-grid-resilience-decree/) `[2025]`
 > - [Spain Awards 133 Storage Projects — PV Magazine](https://www.pv-magazine.com/2025/12/01/spain-awards-133-energy-storage-projects-totaling-2-4-gw-and-10-gwh/) `[2025-12]`
 
-- `[2026-06-15 更新]` **西班牙 BESS 项目管线同比激增 464%（2026 Q1），并网装机增长 589%**：2026 Q1 进入公众咨询阶段的储能项目达 96 个、总容量 2,121.5 MW，其中 BESS 占比 98.9%（2,098.2 MW），同比增长 464%；截至 2026-04，西班牙已并网储能装机容量从 2025-04 的 28 MW 跃升至 193 MW（同比 +589%）；大型独立 BESS 项目和光储协同部署是增长主体，住宅补贴政策层面无重大更新（来源：[Battery energy storage project pipeline in Spain surges 464% year-on-year — ESS News](https://www.ess-news.com/2026/04/24/battery-energy-storage-project-pipeline-in-spain-surges-464-year-on-year/) `[2026-04]`）
+### 5.4 市场动态 `[通用]`
+
+**管线与装机（截至 2026 Q1）：**
+
+| 指标 | 数值 | 同比变化 |
+|------|------|---------|
+| 公众咨询阶段储能项目 | 96 个 / 2,121.5 MW | — |
+| 其中 BESS | 2,098.2 MW（占比 98.9%） | **+464%** |
+| 已并网储能装机 | 193 MW（截至 2026-04） | **+589%**（2025-04: 28 MW） |
+
+大型独立 BESS 项目和光储协同部署是增长主体，住宅补贴政策层面无重大更新。
+
+> **来源：**
+> - [Battery energy storage project pipeline in Spain surges 464% year-on-year — ESS News](https://www.ess-news.com/2026/04/24/battery-energy-storage-project-pipeline-in-spain-surges-464-year-on-year/) `[2026-04]`
 
 #### PM 解读
 
@@ -502,8 +560,35 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Netherlands Allocates €100M for Battery Storage — PV Magazine](https://www.pv-magazine.com/2024/04/18/netherlands-allocates-e100-million-for-battery-storage-subsidies/) `[2024-04]`
 > - [Subsidies for Battery Storage — Intercel](https://intercel.eu/knowledge-insights/subsidies-for-battery-storage/) `[2024]`
 
-- `[2026-06-14 更新]` **净计量终止为最终立法，2027-01-01 执行**：荷兰议会已正式批准 Saldering 终止方案，2027-01-01 生效为不可逆的立法结果；随着截止日期临近，荷兰储能市场需求显著上升，多家国际家储品牌（如 Jackery SolarVault 3 系列）于 2026-Q1 进入荷兰市场（来源：[Dutch parliament approves end of net metering in 2027 — PV Magazine](https://www.pv-magazine.com/2024/11/15/dutch-parliament-approves-end-of-net-metering-in-2027/) `[2024-11]`；[With Dutch net metering at an end, SolarVault 3 lands in Netherlands — NL Times](https://nltimes.nl/2026/04/09/dutch-net-metering-end-solarvault-3-energy-solutions-land-netherlands) `[2026-04]`）
-- `[2026-06-15 更新]` **荷兰住宅储能爆发：光伏新增骤降、电池装机高速增长**：荷兰 2025 年新增住宅光伏仅 164,000 套（较 2023 年峰值下降约 72%），家用储能（Thuisbatterij）同期增长约 140%；2026 年住宅级储能新增预计达 1.7 GWh；至本十年末，荷兰总储能容量预测可达 36.8 GWh（住宅 14.6 + C&I 12.1 + 大型储能 10.1 GWh）；净计量终止倒逼用户提前配储，成为市场增长的核心驱动力（来源：[Dutch home batteries rise as solar panel additions plummet — IOplus](https://ioplus.nl/en/posts/dutch-home-batteries-rise-as-solar-panel-additions-plummet) `[2026]`；[Residential installations lead Dutch storage boom — ESS News](https://www.ess-news.com/2025/11/24/residential-installations-lead-dutch-storage-boom/) `[2025-11]`）
+### 6.4 市场动态 `[通用]`
+
+**净计量终止立法进展：** `[已立法]`
+
+荷兰议会已正式批准 Saldering 终止方案，2027-01-01 生效为不可逆的立法结果。随着截止日期临近，多家国际家储品牌（如 Jackery SolarVault 3 系列）于 2026-Q1 进入荷兰市场。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2024-11 | 荷兰议会正式批准终止净计量 |
+| 2026-Q1 | 国际家储品牌密集进入荷兰市场 |
+| **2027-01-01** | **净计量正式终止，转向自消费模式** |
+
+**住宅储能市场数据：**
+
+| 指标 | 数值 |
+|------|------|
+| 2025 年新增住宅光伏 | 164,000 套（较 2023 峰值 **-72%**） |
+| 家用储能（Thuisbatterij）增速 | 同比 **+140%** |
+| 2026 年住宅储能新增预计 | **1.7 GWh** |
+| 十年末总储能容量预测 | **36.8 GWh**（住宅 14.6 + C&I 12.1 + 大型 10.1 GWh） |
+
+净计量终止倒逼用户提前配储，成为市场增长的核心驱动力；光伏新增骤降与储能爆发形成"剪刀差"。
+
+> **来源：**
+> - [Dutch parliament approves end of net metering in 2027 — PV Magazine](https://www.pv-magazine.com/2024/11/15/dutch-parliament-approves-end-of-net-metering-in-2027/) `[2024-11]`
+> - [With Dutch net metering at an end, SolarVault 3 lands in Netherlands — NL Times](https://nltimes.nl/2026/04/09/dutch-net-metering-end-solarvault-3-energy-solutions-land-netherlands) `[2026-04]`
+> - [Dutch home batteries rise as solar panel additions plummet — IOplus](https://ioplus.nl/en/posts/dutch-home-batteries-rise-as-solar-panel-additions-plummet) `[2026]`
+> - [Residential installations lead Dutch storage boom — ESS News](https://www.ess-news.com/2025/11/24/residential-installations-lead-dutch-storage-boom/) `[2025-11]`
 
 #### PM 解读
 
@@ -532,10 +617,10 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 - 配合智能电表和分时 SEG 电价，可在高价窗口放电，最高可达 50p/kWh
 - **影响**：储能从自消费工具升级为售电收入工具
 
-### 7.3 电力市场参与 `[家储]`
+### 7.3 VPP 与辅助服务参与 `[家储]`
 
-- `[2026-03]` 容量市场拍卖中电池储能获得 576 MW
-- 需跟踪 Ofgem 关于储能参与电力市场的规则更新
+- 家储通过 VPP 聚合参与频率响应、需求侧响应等辅助服务市场
+- 容量市场拍卖详情见 → **7.6 电力市场参与（容量市场 & LDES）**
 
 ### 7.4 阳台/便携储能 `[阳储]` `[移储]`
 
@@ -551,10 +636,73 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 **详细分析见 → [英国 Warm Homes Plan & Social Housing 专题分析](uk_warm_homes_plan_analysis.md)**（含 ECO4 终局、WHP 三层资金结构、Social Housing 批量部署、安装商工具规划、EPC Smart Readiness 战略窗口）
 
-- `[2026-06-15 更新]` **英国容量市场 T-4 拍卖（2029/30 交付年）：BESS 斩获 1.22 GW**：国家能源系统运营商（NESO）在 T-4 长期容量市场拍卖中为 2029/30 交付年采购 1.22 GW 去额定 BESS 容量，清算价格 £27.10/kW/年（2022 年以来最低 T-4 清算价），在建项目占获批容量的绝大多数；结合 T-1 拍卖（576 MW，2026/27 交付年）来看，英国容量市场 2026 年已为储能锁定超 1.8 GW 合同容量（来源：[Batteries awarded 1.22 GW in UK capacity market auction for 2029 delivery — ESS News](https://www.ess-news.com/2026/03/11/batteries-awarded-1-22-gw-in-uk-capacity-market-auction-for-2029-delivery/) `[2026-03]`）
-- `[2026-06-16 更新]` **BS 7671:2018 Amendment 4（2026-04-15 发布）引入电池安全安装新标准，2026-10-15 起强制适用**：英国电气布线法规 BS 7671:2018 第四号修订案正式引入独立的"固定式蓄电池"专章，涵盖家用及商用储能系统；核心要求：① **明确禁止在阁楼（loft）或逃生路线（楼梯、走廊等）安装电池**，以降低热失控扩散风险；② 安装位置须具备充足通风、可维护性和紧急隔离点（safe isolation point）；③ 从 **2026-10-15** 起所有新建住宅电池安装须符合 Amendment 4 要求；违规安装将影响保险理赔及房屋售出前的 EPC 认证（来源：[New rules ban home batteries from lofts in UK homes — Homebuilding](https://www.homebuilding.co.uk/eco-homes/energy/home-battery-systems-banned-from-lofts-under-new-wiring-rules) `[2026]`；[Home Battery Installation Rules UK 2026 — Habo Energy](https://haboenergy.co.uk/home-battery-installation-rules-uk) `[2026]`）
-- `[2026-06-16 更新]` **Ofgem 长时储能（LDES）容量上限方案首批合同预计 2026 年中落地**：Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气等）提供收益稳定性保障（设置收益上限和下限），降低长期资本风险；首批合同签署预计于 **2026 年中**完成；Window 1 共 77 个项目（总计 28.7 GW）通过资格审查，锂离子主导（>20 GW，占比超三分之二）；LDES 激励与 BESS 参与容量市场形成互补，共同构建英国多时长储能政策矩阵（来源：[EU and UK Energy Storage Regulation 2026 — Morgan Lewis](https://www.morganlewis.com/pubs/2026/03/eu-and-uk-energy-storage-regulation-in-2026-and-beyond) `[2026-03]`；[LDES Cap & Floor Window 1 eligibility outcome — Ofgem](https://www.ofgem.gov.uk/decision/long-duration-electricity-storage-cap-and-floor-application-window-1) `[2025-09]`）
-- `[2026-06-18 更新]` **英国政府发布社区电池储能征询（2026-06-04），意向打造"澳洲式"社区电池补贴模式，截止 2026-07-30**：DESNZ（英国能源安全与净零部）于 2026-06-04 正式发布社区电池储能征询（Call for Evidence），截止 2026-07-30；征询核心议题：① 如何规模化推广社区共享电池（Community Battery）；② 如何拆除监管和商业壁垒；③ 如何确保收益惠及租户、公寓住户、低收入家庭等无法自装家庭电池的群体；参考模板为澳洲政府资助的 300+ 社区电池计划（单体容量 50 kW–5 MW）；此举是英国 Warm Homes Plan 和家庭储能补贴框架之外可能出现的**新增政策工具信号**，重点解决当前政策覆盖盲区（来源：[UK government mulls Australia-style community battery subsidy program — ESS News](https://www.ess-news.com/2026/06/04/uk-government-mulls-australia-style-community-battery-subsidy-program/) `[2026-06]`；[Assessing the case for community batteries: call for evidence — GOV.UK](https://www.gov.uk/government/calls-for-evidence/assessing-the-case-for-community-batteries) `[2026-06]`）
+### 7.5 安装标准 `[家储]`
+
+#### BS 7671:2018 Amendment 4 `[已发布，2026-10-15 强制]`
+
+**政策正文概述：** 英国电气布线法规 BS 7671:2018 第四号修订案（2026-04-15 发布）正式引入独立的"固定式蓄电池"专章，涵盖家用及商用储能系统。
+
+**核心要求：**
+- **明确禁止**在阁楼（loft）或逃生路线（楼梯、走廊等）安装电池，以降低热失控扩散风险
+- 安装位置须具备充足通风、可维护性和紧急隔离点（safe isolation point）
+- **2026-10-15** 起所有新建住宅电池安装须符合 Amendment 4 要求
+- 违规安装将影响保险理赔及房屋售出前的 EPC 认证
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-04-15 | Amendment 4 正式发布 |
+| **2026-10-15** | **强制适用于所有新建住宅电池安装** |
+
+> **来源：**
+> - [New rules ban home batteries from lofts in UK homes — Homebuilding](https://www.homebuilding.co.uk/eco-homes/energy/home-battery-systems-banned-from-lofts-under-new-wiring-rules) `[2026]`
+> - [Home Battery Installation Rules UK 2026 — Habo Energy](https://haboenergy.co.uk/home-battery-installation-rules-uk) `[2026]`
+
+### 7.6 电力市场参与（容量市场 & LDES） `[工商储]`
+
+#### 容量市场拍卖 `[已完成]`
+
+2026 年英国容量市场已为储能锁定超 **1.8 GW** 合同容量：
+
+| 拍卖类型 | 交付年 | BESS 获批容量 | 清算价格 |
+|---------|--------|-------------|---------|
+| T-1 | 2026/27 | 576 MW | — |
+| T-4 | 2029/30 | **1.22 GW**（去额定） | £27.10/kW/年（2022 年以来最低） |
+
+在建项目占 T-4 获批容量的绝大多数。
+
+#### LDES Cap and Floor 机制 `[制度制定中]`
+
+Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气等）提供收益上下限保障，降低长期资本风险。首批合同签署预计于 **2026 年中**完成。Window 1 共 77 个项目（总计 28.7 GW）通过资格审查，锂离子主导（>20 GW，占比超三分之二）。LDES 激励与容量市场互补，构建多时长储能政策矩阵。
+
+> **来源：**
+> - [Batteries awarded 1.22 GW in UK capacity market auction for 2029 delivery — ESS News](https://www.ess-news.com/2026/03/11/batteries-awarded-1-22-gw-in-uk-capacity-market-auction-for-2029-delivery/) `[2026-03]`
+> - [EU and UK Energy Storage Regulation 2026 — Morgan Lewis](https://www.morganlewis.com/pubs/2026/03/eu-and-uk-energy-storage-regulation-in-2026-and-beyond) `[2026-03]`
+> - [LDES Cap & Floor Window 1 eligibility outcome — Ofgem](https://www.ofgem.gov.uk/decision/long-duration-electricity-storage-cap-and-floor-application-window-1) `[2025-09]`
+
+### 7.7 社区储能 `[通用]`
+
+#### 社区电池征询 `[政策征询中]`
+
+**政策正文概述：** DESNZ（英国能源安全与净零部）于 2026-06-04 发布社区电池储能征询（Call for Evidence），截止 2026-07-30。参考模板为澳洲政府资助的 300+ 社区电池计划（单体容量 50 kW–5 MW）。
+
+**核心议题：**
+- 如何规模化推广社区共享电池（Community Battery）
+- 如何拆除监管和商业壁垒
+- 如何确保收益惠及租户、公寓住户、低收入家庭等无法自装家庭电池的群体
+
+此举是 Warm Homes Plan 和家庭储能补贴框架之外的**新增政策工具信号**，重点解决当前政策覆盖盲区。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-06-04 | DESNZ 发布社区电池 Call for Evidence |
+| **2026-07-30** | **征询截止** |
+| 待定 | 政策方案公布 |
+
+> **来源：**
+> - [UK government mulls Australia-style community battery subsidy program — ESS News](https://www.ess-news.com/2026/06/04/uk-government-mulls-australia-style-community-battery-subsidy-program/) `[2026-06]`
+> - [Assessing the case for community batteries: call for evidence — GOV.UK](https://www.gov.uk/government/calls-for-evidence/assessing-the-case-for-community-batteries) `[2026-06]`
 
 #### PM 解读
 
@@ -685,7 +833,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 | **储能补贴额度** | 额外 PLN 16,000（约 €3,750）用于配套储能系统 | 2024-2025 |
 | **申请情况** | 共 12.1 万份申请，其中 7.4 万份（60%）包含储能 | 2025 统计 |
 | **平均储能容量** | 约 5 kWh | 2025 |
-| **Mój Prąd 7.0** | 第七期预计 2026 上半年启动 | 待定 |
+| **Mój Prąd 7.0** | 已于 2026-03-30 启动，预算 PLN 3 亿（约 €7,000 万），聚焦储能，详见下方 | 2026-03-30 已启动 |
 
 ### 11.2 大型储能 `[通用]`
 
@@ -702,8 +850,22 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Poland Allocates Subsidies to 14.5 GWh — PV Magazine](https://www.pv-magazine.com/2025/12/19/poland-allocates-subsidies-to-14-5-gwh-of-energy-storage-projects/) `[2025-12]`
 > - [Poland Solar Subsidies 2025 — SurgePV](https://www.surgepv.com/hub/solar-industry/poland) `[2025]`
 
-- `[2026-06-14 更新]` **Mój Prąd 7.0 确认聚焦储能，预计 2026-Q1 开放申请**：官方名称调整为"家庭储能资助计划"（Finansowanie domowych magazynów energii），与前六期最大差异在于**完全以储能系统为主体**（不单独资助新建光伏；现有光伏用户方可搭配申请储能补贴）；公众咨询已于 2026-02-05 结束，预计 2026 年 3 月开放申请（来源：[Program Mój Prąd 7.0 powraca! — SWATT](https://swatt.pl/pl/SWATT_WIEDZY/dofinansowania/program-moj-prad-70-powraca-w-2026-rzad-finansuje-magazyny-energii-i-ciepla) `[2026]`；[Czy będzie Mój Prąd 7.0? — Sunergo](https://sunergo.pl/blog/czy-bedzie-moj-prad-7-0-co-juz-wiemy-o-programie-i-kiedy-moj-prad-2026-startuje/) `[2026]`）
-- `[2026-06-15 更新]` **Mój Prąd 7.0（过渡计划）已于 2026-03-30 正式启动，预算 PLN 3 亿**：过渡性计划已按预期于 2026-03-30 开放申请；预算约 PLN 3 亿（约 €7,000 万），远低于 Mój Prąd 6.0 的 PLN 18.5 亿；定位为 Mój Prąd 6.0 结束到未来"现代化基金"（Modernization Fund）储能项目之间的桥接计划，主要覆盖已完成安装但错过前期申请窗口的项目（来源：[Mój Prąd 7.0 – zasady i dotacje na magazyny energii 2026 — SunSol](https://sunsol.pl/dofinansowanie-fotowoltaiki/moj-prad-7-0-zasady-programu/) `[2026]`；[Nowy start programu Mój Prąd 7.0 — Alians OZE](https://alians-oze.pl/moj-prad-7-dotacje-magazyny-energii-2026/) `[2026]`）
+#### Mój Prąd 7.0 详情 `[已启动]`
+
+**政策正文概述：** 官方名称调整为"家庭储能资助计划"（Finansowanie domowych magazynów energii），与前六期最大差异在于**完全以储能系统为主体**——不单独资助新建光伏，现有光伏用户方可搭配申请储能补贴。预算约 PLN 3 亿（约 €7,000 万），远低于 Mój Prąd 6.0 的 PLN 18.5 亿（缩水约 16 倍）。定位为 Mój Prąd 6.0 结束到未来"现代化基金"（Modernization Fund）储能项目之间的桥接计划，主要覆盖已完成安装但错过前期申请窗口的项目。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-02-05 | 公众咨询结束 |
+| **2026-03-30** | **过渡计划正式启动，开放申请** |
+| 待定 | "现代化基金"储能项目接续 |
+
+> **来源：**
+> - [Program Mój Prąd 7.0 powraca! — SWATT](https://swatt.pl/pl/SWATT_WIEDZY/dofinansowania/program-moj-prad-70-powraca-w-2026-rzad-finansuje-magazyny-energii-i-ciepla) `[2026]`
+> - [Czy będzie Mój Prąd 7.0? — Sunergo](https://sunergo.pl/blog/czy-bedzie-moj-prad-7-0-co-juz-wiemy-o-programie-i-kiedy-moj-prad-2026-startuje/) `[2026]`
+> - [Mój Prąd 7.0 – zasady i dotacje na magazyny energii 2026 — SunSol](https://sunsol.pl/dofinansowanie-fotowoltaiki/moj-prad-7-0-zasady-programu/) `[2026]`
+> - [Nowy start programu Mój Prąd 7.0 — Alians OZE](https://alians-oze.pl/moj-prad-7-dotacje-magazyny-energii-2026/) `[2026]`
 
 #### PM 解读
 
