@@ -1107,6 +1107,7 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - [New rules allow VPPs to compete in Australia's energy market from 2027 — PV Magazine](https://www.pv-magazine.com/2025/01/09/new-rules-allow-vpps-to-compete-in-australias-energy-market-from-2027/) `[2025-01]`
 > - [AEMC energy market reform: VPP dispatch mode — PV Tech](https://www.pv-tech.org/australia-aemc-consumer-energy-rule-change/) `[2025]`
 > - [VPP Offers in Australia 2026 — Energy Matters](https://www.energymatters.com.au/vpp-offer/) `[2026]`
+> - [Virtual Power Plants in Australia: 2026 Guide — Australian Battery Quotes](https://australianbatteryquotes.com.au/vpp-australia-2026-guide/) `[2026]`
 > - [Best VPP Plans Australia 2026 Compared — Gridly](https://www.gridly.com.au/blog/best-vpp-plans-australia) `[2026]`
 > - [Is Your Battery VPP-Ready? Smart Inverters Matter in 2026 — Energy Matters](https://www.energymatters.com.au/renewable-news/battery-vpp-ready-smart-inverters-australia/) `[2026]`
 
