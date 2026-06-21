@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-06-20
+> 最后更新：2026-06-21
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -695,6 +695,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 | 2024-11 | 荷兰议会正式批准终止净计量 |
 | 2026-Q1 | 国际家储品牌密集进入荷兰市场 |
 | **2027-01-01** | **净计量正式终止，转向自消费模式** |
+| **2027-06（预计）** | **荷兰政府出台国家灵活性与储能综合政策议程**（integral policy agenda for energy storage），设定国家储能部署目标 |
 
 **住宅储能市场数据：**
 
@@ -712,14 +713,16 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [With Dutch net metering at an end, SolarVault 3 lands in Netherlands — NL Times](https://nltimes.nl/2026/04/09/dutch-net-metering-end-solarvault-3-energy-solutions-land-netherlands) `[2026-04]`
 > - [Dutch home batteries rise as solar panel additions plummet — IOplus](https://ioplus.nl/en/posts/dutch-home-batteries-rise-as-solar-panel-additions-plummet) `[2026]`
 > - [Residential installations lead Dutch storage boom — ESS News](https://www.ess-news.com/2025/11/24/residential-installations-lead-dutch-storage-boom/) `[2025-11]`
+> - [5 answers shaping Dutch energy storage in 2026 — Solarplaza](https://www.solarplaza.com/resource/13513/article-5-answers-shaping-dutch-energy-storage-2026/) `[2026]`
 
 #### PM 解读
 
-> **[2026-06-15]**
+> **[2026-06-21]**
 > - **爆发已经在 2026 发生，不要等 2027——光伏渠道失效，必须建立独立储能渠道**：住宅储能 2025 年同比增长 140%，2026 年预计新增 1.7 GWh；与此同时，住宅新增光伏同比跌 72%，"光伏安装商顺带推储能"的渠道模式在荷兰已经失效。进入荷兰市场必须依靠独立的储能安装商合作网络或 D2C 渠道。2026 年下半年是最大的销售窗口，错过后 2027 年的竞争强度将明显更高
 > - **"即插即用、无需注册"是荷兰阳储的体验底线**：荷兰允许即插即用光伏且无需注册，这意味着用户预期是"买来插上就能用"。阳储 App 的首次配网和激活流程如果超过 5 分钟或需要专业安装商介入，就违背了市场心智。Anker SOLIX Solarbank 在这块的即插即用体验是对标标杆
 > - **€1 亿储能补贴聚焦中大型系统，家储可能受益有限**：需要跟踪 SPULA 补贴的实际分配情况，判断住宅级储能的实际受惠比例
 > - **36.8 GWh 十年预测支撑荷兰市场的长期本地化投入**：荷兰到本十年末预测总储能容量 36.8 GWh（住宅 14.6 + C&I 12.1 + 大型 10.1 GWh），是欧洲住宅储能密度最高的市场之一。荷兰语 App 本地化、本地电力零售商电价 API（Eneco、Vattenfall、Vattenfall 等）接入、自消费率实时可视化——这些投入在 36.8 GWh 市场规模下具有清晰 ROI
+> - **荷兰 2027-06 国家储能目标是 B 端大型 BESS 的政策锚点信号**：荷兰政府预计在 2027 年 6 月出台国家灵活性与储能综合政策议程，设定量化储能部署目标——这是继净计量终止（2027-01）之后第二个对储能行业具有信号意义的政策节点。对产品策略影响：目标确定前，荷兰大型 BESS 投资决策处于"等待政策锚点"阶段；目标公布后，将为 C&I 和独立 BESS 项目开发商提供长期确定性。现阶段建议跟踪目标的具体 GW/GWh 量化值，以判断荷兰是否值得为 B 端储能管理平台做专项本地化投入
 
 ---
 
@@ -1134,7 +1137,7 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 
 | 州 | 政策 | 状态 |
 |----|------|------|
-| **新南威尔士（NSW）** | VPP 激励：加入 VPP 的 2-28 kWh 电池可获 $60-$1,680 证书 | 有效（电池补贴已终止，仅 VPP 激励存续） |
+| **新南威尔士（NSW）** | VPP 激励：**2025-07-01 起升级为一次性前置支付**，2–28 kWh 电池最高 **$1,500**（典型 10 kWh 约 $1,100），可与联邦 CHB 补贴叠加 | 有效（电池补贴已终止，仅 VPP 激励存续） |
 | **维多利亚（VIC）** | 免息贷款计划（Solar Victoria）**已关闭**；2026-07-01 起补贴收入门槛从 $210,000 降至 **$150,000** | 收紧中 |
 | **昆士兰（QLD）** | Battery Booster Loan and Rebate：免息贷款最高 $6,000 + 补贴最高 $3,000 | **已关闭** |
 | **南澳（SA）** | REPS 认证 VPP 补贴，最高 $2,050；⚠️ 2026-04-07 起 VPP1 暂停，2026-05-05 起非优先群体无法申请，仅 Amber SmartShift 优先群体可申 | 收紧中 |
@@ -1143,6 +1146,8 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > **来源（州级政策更新）：**
 > - [Understanding REPS in South Australia and what's changing in 2026 — MAC Trade Services](https://mactradeservices.com.au/understanding-reps-in-south-australia-and-whats-changing-in-2026) `[2026]`
 > - [Solar Battery Rebate VIC — Zero Energy Australia](https://zeroenergygroup.com.au/solar-battery-rebate-victoria-everything-you-need-to-know-before-applying-2026-edition/) `[2026]`
+> - [NSW turbocharges home battery savings with new incentive scheme — Clean Energy Council](https://cleanenergycouncil.org.au/news-resources/nsw-turbocharges-home-battery-savings-with-new-incentive-scheme) `[2025-07]`
+> - [NSW VPP Battery Incentive 2026 — Solar Battery Outlet](https://solarbatteryoutlet.com.au/nsw-vpp-battery-incentive-2026/) `[2026]`
 
 ### 15.4 阳台/便携储能 `[阳储]` `[移储]`
 
@@ -1224,7 +1229,7 @@ AEMO CEO 表示"对被动家庭电池对系统的正面冲击规模感到意外"
 
 #### PM 解读
 
-> **[2026-06-19]**
+> **[2026-06-21]**
 > - **VPP 能力是澳大利亚家储的硬性市场准入门槛**：联邦补贴明确要求并网系统"必须具备 VPP 能力"。这不是"有了加分"，而是"没有就拿不到补贴"。App/固件必须内置 VPP 协议栈（支持澳洲主流 VPP 聚合商接口），否则产品在澳洲市场直接失去竞争力。Tesla、Sonnen、Enphase 在这块已经成熟，是硬门槛
 > - **14 kWh 甜点成立，但平均装机容量翻倍是重要信号——容量推荐算法不能只推 14 kWh**：阶梯补贴结构（0-14 kWh 全额，14-28 kWh 六折）使 13.5-14 kWh 依然是"补贴最优"选项，但用户平均装机容量翻倍表明相当比例用户主动选择更大容量——他们在用"补贴覆盖以外的自付成本"换取更长的 VPP 收益期。App 的容量推荐页需要同时呈现两个场景："补贴最大化方案（14 kWh）"和"VPP 收益最大化方案（XX kWh）"，用数字让用户自主决策
 > - **州级政策正在收缩（VIC/QLD 已关闭），联邦补贴成为唯一支撑**：多个州级补贴已关闭，NSW 仅保留 VPP 激励，SA 的 VPP 补贴最高 $2,050。趋势是"联邦补贴兜底 + VPP 收入驱动"。App 需要向用户清晰展示"联邦补贴节省 + VPP 年化收入"的组合经济账
@@ -1235,6 +1240,7 @@ AEMO CEO 表示"对被动家庭电池对系统的正面冲击规模感到意外"
 > - **"被动电池"峰值减负 80% 是重要的 App 叙事锚点——不参与 VPP 的用户同样创造了真实的电网价值**：AEMO 数据表明每套被动家庭电池在峰值时段减负约 1.4 kW（80%），这个数字比任何营销文案都有说服力。App 首屏可展示"今日为电网减负 X kWh"指标（基于 AEMO 公开的峰值时段数据估算），让不参与 VPP 的用户也能感知自己的社会贡献，提升品牌归属感和续费率——而且这不需要 VPP 接入，只需要 App 端的数据可视化能力
 > - **AEMC $5,000 万激励 2026-04 已开放，VPP 接口认证应立即排入 2026 Q3 路线图，不能等 2027-05**：$5,000 万早期参与资金已在分配，面向提前接入聚合商平台的资源方（包括家储硬件厂商提供聚合商 API 接入支持）。2027-05 调度模式正式生效后 VPP 聚合商竞价需完成技术合规认证，届时再赶会丧失先发优势。建议：立即接触澳洲主流 VPP 聚合商（Tesla Energy Plan、AGL、Origin、Amber Electric），在 2026 Q3 完成 API 接口认证对接，借助 $5,000 万激励分摊认证和集成成本
 > - **SA REPS 补贴实质收紧（非优先群体已无法申请），南澳市场 VPP 销售逻辑需从"补贴驱动"切换为"套利收益驱动"**：VPP1 暂停 + 非优先群体锁定，意味着 SA 普通家庭用户通过 REPS 快速回本的路径基本关闭。App 在南澳市场的 VPP 推广文案需调整：突出"Amber/Tesla/AGL 每年 $300-$1,000 套利收益"而非"最高 $2,050 REPS 补贴"（后者对绝大多数用户已不适用）。**VIC 收入门槛 7 月 1 日降至 $15 万**：App 内的"补贴资格快速查询"功能须在 6 月 30 日前更新门槛逻辑，避免向年收入 $15-21 万的维州用户展示已失效的补贴预期，引发退款投诉
+> - **NSW VPP 激励已于 2025-07-01 从证书制切换为前置支付，App 收益展示逻辑需更新**：NSW VPP 激励从旧的"证书额度（$60-$1,680 PREO 证书）"升级为一次性前置支付——10 kWh 电池约 $1,100，上限 $1,500（28 kWh 时触及）。更重要的是：这笔钱在安装时直接从价格中扣减，而非事后返还。App 内的"NSW 收益测算"模块须同步更新：展示"联邦补贴（CHB）+ NSW VPP 前置支付"的组合节省（典型 10 kWh 用户合计超 $4,200），并明确说明 NSW VPP 前置支付与联邦补贴可叠加、且无需事后申请，以提升用户在安装决策时的置信度
 
 ---
 
