@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-06-19
+> 最后更新：2026-06-20
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -185,13 +185,21 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 
 行业协会（Energy Storage Europe）警告：若时间表过紧，将在储能扩张最急迫阶段反而放慢 BESS 部署。
 
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-03-04 | 欧盟委员会发布 IAA 立法提案 |
+| **2026-Q2** | **欧洲议会指定报告人（Rapporteur），正式启动议会审议程序** |
+| **2027 年以后（预计）** | **立法流程完成（欧盟议会 + 理事会联合决策，通常需 1-2 年）** |
+
 > **来源：**
 > - [EU industrial strategy could slow BESS progress, association warns — ESS News](https://www.ess-news.com/2026/03/05/eu-industrial-strategy-could-slow-bess-progress-association-warns/) `[2026-03]`
 > - [EU Industrial Accelerator Act — Bird & Bird](https://www.twobirds.com/en/insights/2026/europe-powers-up-the-eu's-bold-legislative-drive-for-a-homegrown-battery-industry) `[2026]`
+> - [Industrial Accelerator Act: EU Legislation in Progress — European Parliament Think Tank](https://epthinktank.eu/2026/05/21/industrial-accelerator-act-eu-legislation-in-progress/) `[2026-05]`
 
 #### PM 解读
 
-> **[2026-06-18]**
+> **[2026-06-20]**
 >
 > - 碳足迹合规是 2026-2027 年 EU 市场准入的**第一优先级事项**。不做 = 退出 EU 市场（无碳足迹申报 → 无 CE 认证 → 产品禁售）
 > - 碳足迹合规不是"填个表"，而是需要**六层软件系统全链路贯通**的系统工程：供应链数据采集 → LCA 计算引擎 → 电池护照平台 → BMS 固件改造 → 云平台扩展 → App 端展示
@@ -201,6 +209,7 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - IEC 62133 vs IEC 62619 标准分野意味着不同产品线的 BMS 固件安全逻辑不能简单复用
 > - **2026-08-18 委托法规是电池护照系统设计的最后一块拼图**：委托法规将明确护照数据访问权限分层（谁可以看哪些字段）和信息更新规则。这是构建电池护照软件系统的关键输入——访问权限划分决定前端角色 UI 设计（不同身份可见字段不同），更新规则决定数据管道架构（谁能写入、谁能只读、何时触发更新）。2026-08-18 发布后应立即解读并同步更新系统设计，距 2027-02 电池护照强制生效仅剩约 6 个月
 > - **IAA 欧产含量要求是中国厂商参与 EU 公共补贴项目的新隐性门槛——BMS 欧产要求 1 年内落地，需立即评估合规路径**：IAA 草案对公共资金支持的储能项目设定分阶段欧产要求（1 年：BMS；3 年：电芯）。德国 KfW 补贴、英国 Warm Homes Plan、意大利 GSE 计划等主要公共补贴项目均可能纳入 IAA 范围，意味着中国储能厂商若无欧洲制造的 BMS，可能在法案生效 1 年后失去上述补贴项目的产品资格。建议立即启动两项评估：① 现有 BMS 供应商是否可以切换至欧洲制造版本（或合作欧洲供应商）；② IAA 正式生效时间线（立法程序约 1-2 年），对应产品供应链改造窗口。Northvolt 破产后欧洲电芯产能高度受限，3 年电芯欧产要求若不放宽，实际上对所有非欧洲厂商构成系统性障碍
+> - **IAA 立法进度更新：已进入议会审议阶段，最终立法预计 2027 年以后**：欧洲议会已于 2026-Q2 完成报告人（Rapporteur）指派，正式启动议会审议程序。欧盟理事会与议会联合决策流程通常需 1-2 年，实际生效最早 2027 年。这意味着：① 针对 IAA Made in Europe 要求的供应链合规窗口仍有 1-2 年缓冲；② 当前是提交行业意见、争取条款宽松化的最佳时机（议会磋商阶段比立法完成后更容易影响文本）；③ BMS 欧产要求虽尚未生效，但 IAA + StromVKG ≥50% EEA 要求同向叠加——欧洲制造布局的战略必要性已从"未来选项"升格为"现在决策"
 >
 > **详细分析见 → [EU 碳足迹合规专题分析](eu_carbon_footprint_compliance_analysis.md)**（含六层架构拆解、不合规四级影响链路、产品线差异化影响、竞争格局分析、行动时间表）
 
@@ -375,23 +384,28 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 ### 2.9 电力供应安全与容量法（StromVKG） `[工商储]`
 
-#### Referentenentwurf（部级草案） `[立法进行中]`
+#### 内阁已通过，进入议会程序 `[立法进行中]`
 
-**政策正文概述：** StromVKG（原 Kraftwerksstrategie）草案于 2026-04-24 发布，目标新增 **11 GW** 备用容量：其中 **9 GW** 针对氢气就绪型燃气机组（须满足 10 小时满负荷标准），**2 GW** 技术中立向储能开放。9/2 容量比实质上确立"气优储劣"基准，独立大型 BESS 被排除在主体补贴体系之外。
+**政策正文概述：** StromVKG（原 Kraftwerksstrategie）于 **2026-05-13** 经联邦内阁（Bundeskabinett）表决通过，进入议会立法程序。目标新增 **11 GW** 备用容量，分三轮拍卖落地：① **首轮**（2026-09-01，4.5 GW）和 **次轮**（2026-12-08，4.5 GW）合计 9 GW，须满足 10 小时持续满负荷标准，实质仅适用氢气就绪型燃气机组；② **BESS 专项拍卖**（计划 2027-05-18，2 GW），取消 10 小时标准，但要求储能终端产品 **≥50% EEA 制造来源**。9 GW 气优格局实质将独立大型 BESS 排除在 2026 年两轮主体拍卖之外；中国厂商参与 2027 年 BESS 专项拍卖还面临 EEA 来源合规门槛。
 
 **进展追踪：**
 | 时间 | 事件 |
 |------|------|
 | 2026-04-24 | 部级草案（Referentenentwurf）正式发布 |
-| **2026-09（计划）** | **首轮容量拍卖启动** |
+| **2026-05-13** | **StromVKG 经联邦内阁（Bundeskabinett）表决通过，进入议会立法程序** |
+| **2026-09-01（计划）** | **首轮容量拍卖（4.5 GW，10 小时满负荷标准，氢气就绪燃气机组为主）** |
+| **2026-12-08（计划）** | **第二轮容量拍卖（4.5 GW，同上标准）** |
+| **2027-05-18（计划）** | **BESS 专项拍卖（2 GW，取消 10 小时标准；要求储能终端产品 ≥50% EEA 制造来源）** |
 
 > **来源：**
 > - [Kraftwerksstrategie konkretisiert sich — GÖRG](https://www.goerg.de/de/aktuelles/veroeffentlichungen/24-04-2026/kraftwerksstrategie-konkretisiert-sich-der-referentenentwurf-zum-stromvkg-liegt-vor) `[2026-04]`
 > - [SMC-Studie StromVKG: 11 GW Lücke — CleanThinking](https://www.cleanthinking.de/smc-studie-kraftwerksstrategie-stromvkg/) `[2026-04]`
+> - [Kraftwerksstrategie passiert Bundeskabinett — PV Magazine Deutschland](https://www.pv-magazine.de/2026/05/13/kraftwerksstrategie-passiert-bundeskabinett/) `[2026-05]`
+> - [German Power Plant Strategy - Draft StromVKG — Chatham Partners](https://chatham.partners/insights/german-power-plant-strategy/) `[2026]`
 
 #### PM 解读
 
-> **[2026-06-19]**
+> **[2026-06-20]**
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
 > - **负电价窗口规避是家储 App 的核心卖点场景**：2025-02 政策意味着用户在 EPEX 现货价为负时馈电收益为零。App 必须集成 EPEX 实时电价数据，并实现"负电价窗口自动充电、正电价窗口放电/馈电"的智能调度。这不是 AI 花活，而是直接影响用户收益的刚需功能
 > - **800W 馈电上限对阳储微逆固件提出精准控制要求**：VDE V 0126-95 明确 800W 上限，意味着微逆固件必须实现精准的功率钳位（power clamping），超限馈电可能导致合规风险。App 端需要实时展示当前馈电功率和限值状态，让用户可见可信
@@ -402,6 +416,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - **MiSpeL 仅适用于工商储（C&I）及公用级储能，与家储产品线无关**：包干方案（Pauschaloption）要求光伏装机 ≥30 kW 且同一运营主体，典型住宅光储系统（5–15 kWp）不满足准入门槛。共址 BESS 不再要求 100% 可再生电力充入才能保留 EEG 补贴，EMS 算法可以从"最大化绿电消纳"切换为"最大化市场套利"——但这一策略解绑只对 C&I 及公用级储能有意义。对同时拥有商业储能业务线的厂商，MiSpeL 意味着 B 端 EMS 需要增加"EEG 电量分割核算"模块：包干方案下监控年度 500 kWh/kW 补贴上限并自动估算绿电占比，分割方案下接入 15 分钟级校准计量数据源，满足 BNetzA 合规要求的同时最大化套利收益。家储 App 无需为 MiSpeL 做任何适配
 > - **Redispatch 妥协信号落地，EEG 2027 内阁审议可期，产品路线图应立即解锁**：经济部长在 BDEW 大会公开承诺夏休前审议且明确放弃 Redispatch 条款，将 EEG 2027 内阁表决确定性从"不明朗"升级为"大概率通过"。产品规划不应继续观望——≤25 kWp 住宅光伏取消固定馈电补偿（配储豁免 50% 馈电上限）和 iMSys 门槛降至 2 kW 两条核心条款几乎必然进入最终法案。建议立即将"光储 ROI 双轨计算器（纯光伏 vs 光储对比曲线）"和"iMSys 智能电表接入兼容适配"排入 2026 Q3 开发计划，无需等待立法最终通过
 > - **StromVKG 草案将独立 BESS 置于容量市场竞争劣势，B 端储能投资测算需重置收益假设**：StromVKG 11 GW 备用容量中 9 GW 明确针对氢气就绪燃气机组（满足 10 小时满负荷标准），仅 2 GW 技术中立。9 月招标若按草案落地，德国大型 BESS 无法参与主体容量补贴竞争，收益路径回归"纯套利 + AgNes 容量费"。对有 B 端工商储业务的厂商：须从投资模型中移除容量市场收益假设，向客户展示以 EPEX 套利 + AgNes 容量费为基础的 IRR 保守情景；同时关注 2 GW 技术中立容量的拍卖细则，这是 BESS 参与 StromVKG 的唯一可能窗口
+> - **StromVKG 已过内阁关，BESS 唯一参与窗口（2027-05 专项拍卖）附带 ≥50% EEA 制造来源门槛，中国厂商需立即评估合规路径**：StromVKG 于 2026-05-13 经内阁通过，确定性从"草案方向"升级为"大概率立法"。BESS 的正式参与渠道是 2027-05-18 的 2 GW 技术中立专项拍卖（取消 10 小时满负荷标准），但该拍卖要求储能终端产品 **≥50% EEA 制造来源**——全球 BESS 制造高度集中于中国供应链，这一门槛对多数中国厂商构成实质准入障碍。建议三步评估：① 现有供应链能否满足 EEA 来源比例；② 欧洲合规制造路径（欧洲组装/采购欧洲电芯）可行性与成本；③ 若无法合规，将 B 端收益假设彻底切回"纯套利 + AgNes 容量费"模型。同时在议会立法完成前（预计 2026 年底），通过 BVES/Energy Storage Europe 提交意见，推动 EEA 比例要求宽松化或设置过渡期
 
 ---
 
