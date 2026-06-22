@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-06-21
+> 最后更新：2026-06-22
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -411,9 +411,42 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Kraftwerksstrategie passiert Bundeskabinett — PV Magazine Deutschland](https://www.pv-magazine.de/2026/05/13/kraftwerksstrategie-passiert-bundeskabinett/) `[2026-05]`
 > - [German Power Plant Strategy - Draft StromVKG — Chatham Partners](https://chatham.partners/insights/german-power-plant-strategy/) `[2026]`
 
+### 2.10 输电网接入竞争机制（Reifegradverfahren）`[工商储]`
+
+#### 成熟度评级取代先到先得 `[已生效]`
+
+**政策正文概述：** 德国四大输电系统运营商（50Hertz、Amprion、TenneT、TransnetBW）于 2026-02-05 联合宣布引入"成熟度评级程序"（Reifegradverfahren），于 **2026-04-01** 正式生效，取代沿用多年的先到先得原则（Windhundprinzip）。政策背景：截至 2025 年 Q3，四大 TSO 共收到 717 份超高压电网接入申请，合计请求容量约 270 GW，其中 545 份（211 GW）来自大型电池储能项目，已严重超出电网规划及可用接入容量。新机制将申请改为按固定周期集中收集与评审，依据可量化的成熟度标准竞争分配接入容量。
+
+**评分标准（满分 100 分）：**
+
+| 维度 | 权重 | 说明 |
+|------|------|------|
+| 场地控制 | 30% | 已取得项目用地控制权证明 |
+| 技术成熟度 | 30% | 系统设计方案、设备选型、工程可行性 |
+| 资金能力 | 30% | 融资到位证明、股东资信情况 |
+| 协同部署加成 | 10% | 与可再生发电资产共址的附加评分 |
+
+**申请费用与保证金：**
+- 每份申请须缴纳**不可退还**申请费 **€50,000**
+- 申请方可在前 6 周内申请"完整性预审"（Vollständigkeitsprüfung，可选），一旦接受须在 1 个月内缴纳 **€1,500/MW** 实现保证金（事后可抵扣建设成本贡献金 Baukostenzuschuss）
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-02-05 | 四大 TSO 联合宣布 Reifegradverfahren |
+| 2026-04-01 | 第一申请周期启动（信息发布与申请受理阶段） |
+| **2026-06-30** | **第一申请周期截止（24:00），申请不可补充或修改** |
+| 2026-Q3（预计） | 第一周期评审结果公布 |
+
+> **来源：**
+> - [German TSOs introduce maturity-based procedure for grid-scale battery storage — ESS News](https://www.ess-news.com/2026/02/06/german-tsos-introduce-maturity-based-procedure-for-grid-scale-battery-storage-connections/) `[2026-02]`
+> - [From "First Come" to "First Ready": Germany's New Maturity-Based Grid Connection Process — Herbert Smith Freehills Kramer](https://www.hsfkramer.com/notes/energy/2026-posts/from-first-come-to-first-ready-germanys-new-maturity-based-grid-connection-process-for-bess-and-large-scale-consumers) `[2026]`
+> - [Germany: Maturity Evaluation Procedure for Transmission Grid Connections — Baker McKenzie](https://www.bakermckenzie.com/en/insight/publications/2026/03/germany-maturity-evaluation-procedure-for-transmission-grid-connections) `[2026-03]`
+> - [How to apply for transmission grid connection under Germany's new Reifegradverfahren — Modo Energy](https://modoenergy.com/research/en/germany-bess-battery-grid-access-connection-tso-transmission-reifegrad-maturity-principle-april-2026) `[2026-04]`
+
 #### PM 解读
 
-> **[2026-06-21]**
+> **[2026-06-22]**
 > - **EEG 2027 内阁表决再次推迟至 7 月且无具体日期，但 2027-01-01 生效目标未变——产品准备窗口实质压缩**：从 6-24 推迟至 7 月意味着即使 7 月底过内阁、夏休后启动议会程序，Bundestag + Bundesrat 完成立法仅剩约 4 个月（9-12 月），议会仍可大幅修改条款。核心条款（取消 ≤25 kWp 馈电补偿、iMSys 门槛降至 2 kW）方向不变，但具体参数和过渡期可能在议会阶段被柔化。建议：产品路线图按"2027-01 生效"不变推进，但 ROI 计算器的馈电率参数需设计为可热更新——议会修改出台后 48 小时内完成参数切换
 > - **StromVKG 一读完成但 Südbonus 争议可能影响 BESS 拍卖区域分配**：联邦议院一读中，2/3 容量分配至南部的 Südbonus 条款引发争议。若最终立法保留该条款，2027-05 的 2 GW BESS 专项拍卖中约 1.3 GW 将定向分配至南部（巴伐利亚、巴登-符腾堡），北部项目竞争空间被压缩。对有 B 端工商储业务的厂商：项目选址应优先南部电网瓶颈区域，以增加拍卖中标概率
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
@@ -428,6 +461,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - **StromVKG 草案将独立 BESS 置于容量市场竞争劣势，B 端储能投资测算需重置收益假设**：StromVKG 11 GW 备用容量中 9 GW 明确针对氢气就绪燃气机组（满足 10 小时满负荷标准），仅 2 GW 技术中立。9 月招标若按草案落地，德国大型 BESS 无法参与主体容量补贴竞争，收益路径回归"纯套利 + AgNes 容量费"。对有 B 端工商储业务的厂商：须从投资模型中移除容量市场收益假设，向客户展示以 EPEX 套利 + AgNes 容量费为基础的 IRR 保守情景；同时关注 2 GW 技术中立容量的拍卖细则，这是 BESS 参与 StromVKG 的唯一可能窗口
 > - **StromVKG 已过内阁关，BESS 唯一参与窗口（2027-05 专项拍卖）附带 ≥50% EEA 制造来源门槛，中国厂商需立即评估合规路径**：StromVKG 于 2026-05-13 经内阁通过，确定性从"草案方向"升级为"大概率立法"。BESS 的正式参与渠道是 2027-05-18 的 2 GW 技术中立专项拍卖（取消 10 小时满负荷标准），但该拍卖要求储能终端产品 **≥50% EEA 制造来源**——全球 BESS 制造高度集中于中国供应链，这一门槛对多数中国厂商构成实质准入障碍。建议三步评估：① 现有供应链能否满足 EEA 来源比例；② 欧洲合规制造路径（欧洲组装/采购欧洲电芯）可行性与成本；③ 若无法合规，将 B 端收益假设彻底切回"纯套利 + AgNes 容量费"模型。同时在议会立法完成前（预计 2026 年底），通过 BVES/Energy Storage Europe 提交意见，推动 EEA 比例要求宽松化或设置过渡期
 > - **EEG 馈电补偿 2026-08-01 再降 1%，App ROI 计算器须在 7 月底前完成参数更新**：EEG 2023 内置的半年递减机制将于 8 月 1 日触发，新并网系统馈电补偿区间从当前约 5.50–12.35 ct/kWh 降至约 5.45–12.22 ct/kWh（属于定期调整，非 EEG 2027 改革范畴）。核心行动点：App 内置"光储 ROI 计算器"若将 EEG 馈电率写死，需在 7 月 31 日前更新参数，否则 8 月后新装用户的回报测算将系统性偏高，引发售后投诉。建议将 EEG 馈电率改为后端动态配置参数（每半年拉取 BNetzA/EEG 官方数据更新），彻底消除此类定期维护负担
+> - **Reifegradverfahren 首轮申请 6-30 截止——德国大型 BESS 电网接入从"抢先提交"升级为"成熟度竞争"，211 GW 申请积压倒逼机制重置**：截至 2025 年 Q3，德国 TSO 已收到 211 GW 大型 BESS 电网接入申请（545 个项目），远超实际可用容量，先到先得机制已实质失效。新机制（2026-04 生效）以场地控制（30%）+ 技术成熟度（30%）+ 资金能力（30%）+ 共址加成（10%）为评分标准，用项目真实准备程度替代提交时间。对 B 端大型 BESS 业务的产品影响：① 电网接入时间线不再可预测——成熟度评审结果（Q3 公布）是实际落地节奏的决定性节点，B 端项目管理工具需将"TSO 申请状态 + 评审进度"纳入项目看板；② 共址部署（与可再生发电资产同址）获额外 10% 加分，工商储项目规划阶段应优先考虑"光 + 储共址"方案；③ €50,000 不可退还申请费意味着只有真正成熟的项目才会入场——德国大型 BESS 市场将从"圈地跑马"切换为"有序竞争"，实际开发周期更可预期但准入门槛显著提高
 
 ---
 
