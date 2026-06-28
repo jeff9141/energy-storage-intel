@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-06-22
+> 最后更新：2026-06-28
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -349,7 +349,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 ### 2.7 储能市场整合 `[工商储]`
 
-**MiSpeL（Marktintegration von Speichern und Ladepunkten）** `[认定程序进行中]`
+**MiSpeL（Marktintegration von Speichern und Ladepunkten）** `[Festlegung 已发布]`
 
 核心突破：共址（co-location）场景下，BESS 充入非 100% 可再生电力也不再丧失 EEG 补贴资格，允许按市场电价优化充放电策略。**适用范围**：包干方案要求光伏装机 ≥30 kW 且同一运营主体，年度补贴上限 500 kWh/kW 装机，典型住宅光储系统（5–15 kWp）不满足门槛，仅适用于 C&I 及公用级储能。
 
@@ -357,18 +357,21 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 - **包干方案（Pauschaloption）**：光伏 ≥30 kW 的 C&I 系统，按标准化比例估算绿电占比，超年度上限部分按市场价结算
 - **分割方案（Abgrenzungsoption）**：15 分钟级校准计量，精准核算能量流向，适合大型商业系统
 
-认定程序完成后，电网运营商尚需 6–12 个月完成系统适配，预计实际影响在 2027 年初显现。
+认定程序完成后，电网运营商尚需 6–12 个月完成系统适配，预计实际影响在 2027 年初显现。BNetzA 已于 2026-06-30 前正式发布 Festlegung。BDEW 和 VKU 认为认定方案中的计量概念和计费逻辑"在实践中无法执行"（MaBiS-Hub 2028/2029 落地前的改造投入存在"搁置风险"）；bne 则称其"经过深思熟虑、具有前瞻性"，并呼吁各配电网运营商（DSO）立即着手实施。
 
 > **进展追踪**
 > - `[2025-10-01]` BNetzA 公开研讨会
 > - `[2025-10-24]` 意见征集截止
 > - `[2026-06-30]` BNetzA 须完成 EEG 电量认定程序（法定截止日）
 > - `[2027 年初]` 电网运营商适配完成后实际生效（预计）
+> - **`[2026-06 末]` BNetzA 按法定截止日正式发布 MiSpeL Festlegung；行业分歧：BDEW/VKU 批评计量方案不具可操作性，bne 认可方案质量并呼吁 DSO 快速落地**
 
 > **来源：**
 > - [Understanding MiSpeL: New Regulatory Framework for German Co-located Storage — GridCog](https://www.gridcog.com/blog/understanding-mispel-the-new-regulatory-framework-for-german-co-located-storage) `[2026]`
 > - ['Moment of truth': 2026 regulatory agenda for large battery storage in Germany — Energy-Storage.News](https://www.energy-storage.news/moment-of-truth-the-2026-regulatory-agenda-for-large-battery-storage-in-germany/) `[2026]`
 > - [MiSpeL-Entwurf: Neue Förderung für Energiespeicher und Ladepunkte — KPMG Law](https://kpmg-law.de/mispel-entwurf-neue-foerderung-fuer-energiespeicher-und-ladepunkte/) `[2026]`
+> - [MiSpeL-Festlegung: "Nicht in der Praxis umsetzbar" – Verbände üben Kritik — ZFK](https://www.zfk.de/energie/strom/mispel-festlegung-bundesnetzagentur-kritik-bdew-vku) `[2026-06]`
+> - [Stellungnahme zur MiSpeL-Festlegung und Appell an Verteilnetzbetreiber — bne](https://www.bne-online.de/stellungnahme-zur-mispel-festlegung-und-appell-an-verteilnetzbetreiber/) `[2026-06]`
 
 ### 2.8 市场动态 `[通用]`
 
@@ -401,6 +404,9 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 | 2026-04-24 | 部级草案（Referentenentwurf）正式发布 |
 | **2026-05-13** | **StromVKG 经联邦内阁（Bundeskabinett）表决通过，进入议会立法程序** |
 | **2026-06（进行中）** | **联邦议院（Bundestag）完成一读；"南部加成"（Südbonus）条款——2/3 容量分配至南部——仍存争议** |
+| **2026-06-19** | **联邦参议院（Bundesrat）提出修改建议（降低电网接入保证金门槛、调整财务负担结构以避免排除市政企业），联邦政府予以拒绝** |
+| **2026-06-24** | **联邦议院经济委员会公开听证（KW26）；多位专家批评 Südbonus 条款可能在德国内部制造新的区域不均衡，并就容量费征收机制结构要求政府提供明确信息** |
+| **计划 2026-07-10** | **联邦议院二读/三读（夏休前截止），通过后需提交 Bundesrat** |
 | **2026-09-01（计划）** | **首轮容量拍卖（4.5 GW，10 小时满负荷标准，氢气就绪燃气机组为主）** |
 | **2026-12-08（计划）** | **第二轮容量拍卖（4.5 GW，同上标准）** |
 | **2027-05-18（计划）** | **BESS 专项拍卖（2 GW，取消 10 小时标准；要求储能终端产品 ≥50% EEA 制造来源）** |
@@ -410,6 +416,8 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [SMC-Studie StromVKG: 11 GW Lücke — CleanThinking](https://www.cleanthinking.de/smc-studie-kraftwerksstrategie-stromvkg/) `[2026-04]`
 > - [Kraftwerksstrategie passiert Bundeskabinett — PV Magazine Deutschland](https://www.pv-magazine.de/2026/05/13/kraftwerksstrategie-passiert-bundeskabinett/) `[2026-05]`
 > - [German Power Plant Strategy - Draft StromVKG — Chatham Partners](https://chatham.partners/insights/german-power-plant-strategy/) `[2026]`
+> - [Bundesrat will Nachbesserungen bei Gaskraftwerks-Ausschreibungen — PV Magazine Deutschland](https://www.pv-magazine.de/2026/06/19/bundesrat-will-nachbesserungen-bei-gaskraftwerks-ausschreibungen/) `[2026-06]`
+> - [Experten kritisieren Südbonus im Stromversorgungsgesetz — Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw26-pa-wirtschaft-stromvkg-1184768) `[2026-06]`
 
 ### 2.10 输电网接入竞争机制（Reifegradverfahren）`[工商储]`
 
@@ -446,7 +454,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 #### PM 解读
 
-> **[2026-06-22]**
+> **[2026-06-28]**
 > - **EEG 2027 内阁表决再次推迟至 7 月且无具体日期，但 2027-01-01 生效目标未变——产品准备窗口实质压缩**：从 6-24 推迟至 7 月意味着即使 7 月底过内阁、夏休后启动议会程序，Bundestag + Bundesrat 完成立法仅剩约 4 个月（9-12 月），议会仍可大幅修改条款。核心条款（取消 ≤25 kWp 馈电补偿、iMSys 门槛降至 2 kW）方向不变，但具体参数和过渡期可能在议会阶段被柔化。建议：产品路线图按"2027-01 生效"不变推进，但 ROI 计算器的馈电率参数需设计为可热更新——议会修改出台后 48 小时内完成参数切换
 > - **StromVKG 一读完成但 Südbonus 争议可能影响 BESS 拍卖区域分配**：联邦议院一读中，2/3 容量分配至南部的 Südbonus 条款引发争议。若最终立法保留该条款，2027-05 的 2 GW BESS 专项拍卖中约 1.3 GW 将定向分配至南部（巴伐利亚、巴登-符腾堡），北部项目竞争空间被压缩。对有 B 端工商储业务的厂商：项目选址应优先南部电网瓶颈区域，以增加拍卖中标概率
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
@@ -462,6 +470,8 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - **StromVKG 已过内阁关，BESS 唯一参与窗口（2027-05 专项拍卖）附带 ≥50% EEA 制造来源门槛，中国厂商需立即评估合规路径**：StromVKG 于 2026-05-13 经内阁通过，确定性从"草案方向"升级为"大概率立法"。BESS 的正式参与渠道是 2027-05-18 的 2 GW 技术中立专项拍卖（取消 10 小时满负荷标准），但该拍卖要求储能终端产品 **≥50% EEA 制造来源**——全球 BESS 制造高度集中于中国供应链，这一门槛对多数中国厂商构成实质准入障碍。建议三步评估：① 现有供应链能否满足 EEA 来源比例；② 欧洲合规制造路径（欧洲组装/采购欧洲电芯）可行性与成本；③ 若无法合规，将 B 端收益假设彻底切回"纯套利 + AgNes 容量费"模型。同时在议会立法完成前（预计 2026 年底），通过 BVES/Energy Storage Europe 提交意见，推动 EEA 比例要求宽松化或设置过渡期
 > - **EEG 馈电补偿 2026-08-01 再降 1%，App ROI 计算器须在 7 月底前完成参数更新**：EEG 2023 内置的半年递减机制将于 8 月 1 日触发，新并网系统馈电补偿区间从当前约 5.50–12.35 ct/kWh 降至约 5.45–12.22 ct/kWh（属于定期调整，非 EEG 2027 改革范畴）。核心行动点：App 内置"光储 ROI 计算器"若将 EEG 馈电率写死，需在 7 月 31 日前更新参数，否则 8 月后新装用户的回报测算将系统性偏高，引发售后投诉。建议将 EEG 馈电率改为后端动态配置参数（每半年拉取 BNetzA/EEG 官方数据更新），彻底消除此类定期维护负担
 > - **Reifegradverfahren 首轮申请 6-30 截止——德国大型 BESS 电网接入从"抢先提交"升级为"成熟度竞争"，211 GW 申请积压倒逼机制重置**：截至 2025 年 Q3，德国 TSO 已收到 211 GW 大型 BESS 电网接入申请（545 个项目），远超实际可用容量，先到先得机制已实质失效。新机制（2026-04 生效）以场地控制（30%）+ 技术成熟度（30%）+ 资金能力（30%）+ 共址加成（10%）为评分标准，用项目真实准备程度替代提交时间。对 B 端大型 BESS 业务的产品影响：① 电网接入时间线不再可预测——成熟度评审结果（Q3 公布）是实际落地节奏的决定性节点，B 端项目管理工具需将"TSO 申请状态 + 评审进度"纳入项目看板；② 共址部署（与可再生发电资产同址）获额外 10% 加分，工商储项目规划阶段应优先考虑"光 + 储共址"方案；③ €50,000 不可退还申请费意味着只有真正成熟的项目才会入场——德国大型 BESS 市场将从"圈地跑马"切换为"有序竞争"，实际开发周期更可预期但准入门槛显著提高
+> - **MiSpeL Festlegung 已正式发布，但 DSO 落地分歧是 2027 年 C&I EMS 功能交付的最大风险**：BNetzA 在法定截止日（2026-06-30）前发布 MiSpeL 正式认定，Abgrenzungsoption 和 Pauschaloption 两种核算方案具有法律效力。然而 BDEW 和 VKU 批评方案计量逻辑过于复杂（"不具可操作性"），MaBiS-Hub 2028/2029 落地前的 DSO 改造投入存在"搁置风险"——即改造完成后被 MaBiS-Hub 新标准覆盖。这意味着即使 Festlegung 已发布，DSO 实际完成计量系统适配的时间可能大幅拖延。对 B 端 EMS 产品的含义：MiSpeL 核算模块应设计为"就绪即启用"架构——逻辑提前开发完成并已测试，但等 DSO 的计量数据 API 实际可用后再开关，不要依赖 DSO 实施时间表排期自己的功能交付
+> - **StromVKG 二读/三读计划 7-10，立法进入倒计时——BESS 拍卖 EEA 比例要求即将成为正式法律**：Bundesrat 在 6-19 提出修改意见（降低电网接入保证金门槛）但被联邦政府拒绝；6-24 专家听证重点批评 Südbonus 可能制造区域不均衡。立法方向虽有争议，但二读/三读计划在 7-10 夏休前完成意味着 StromVKG 立法确定性极高。BESS 专项拍卖（2027-05-18，2 GW）的 ≥50% EEA 制造来源要求一旦入法，将从"可能被修改的草案条款"升格为"确定的法律合规门槛"。建议在 7-10 立法通过后 48 小时内启动供应链 EEA 比例评估——此时的合规窗口（约 10 个月）已是最后机会
 
 ---
 
@@ -676,13 +686,31 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > **来源：**
 > - [Battery energy storage project pipeline in Spain surges 464% year-on-year — ESS News](https://www.ess-news.com/2026/04/24/battery-energy-storage-project-pipeline-in-spain-surges-464-year-on-year/) `[2026-04]`
 
+### 5.5 容量机制 `[工商储]`
+
+#### EU 批准西班牙 €90 亿容量机制 `[已生效]`
+
+**政策正文概述：** 欧盟委员会于 **2026-05-29** 依据 EU 国家援助规则批准西班牙电力供应安全 **€90 亿容量机制**，认定其符合 Clean Industrial Deal State Aid Framework。该机制由西班牙系统运营商 Red Eléctrica de España（REE）负责实施，从 **2026 年 5 月起运行 10 年**，年度预算约 **€9 亿**（具体金额视拍卖结果调整）。适用主体涵盖发电资产、储能系统和需求侧响应，参与者将通过容量拍卖获得"在系统压力或电力短缺时段维持可用性"的补偿。西班牙国家可靠性标准定义为：每年最大可接受断电小时数（maximum acceptable number of load-loss hours）。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-05-29 | 欧盟委员会批准西班牙 €90 亿容量机制（国家援助审查通过，符合 Clean Industrial Deal 框架） |
+| **2026-05 起** | **机制正式启动，REE 开始运行容量拍卖程序，10 年周期** |
+
+> **来源：**
+> - [EU approves Spain's €9 billion capacity market for generation, demand response and energy storage — Energy-Storage.News](https://www.energy-storage.news/eu-approves-spain-euro-9-billion-capacity-market-generation-demand-response-energy-storage/) `[2026-06]`
+> - [EU approves capacity market for Spain — ESS News](https://www.ess-news.com/2026/06/01/eu-approves-capacity-market-for-spain/) `[2026-06]`
+> - [Commission approves €9 billion Spanish capacity mechanism for security of electricity supply — European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1163) `[2026-05]`
+
 #### PM 解读
 
-> **[2026-06-15]**
+> **[2026-06-28]**
 > - **PVPC 现货价波动大（€0.04-0.12/kWh），分时电价优化能力是西班牙市场的核心软件差异化**：余电按小时现货价结算且不跨月，用户的实际收益高度依赖"什么时候充、什么时候放"。App 必须集成 PVPC 实时电价数据，并提供可视化的"最优充放电时间窗口"建议。Zendure 在这块已经有 AI 驱动的分时优化，是对标方向
 > - **集体自消费 5 km 扩展打开社区级储能管理场景**：5 km 共享半径 + "自消费管理人"角色，意味着未来可能出现"一个管理人管理多户储能"的 B 端场景。App 架构需要考虑"多设备多用户"的管理模式。短期不急，但值得在产品路线图上标记
 > - **各自治区政策碎片化增加本地化复杂度**：住宅储能补贴由各自治区管理，不是联邦统一标准。App 中的"补贴查询"功能如果做西班牙市场，需要按地区适配——用户输入邮编后展示对应区域的补贴信息
 > - **BESS 管线+464%、装机+589% 说明西班牙大型储能市场正在爆发，但住宅端受益有限**：Q1 2026 的数据爆发来自大型独立 BESS 和光储捆绑的商业项目，不是住宅补贴政策驱动。对家储产品线的含义：西班牙整体政策环境向好、市场生态趋于成熟，可以把西班牙纳入"2027-2028 进入"的候补市场，但当前不应把住宅端管线爆发误读为 C 端消费市场的信号
+> - **EU 批准 €90 亿容量机制是西班牙工商储 B 端的重要政策锚点，但住宅端无直接受益**：容量机制覆盖发电、储能和需求侧响应，BESS 通过竞价获得可用性补偿。10 年周期 + €9 亿/年的体量为大型独立 BESS 项目提供了稳定收益预期，是西班牙 B 端工商储市场爆发的政策底座（与管线+464% 的市场数据相互印证）。对产品策略的含义：西班牙大型 BESS 的收益路径已从"纯套利"升级为"容量补偿 + 套利"双轨，B 端 EMS 平台需要增加"容量机制合规运营"模块（确保设备在系统压力时段可用并可被调用），并在 B 端报价场景中将容量机制收益纳入 IRR 测算——这会显著缩短西班牙 BESS 项目的投资回收期
 
 ---
 
