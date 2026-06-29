@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-06-28
+> 最后更新：2026-06-29
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -197,9 +197,25 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - [EU Industrial Accelerator Act — Bird & Bird](https://www.twobirds.com/en/insights/2026/europe-powers-up-the-eu's-bold-legislative-drive-for-a-homegrown-battery-industry) `[2026]`
 > - [Industrial Accelerator Act: EU Legislation in Progress — European Parliament Think Tank](https://epthinktank.eu/2026/05/21/industrial-accelerator-act-eu-legislation-in-progress/) `[2026-05]`
 
+### 1.8 EU 储能部署三方协议（Tripartite Agreement）`[通用]`
+
+#### 首个储能行业三方协议签署 `[已签署]`
+
+**政策正文概述：** 欧盟委员会于 **2026-06-26** 签署首个储能行业三方协议，22 个成员国承诺在 **2026-2028** 两年间新增 **30-35 GW** 储能容量。协议核心目标：① 储能配套 PPA 规模从 2026 年 1.5 GW 增至 2028 年 **4.5 GW**；② 工商业 BESS 容量从 9 GWh 增至 **24 GWh**；③ 工业热储能从 0.5 GWh 增至 **1.5 GWh**。背景：EU 截至 2025 年底已装机约 55 GW（同比 +45%），距 2030 年 200 GW 目标缺口约 145 GW，三方协议是 EU 加速弥合这一缺口的首个政治承诺工具。EIB 集团同步宣布为协议提供融资支持。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-06-26 | 欧盟委员会宣布首个储能三方协议，22 个成员国签署，承诺 30-35 GW（2026-2028） |
+
+> **来源：**
+> - [EU tripartite agreement targets 30-35GW of storage deployments by 2028 — Energy-Storage.News](https://www.energy-storage.news/eu-tripartite-agreement-targets-30-35gw-of-storage-deployments-by-2028/) `[2026-06]`
+> - [First-ever EU tripartite agreement signed to boost energy storage — European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1426) `[2026-06]`
+> - [Energy storage: EIB Group supports EU tripartite initiative — EIB](https://www.eib.org/en/press/news/news-energy-storage-eib-group-supports-eu-tripartite-initiative) `[2026-06]`
+
 #### PM 解读
 
-> **[2026-06-20]**
+> **[2026-06-29]**
 >
 > - 碳足迹合规是 2026-2027 年 EU 市场准入的**第一优先级事项**。不做 = 退出 EU 市场（无碳足迹申报 → 无 CE 认证 → 产品禁售）
 > - 碳足迹合规不是"填个表"，而是需要**六层软件系统全链路贯通**的系统工程：供应链数据采集 → LCA 计算引擎 → 电池护照平台 → BMS 固件改造 → 云平台扩展 → App 端展示
@@ -210,6 +226,7 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - **2026-08-18 委托法规是电池护照系统设计的最后一块拼图**：委托法规将明确护照数据访问权限分层（谁可以看哪些字段）和信息更新规则。这是构建电池护照软件系统的关键输入——访问权限划分决定前端角色 UI 设计（不同身份可见字段不同），更新规则决定数据管道架构（谁能写入、谁能只读、何时触发更新）。2026-08-18 发布后应立即解读并同步更新系统设计，距 2027-02 电池护照强制生效仅剩约 6 个月
 > - **IAA 欧产含量要求是中国厂商参与 EU 公共补贴项目的新隐性门槛——BMS 欧产要求 1 年内落地，需立即评估合规路径**：IAA 草案对公共资金支持的储能项目设定分阶段欧产要求（1 年：BMS；3 年：电芯）。德国 KfW 补贴、英国 Warm Homes Plan、意大利 GSE 计划等主要公共补贴项目均可能纳入 IAA 范围，意味着中国储能厂商若无欧洲制造的 BMS，可能在法案生效 1 年后失去上述补贴项目的产品资格。建议立即启动两项评估：① 现有 BMS 供应商是否可以切换至欧洲制造版本（或合作欧洲供应商）；② IAA 正式生效时间线（立法程序约 1-2 年），对应产品供应链改造窗口。Northvolt 破产后欧洲电芯产能高度受限，3 年电芯欧产要求若不放宽，实际上对所有非欧洲厂商构成系统性障碍
 > - **IAA 立法进度更新：已进入议会审议阶段，最终立法预计 2027 年以后**：欧洲议会已于 2026-Q2 完成报告人（Rapporteur）指派，正式启动议会审议程序。欧盟理事会与议会联合决策流程通常需 1-2 年，实际生效最早 2027 年。这意味着：① 针对 IAA Made in Europe 要求的供应链合规窗口仍有 1-2 年缓冲；② 当前是提交行业意见、争取条款宽松化的最佳时机（议会磋商阶段比立法完成后更容易影响文本）；③ BMS 欧产要求虽尚未生效，但 IAA + StromVKG ≥50% EEA 要求同向叠加——欧洲制造布局的战略必要性已从"未来选项"升格为"现在决策"
+> - **EU 首签储能三方协议（30-35 GW / 2028），政治承诺升格为可量化市场信号——C&I BESS 从 9 GWh 到 24 GWh 是最直接的 B 端机会窗口**：三方协议是 EU 首次以可量化目标（GW/GWh）公开承诺储能规模化部署，并将 C&I BESS 扩容 2.7 倍（9 → 24 GWh）作为明确子目标。对产品策略的含义：① C&I 储能是欧洲层面政策支持最清晰的细分市场，2026-2028 是大型 BESS 的窗口期；② 储能配套 PPA 目标从 1.5 GW 增至 4.5 GW，意味着 B 端能源管理平台需要具备 PPA 合规运营功能（确保 BESS 在 PPA 合约框架内按约交付，并提供符合买方核查要求的可信数据）；③ EIB 融资支持为三方协议的落地提供了信用背书，储能厂商可借助 EIB 融资渠道降低欧洲 B 端项目的资本成本
 >
 > **详细分析见 → [EU 碳足迹合规专题分析](eu_carbon_footprint_compliance_analysis.md)**（含六层架构拆解、不合规四级影响链路、产品线差异化影响、竞争格局分析、行动时间表）
 
