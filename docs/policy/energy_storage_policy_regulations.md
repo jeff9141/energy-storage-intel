@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-06-29
+> 最后更新：2026-06-30
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -424,6 +424,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 | **2026-06-19** | **联邦参议院（Bundesrat）提出修改建议（降低电网接入保证金门槛、调整财务负担结构以避免排除市政企业），联邦政府予以拒绝** |
 | **2026-06-24** | **联邦议院经济委员会公开听证（KW26）；多位专家批评 Südbonus 条款可能在德国内部制造新的区域不均衡，并就容量费征收机制结构要求政府提供明确信息** |
 | **计划 2026-07-10** | **联邦议院二读/三读（夏休前截止），通过后需提交 Bundesrat** |
+| **2026-07-09** | **联邦议院（Bundestag）提前一天完成二读/三读表决，StromVKG 正式通过 Bundestag 立法程序** |
 | **2026-09-01（计划）** | **首轮容量拍卖（4.5 GW，10 小时满负荷标准，氢气就绪燃气机组为主）** |
 | **2026-12-08（计划）** | **第二轮容量拍卖（4.5 GW，同上标准）** |
 | **2027-05-18（计划）** | **BESS 专项拍卖（2 GW，取消 10 小时标准；要求储能终端产品 ≥50% EEA 制造来源）** |
@@ -435,6 +436,8 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [German Power Plant Strategy - Draft StromVKG — Chatham Partners](https://chatham.partners/insights/german-power-plant-strategy/) `[2026]`
 > - [Bundesrat will Nachbesserungen bei Gaskraftwerks-Ausschreibungen — PV Magazine Deutschland](https://www.pv-magazine.de/2026/06/19/bundesrat-will-nachbesserungen-bei-gaskraftwerks-ausschreibungen/) `[2026-06]`
 > - [Experten kritisieren Südbonus im Stromversorgungsgesetz — Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw26-pa-wirtschaft-stromvkg-1184768) `[2026-06]`
+> - [Abstimmung über Sicherung der Stromversorgung (KW28) — Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-versorgungssicherheit-strom-1192538) `[2026-07]`
+> - [German Federal Government passes law on the provision of new capacity in the electricity market (StromVKG) — Eversheds Sutherland](https://www.eversheds-sutherland.com/en/germany/insights/german-federal-government-passes-law-on-the-provision-of-new-capacity-in-the-electricity-market) `[2026-07]`
 
 ### 2.10 输电网接入竞争机制（Reifegradverfahren）`[工商储]`
 
@@ -471,7 +474,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 #### PM 解读
 
-> **[2026-06-28]**
+> **[2026-06-30]**
 > - **EEG 2027 内阁表决再次推迟至 7 月且无具体日期，但 2027-01-01 生效目标未变——产品准备窗口实质压缩**：从 6-24 推迟至 7 月意味着即使 7 月底过内阁、夏休后启动议会程序，Bundestag + Bundesrat 完成立法仅剩约 4 个月（9-12 月），议会仍可大幅修改条款。核心条款（取消 ≤25 kWp 馈电补偿、iMSys 门槛降至 2 kW）方向不变，但具体参数和过渡期可能在议会阶段被柔化。建议：产品路线图按"2027-01 生效"不变推进，但 ROI 计算器的馈电率参数需设计为可热更新——议会修改出台后 48 小时内完成参数切换
 > - **StromVKG 一读完成但 Südbonus 争议可能影响 BESS 拍卖区域分配**：联邦议院一读中，2/3 容量分配至南部的 Südbonus 条款引发争议。若最终立法保留该条款，2027-05 的 2 GW BESS 专项拍卖中约 1.3 GW 将定向分配至南部（巴伐利亚、巴登-符腾堡），北部项目竞争空间被压缩。对有 B 端工商储业务的厂商：项目选址应优先南部电网瓶颈区域，以增加拍卖中标概率
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
@@ -489,6 +492,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - **Reifegradverfahren 首轮申请 6-30 截止——德国大型 BESS 电网接入从"抢先提交"升级为"成熟度竞争"，211 GW 申请积压倒逼机制重置**：截至 2025 年 Q3，德国 TSO 已收到 211 GW 大型 BESS 电网接入申请（545 个项目），远超实际可用容量，先到先得机制已实质失效。新机制（2026-04 生效）以场地控制（30%）+ 技术成熟度（30%）+ 资金能力（30%）+ 共址加成（10%）为评分标准，用项目真实准备程度替代提交时间。对 B 端大型 BESS 业务的产品影响：① 电网接入时间线不再可预测——成熟度评审结果（Q3 公布）是实际落地节奏的决定性节点，B 端项目管理工具需将"TSO 申请状态 + 评审进度"纳入项目看板；② 共址部署（与可再生发电资产同址）获额外 10% 加分，工商储项目规划阶段应优先考虑"光 + 储共址"方案；③ €50,000 不可退还申请费意味着只有真正成熟的项目才会入场——德国大型 BESS 市场将从"圈地跑马"切换为"有序竞争"，实际开发周期更可预期但准入门槛显著提高
 > - **MiSpeL Festlegung 已正式发布，但 DSO 落地分歧是 2027 年 C&I EMS 功能交付的最大风险**：BNetzA 在法定截止日（2026-06-30）前发布 MiSpeL 正式认定，Abgrenzungsoption 和 Pauschaloption 两种核算方案具有法律效力。然而 BDEW 和 VKU 批评方案计量逻辑过于复杂（"不具可操作性"），MaBiS-Hub 2028/2029 落地前的 DSO 改造投入存在"搁置风险"——即改造完成后被 MaBiS-Hub 新标准覆盖。这意味着即使 Festlegung 已发布，DSO 实际完成计量系统适配的时间可能大幅拖延。对 B 端 EMS 产品的含义：MiSpeL 核算模块应设计为"就绪即启用"架构——逻辑提前开发完成并已测试，但等 DSO 的计量数据 API 实际可用后再开关，不要依赖 DSO 实施时间表排期自己的功能交付
 > - **StromVKG 二读/三读计划 7-10，立法进入倒计时——BESS 拍卖 EEA 比例要求即将成为正式法律**：Bundesrat 在 6-19 提出修改意见（降低电网接入保证金门槛）但被联邦政府拒绝；6-24 专家听证重点批评 Südbonus 可能制造区域不均衡。立法方向虽有争议，但二读/三读计划在 7-10 夏休前完成意味着 StromVKG 立法确定性极高。BESS 专项拍卖（2027-05-18，2 GW）的 ≥50% EEA 制造来源要求一旦入法，将从"可能被修改的草案条款"升格为"确定的法律合规门槛"。建议在 7-10 立法通过后 48 小时内启动供应链 EEA 比例评估——此时的合规窗口（约 10 个月）已是最后机会
+> - **StromVKG 于 2026-07-09 提前一天经 Bundestag 通过，BESS 专项拍卖 EEA 门槛已入法——供应链评估窗口即刻开启**：Bundestag 于 7 月 9 日（KW28）完成二读/三读，StromVKG 正式通过议会立法程序，较计划（7-10）提前一天。BESS 专项拍卖（2027-05-18，2 GW）及其 ≥50% EEA 制造来源要求已从"草案条款"升格为已通过法律。后续须经 Bundesrat 程序。对产品线的核心行动：① 立即委托法律团队解读 StromVKG 最终文本中 EEA 来源比例的具体定义（是否包含欧洲组装）；② 在 Bundesrat 阶段通过 BVES/行业律所提交意见，聚焦过渡期设置和比例计算范围宽松化；③ 启动欧洲组装/BMS 供应商的可行性接触——距 2027-05-18 约 10 个月，是真实的最后合规窗口
 
 ---
 
@@ -889,12 +893,22 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 #### LDES Cap and Floor 机制 `[制度制定中]`
 
-Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气等）提供收益上下限保障，降低长期资本风险。首批合同签署预计于 **2026 年中**完成。Window 1 共 77 个项目（总计 28.7 GW）通过资格审查，锂离子主导（>20 GW，占比超三分之二）。LDES 激励与容量市场互补，构建多时长储能政策矩阵。
+Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气等）提供收益上下限保障，降低长期资本风险。Window 1 共 77 个项目（总计 28.7 GW）通过资格审查后，Ofgem 于 **2026-06-26** 发布"拟授权"（minded-to）决定，从 73 个仍在列的合格项目中遴选 **16 个项目（合计 7.6 GW / 136.9 GWh）**进入授权候选名单，同步开启公众征询（截止 **2026-08-07**）。技术分布：锂离子 BESS 和抽水蓄能为主，含压缩空气储能（CAES）和全钒液流/锌混合阴极新兴路线，时长覆盖 8–22 小时。正式合同授予预计 2026 年夏，届时各项目 Cap/Floor 初始收益上下限将被确定。LDES 激励与容量市场互补，构建多时长储能政策矩阵。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2025-09 | Window 1 资格审查结果：77 个项目（28.7 GW）通过 |
+| **2026-06-26** | **Ofgem 发布 minded-to 决定：16 个项目（7.6 GW / 136.9 GWh）入选候选名单，公众征询开启** |
+| **2026-08-07** | **征询截止** |
+| **2026 年夏（预计）** | **正式合同授予，Cap & Floor 初始收益上下限确定** |
 
 > **来源：**
 > - [Batteries awarded 1.22 GW in UK capacity market auction for 2029 delivery — ESS News](https://www.ess-news.com/2026/03/11/batteries-awarded-1-22-gw-in-uk-capacity-market-auction-for-2029-delivery/) `[2026-03]`
 > - [EU and UK Energy Storage Regulation 2026 — Morgan Lewis](https://www.morganlewis.com/pubs/2026/03/eu-and-uk-energy-storage-regulation-in-2026-and-beyond) `[2026-03]`
 > - [LDES Cap & Floor Window 1 eligibility outcome — Ofgem](https://www.ofgem.gov.uk/decision/long-duration-electricity-storage-cap-and-floor-application-window-1) `[2025-09]`
+> - [UK's Ofgem goes big on LDES cap-and-floor window 1; 18-hour lithium-ion among winners — Energy-Storage.News](https://www.energy-storage.news/uks-ofgem-goes-big-on-ldes-cap-and-floor-window-1-18-hour-lithium-ion-among-winners/) `[2026-06]`
+> - [Long duration electricity storage window 1: minded-to decisions — Ofgem](https://www.ofgem.gov.uk/consultation/long-duration-electricity-storage-window-1-minded-decisions) `[2026-06]`
 
 ### 7.7 社区储能 `[通用]`
 
@@ -922,13 +936,14 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 
 #### PM 解读
 
-> **[2026-06-18]**
+> **[2026-06-30]**
 > - **SEG 分时售电 + VPP 参与 = 英国家储 App 的核心能力矩阵**：最高 50p/kWh 的 SEG 分时电价意味着储能不再只是"省电"工具，而是"赚电费"工具。App 需要三层能力：① 分时电价数据集成（Octopus、British Gas 等零售商电价 API）；② 智能充放电调度（低价充、高价放）；③ VPP 接入（参与频率响应、容量市场等辅助服务）。这三层是递进关系，至少前两层是市场准入的基本要求
 > - **Warm Homes Plan 面向低收入群体，安装商 B 端工具需要适配补贴申请流程**：£150 亿预算中有大量资金通过安装商渠道落地。B 端工具（Installer App/Portal）如果能嵌入"Warm Homes Plan 资格查询 + 申请流程引导"，将是安装商选择合作品牌的加分项
 > - **ECO4 于 2026-12-31 终止，ECO5 已确认取消**：政府决定终结整个 ECO 框架，£1.5B 资金重新分配至 Warm Homes Plan。渠道链路从"能源供应商分包"变为"地方政府 → 安装商"，安装商需持有 TrustMark + PAS 2030:2023 认证
 > - **T-1 + T-4 合计超 1.8 GW，VPP 收益可视化应从差异化功能升级为 App 核心模块**：T-1 拍卖（576 MW，2026/27 交付）+ T-4 拍卖（1.22 GW，2029/30 交付）合计超 1.8 GW 容量市场合同，确认英国是欧洲 BESS 参与电力市场最成熟的国家。对家储 App 的含义：VPP 收益不再是"未来可能有"的叙事，而是已经发生的真实收入来源——App 首屏应该展示"昨天 VPP 帮你赚了 £X"，而不是把 VPP 功能埋在设置里等用户发现
 > - **BS 7671 Amendment 4 禁止阁楼安装，重塑英国家储安装规范，安装商工具需同步升级**：历史上相当比例的英国住宅电池安装在阁楼（空间充裕、不占生活区），Amendment 4 从 2026-10-15 起强制禁止此做法，违规安装影响保险和 EPC 认证。对产品端的含义：① 硬件需充分测试车库、外墙壁挂、地下室等替代安装场景的热管理性能；② 安装商工具（Installer App）需内置"Amendment 4 合规位置核查清单"，安装前自动判断候选位置是否满足通风/逃生/维护要求，避免安装商因不了解新规而将设备装在不合规位置引发的合规与保险纠纷；③ C 端 App 的安装引导流程须更新，明确告知用户禁止安装位置并给出合规替代位置示意图
 > - **社区电池征询（2026-06-04，截止 7-30）是英国政策向"无法自装用户"扩展的前置信号——C&I 产品线需在路线图上预留 50 kW–5 MW 社区电池形态**：DESNZ 征询议题框架直指现有家庭电池政策的覆盖盲区：租户、公寓住户、低收入群体。若政府跟进澳洲模式推出社区电池补贴，主力部署单元将是 50 kW–5 MW 的社区级储能系统，而非消费级家储产品。对于拥有 C&I 储能产品线的厂商，这是英国 2027-2028 年新增量的早期信号窗口：① 现阶段可向 DESNZ 提交书面证据意见（截止 7-30），展示技术能力并在政策制定层建立认知；② 软件侧提前规划"多建筑共享储能管理"的 B 端系统架构，避免后期重构成本
+> - **Ofgem 于 2026-06-26 发布 LDES Window 1 拟授权名单（16 项目 / 7.6 GW / 136.9 GWh），英国长时储能从"政策设计"正式进入"项目落地"阶段**：从 73 个合格项目中遴选 16 个，时长 8–22 小时，锂离子 BESS 和抽水蓄能为主，含 CAES 和全钒液流等新兴路线，征询截止 2026-08-07，正式合同预计 2026 年夏授予。对 C&I 储能产品的含义：① 英国长时储能的收益路径从"容量市场 + 频率响应（均为 2 小时内短时场景）"正式扩展为"Cap & Floor 保底机制（8-22 小时长时场景）"——B 端报价和 EMS 平台需为这两条路径提供独立的 IRR 测算模型（短时 BESS 套利 vs 长时 LDES 稳定回报）；② 7.6 GW Window 1 规模表明英国 LDES 市场体量不是试点而是系统性部署，有 B 端工商储业务的厂商应评估是否将 6-22 小时产品形态纳入英国产品矩阵；③ 正式合同授予后（2026 年夏），Cap/Floor 初始收益上下限将公开，届时可基于实际数字校正 LDES 项目的 IRR 预测区间，是 B 端 EMS 平台更新长时储能定价模型的关键时间点
 
 ---
 
