@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-07-01
+> 最后更新：2026-07-02
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -215,9 +215,28 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - [First-ever EU tripartite agreement signed to boost energy storage — European Commission](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1426) `[2026-06]`
 > - [Energy storage: EIB Group supports EU tripartite initiative — EIB](https://www.eib.org/en/press/news/news-energy-storage-eib-group-supports-eu-tripartite-initiative) `[2026-06]`
 
+### 1.9 应急能源工具箱（AccelerateEU）`[通用]`
+
+#### 委员会通信文件发布，行业协会批评储能配套措施不足 `[已发布]`
+
+**政策正文概述：** 欧盟委员会于 **2026-04-22** 发布"AccelerateEU——能源联盟：通过加速行动实现可负担与安全能源"通信文件，是对 2026-03-19 欧洲理事会结论（应对伊朗危机及霍尔木兹海峡中断风险）的直接回应，旨在降低能源价格波动和对化石燃料的结构性依赖。文件重申 EU 到 2030 年储能容量需扩展至约 **200 GW** 的量级目标，并提出设定"电气化目标"（electrification target）。行业协会普遍认可方向但批评落地力度不足：SolarPower Europe 指出文件"未能提出实现该储能规模的具体措施"；Flow Batteries Europe 批评文件仅提及短时 BESS 和抽水蓄能，**再次忽略长时储能（LDES）**这一"关键工具"，警告欧洲可能重蹈此前政策空白的覆辙。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-03-19 | 欧洲理事会结论要求委员会提出应对能源危机的加速行动 |
+| **2026-04-22** | **欧盟委员会发布 AccelerateEU 通信文件，设定 200 GW 储能量级目标、电气化目标** |
+| **2026-04（随后）** | **SolarPower Europe、Flow Batteries Europe 等行业协会发表批评声明，指出缺乏具体 BESS/LDES 落地措施** |
+
+> **来源：**
+> - [AccelerateEU to strengthen EU energy resilience — European Commission](https://energy.ec.europa.eu/strategy/accelerateeu-strengthen-eu-energy-resilience_en) `[2026-04]`
+> - [AccelerateEU 'emergency toolbox' policy on fossil fuel dependence falls short on energy storage, trade groups say — Energy-Storage.News](https://www.energy-storage.news/accelerateeu-emergency-toolbox-policy-on-fossil-fuel-dependence-falls-short-on-energy-storage-trade-groups-say/) `[2026]`
+> - [Statement: European Commission adopts its emergency toolbox 'AccelerateEU' — SolarPower Europe](https://www.solarpowereurope.org/press-releases/statement-european-commission-adopts-its-emergency-toolbox-accelerate-eu) `[2026-04]`
+> - [EU launches toolbox to accelerate clean energy, falls short on energy storage — PV Tech](https://www.pv-tech.org/eu-launches-toolbox-to-accelerate-clean-energy-falls-short-on-energy-storage/) `[2026-04]`
+
 #### PM 解读
 
-> **[2026-06-29]**
+> **[2026-07-02]**
 >
 > - 碳足迹合规是 2026-2027 年 EU 市场准入的**第一优先级事项**。不做 = 退出 EU 市场（无碳足迹申报 → 无 CE 认证 → 产品禁售）
 > - 碳足迹合规不是"填个表"，而是需要**六层软件系统全链路贯通**的系统工程：供应链数据采集 → LCA 计算引擎 → 电池护照平台 → BMS 固件改造 → 云平台扩展 → App 端展示
@@ -229,6 +248,7 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - **IAA 欧产含量要求是中国厂商参与 EU 公共补贴项目的新隐性门槛——BMS 欧产要求 1 年内落地，需立即评估合规路径**：IAA 草案对公共资金支持的储能项目设定分阶段欧产要求（1 年：BMS；3 年：电芯）。德国 KfW 补贴、英国 Warm Homes Plan、意大利 GSE 计划等主要公共补贴项目均可能纳入 IAA 范围，意味着中国储能厂商若无欧洲制造的 BMS，可能在法案生效 1 年后失去上述补贴项目的产品资格。建议立即启动两项评估：① 现有 BMS 供应商是否可以切换至欧洲制造版本（或合作欧洲供应商）；② IAA 正式生效时间线（立法程序约 1-2 年），对应产品供应链改造窗口。Northvolt 破产后欧洲电芯产能高度受限，3 年电芯欧产要求若不放宽，实际上对所有非欧洲厂商构成系统性障碍
 > - **IAA 立法进度更新：已进入议会审议阶段，最终立法预计 2027 年以后**：欧洲议会已于 2026-Q2 完成报告人（Rapporteur）指派，正式启动议会审议程序。欧盟理事会与议会联合决策流程通常需 1-2 年，实际生效最早 2027 年。这意味着：① 针对 IAA Made in Europe 要求的供应链合规窗口仍有 1-2 年缓冲；② 当前是提交行业意见、争取条款宽松化的最佳时机（议会磋商阶段比立法完成后更容易影响文本）；③ BMS 欧产要求虽尚未生效，但 IAA + StromVKG ≥50% EEA 要求同向叠加——欧洲制造布局的战略必要性已从"未来选项"升格为"现在决策"
 > - **EU 首签储能三方协议（30-35 GW / 2028），政治承诺升格为可量化市场信号——C&I BESS 从 9 GWh 到 24 GWh 是最直接的 B 端机会窗口**：三方协议是 EU 首次以可量化目标（GW/GWh）公开承诺储能规模化部署，并将 C&I BESS 扩容 2.7 倍（9 → 24 GWh）作为明确子目标。对产品策略的含义：① C&I 储能是欧洲层面政策支持最清晰的细分市场，2026-2028 是大型 BESS 的窗口期；② 储能配套 PPA 目标从 1.5 GW 增至 4.5 GW，意味着 B 端能源管理平台需要具备 PPA 合规运营功能（确保 BESS 在 PPA 合约框架内按约交付，并提供符合买方核查要求的可信数据）；③ EIB 融资支持为三方协议的落地提供了信用背书，储能厂商可借助 EIB 融资渠道降低欧洲 B 端项目的资本成本
+> - **AccelerateEU 重申 200 GW 储能目标但缺乏具体落地措施，行业协会的批评揭示了政策与市场之间的执行缺口，这是产品出海节奏判断的重要参考信号**：委员会 2026-04 发布的应急能源工具箱重申了储能规模化的必要性，但 SolarPower Europe 和 Flow Batteries Europe 均批评其"只有目标、没有配套措施"，且完全未提及长时储能。对产品策略的含义：① 短时 BESS/家储仍是 EU 政策关注和支持的主战场，长时储能（LDES）产品线短期内不应指望 EU 层面的专项政策拉动，需求驱动仍主要依赖英国 Ofgem LDES Cap & Floor 等成员国级别机制（见 7.6）；② "目标先行、措施滞后"的模式意味着 EU 层面的储能政策利好更多是市场信心信号而非可直接变现的补贴或强制配额，产品出海优先级判断应更依赖三方协议（1.8）等已有具体量化承诺的工具，而非停留在通信文件层面的表态
 >
 > **详细分析见 → [EU 碳足迹合规专题分析](eu_carbon_footprint_compliance_analysis.md)**（含六层架构拆解、不合规四级影响链路、产品线差异化影响、竞争格局分析、行动时间表）
 
