@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-07-02
+> 最后更新：2026-07-03
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -234,9 +234,28 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - [Statement: European Commission adopts its emergency toolbox 'AccelerateEU' — SolarPower Europe](https://www.solarpowereurope.org/press-releases/statement-european-commission-adopts-its-emergency-toolbox-accelerate-eu) `[2026-04]`
 > - [EU launches toolbox to accelerate clean energy, falls short on energy storage — PV Tech](https://www.pv-tech.org/eu-launches-toolbox-to-accelerate-clean-energy-falls-short-on-energy-storage/) `[2026-04]`
 
+### 1.10 电池法规简化提案（Omnibus）`[通用]` `[立法进行中]`
+
+#### 可拆卸性豁免委托法案草案 `[草案]`
+
+**政策正文概述：** 欧盟委员会于 2026-04-28 正式发布 EU 电池法规（EUBR）第 11 条"终端用户可拆卸/可更换电池设计要求"的豁免委托法案（Delegated Act）草案，作为 Omnibus 简化一揽子计划的一部分，公众意见征询于 **2026-05-26** 截止。草案拟新增六类产品豁免，含可穿戴设备（智能手表、健身追踪器）、电动玩具、ATEX 指令适用设备（防爆电机、传感器、泵、叉车等）；可穿戴设备豁免为"部分豁免"——允许专业维修人员（而非终端用户）拆卸更换电池。同步推进的 Omnibus 提案还包括：修改远程销售场景下的生产者定义、新增高关注物质（SVHC）标签要求、LMT 电池包排除出可拆卸性/可更换性适用范围、放宽数据审查频率要求。立法目标是在 **2026 年底前**完成，这是利益相关方在第 11 条 2027-02 强制生效前就适用范围发声的**最后窗口**。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-04-28 | 委员会发布可拆卸性豁免委托法案草案，公众征询启动 |
+| **2026-05-26** | **公众征询截止** |
+| **2026 年底（目标）** | **Omnibus 简化一揽子计划立法程序完成** |
+| 2027-02-18 | 第 11 条可拆卸/可更换要求强制生效（豁免范围最终版须在此前明确） |
+
+> **来源：**
+> - [Commission seeks views on battery removability exemptions — European Commission](https://environment.ec.europa.eu/news/commission-seeks-views-battery-removability-exemptions-2026-04-28_en) `[2026-04]`
+> - [EU Batteries Regulation: Commission Proposes New Exemptions from End-User Battery Removability Requirements — Cooley](https://products.cooley.com/2026/05/15/eu-batteries-regulation-european-commission-proposes-new-exemptions-from-end-user-battery-removability-requirements/) `[2026-05]`
+> - [Batteries: EU proposes simpler removability and replacement rules — ERP Global](https://erp-recycling.org/news-and-events/2026/04/batteries-eu-proposes-simpler-removability-and-replacement-rules/) `[2026-04]`
+
 #### PM 解读
 
-> **[2026-07-02]**
+> **[2026-07-03]**
 >
 > - 碳足迹合规是 2026-2027 年 EU 市场准入的**第一优先级事项**。不做 = 退出 EU 市场（无碳足迹申报 → 无 CE 认证 → 产品禁售）
 > - 碳足迹合规不是"填个表"，而是需要**六层软件系统全链路贯通**的系统工程：供应链数据采集 → LCA 计算引擎 → 电池护照平台 → BMS 固件改造 → 云平台扩展 → App 端展示
@@ -249,6 +268,7 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - **IAA 立法进度更新：已进入议会审议阶段，最终立法预计 2027 年以后**：欧洲议会已于 2026-Q2 完成报告人（Rapporteur）指派，正式启动议会审议程序。欧盟理事会与议会联合决策流程通常需 1-2 年，实际生效最早 2027 年。这意味着：① 针对 IAA Made in Europe 要求的供应链合规窗口仍有 1-2 年缓冲；② 当前是提交行业意见、争取条款宽松化的最佳时机（议会磋商阶段比立法完成后更容易影响文本）；③ BMS 欧产要求虽尚未生效，但 IAA + StromVKG ≥50% EEA 要求同向叠加——欧洲制造布局的战略必要性已从"未来选项"升格为"现在决策"
 > - **EU 首签储能三方协议（30-35 GW / 2028），政治承诺升格为可量化市场信号——C&I BESS 从 9 GWh 到 24 GWh 是最直接的 B 端机会窗口**：三方协议是 EU 首次以可量化目标（GW/GWh）公开承诺储能规模化部署，并将 C&I BESS 扩容 2.7 倍（9 → 24 GWh）作为明确子目标。对产品策略的含义：① C&I 储能是欧洲层面政策支持最清晰的细分市场，2026-2028 是大型 BESS 的窗口期；② 储能配套 PPA 目标从 1.5 GW 增至 4.5 GW，意味着 B 端能源管理平台需要具备 PPA 合规运营功能（确保 BESS 在 PPA 合约框架内按约交付，并提供符合买方核查要求的可信数据）；③ EIB 融资支持为三方协议的落地提供了信用背书，储能厂商可借助 EIB 融资渠道降低欧洲 B 端项目的资本成本
 > - **AccelerateEU 重申 200 GW 储能目标但缺乏具体落地措施，行业协会的批评揭示了政策与市场之间的执行缺口，这是产品出海节奏判断的重要参考信号**：委员会 2026-04 发布的应急能源工具箱重申了储能规模化的必要性，但 SolarPower Europe 和 Flow Batteries Europe 均批评其"只有目标、没有配套措施"，且完全未提及长时储能。对产品策略的含义：① 短时 BESS/家储仍是 EU 政策关注和支持的主战场，长时储能（LDES）产品线短期内不应指望 EU 层面的专项政策拉动，需求驱动仍主要依赖英国 Ofgem LDES Cap & Floor 等成员国级别机制（见 7.6）；② "目标先行、措施滞后"的模式意味着 EU 层面的储能政策利好更多是市场信心信号而非可直接变现的补贴或强制配额，产品出海优先级判断应更依赖三方协议（1.8）等已有具体量化承诺的工具，而非停留在通信文件层面的表态
+> - **可拆卸性豁免草案对储能产品线本身影响有限，但释放了"Omnibus 简化窗口内可争取条款松绑"的信号，应同步评估电池护照数据颗粒度是否有类似松绑空间**：草案聚焦可穿戴设备、玩具、ATEX 设备等消费电子/工业专用品类，家储/阳储/移储主力产品（>2 kWh 电池组）不在拟豁免范围内，第 11 条可拆卸性要求对储能产品的适用性预期不变。但该草案证明 Omnibus 简化一揽子计划确实在实质性调整 EUBR 细则（如 LMT 电池包排除可拆卸性适用、数据审查频率放宽），且 2026 年底前是最后立法窗口。建议：① 通过 Energy Storage Europe/BVES 等行业协会评估电池护照数据模型（1.1/1.5）是否有类似"简化数据颗粒度或更新频率"的游说空间；② 密切跟踪 2026 年底 Omnibus 立法收尾进展，避免临近 2027-02 强制生效前才发现细则变化
 >
 > **详细分析见 → [EU 碳足迹合规专题分析](eu_carbon_footprint_compliance_analysis.md)**（含六层架构拆解、不合规四级影响链路、产品线差异化影响、竞争格局分析、行动时间表）
 
@@ -297,9 +317,12 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 | 2025 | 576 小时 | +26% | ~0.40 |
 | 2026 | ~864 小时（估） | ~+50% | ~0.26（跌幅约 1/3） |
 
+**H1 2026 补充数据：** 德国上半年光伏发电量 43.2 TWh（同比 +10%，历史新高）；同期光伏弃光（curtailment）约 3 GWh，其中 **58.2%** 集中发生在日前电价为负的时段——负电价窗口下的弃光占比首次成为主导因素，进一步验证储能配置对捕获率（capture rate）的直接提升作用。
+
 > **来源：**
 > - [Germany Power Prices Turn Deeply Negative — Bloomberg](https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge) `[2026-04]`
 > - [Solar Capture Factors Fall Across Europe — PV Magazine](https://www.pv-magazine.com/2026/05/13/solar-capture-factors-fall-across-europe-as-negative-price-hours-surge-in-key-markets/) `[2026-05]`
+> - [Germany solar PV generation up 10% year-on-year in H1 2026 — PV Tech](https://www.pv-tech.org/germany-solar-pv-generation-increases-h1-2026/) `[2026-07]`
 
 **EEG 2027 改革（Referentenentwurf）** `[立法进行中]`
 
@@ -347,6 +370,13 @@ EEG 2027 草案将强制安装门槛从 7 kW 降至 2 kW，覆盖几乎所有家
 > **来源：**
 > - [New German rule allows larger plug-in PV without electrician — PV Magazine](https://www.pv-magazine.com/2026/04/08/new-german-rule-allows-larger-plug-in-pv-without-electrician/) `[2026-04]`
 > - [New German allowances give further boosts for plug-in PV and storage — ESS News](https://www.ess-news.com/2026/04/10/new-german-allowances-give-further-boosts-for-plug-in-pv-and-storage/) `[2026-04]`
+
+**VDE-AR-N 4100:2026 配套更新（计量柜/接户装置规则）** `[2026-04-01 生效]`
+
+四大配电网技术规则同步更新的 VDE-AR-N 4100（低压接户装置技术规则）明确：阳台光伏储能的注册要求仅适用于"**固定式**"电储能系统（stationary electrical storage systems）；**移动式/便携式储能设备豁免注册要求**。该规则同时收紧计量柜（Zählerplatz）内主开关和三相计量点的布置要求。对产品定义的影响：便携储能若作为阳台光伏配套设备销售，需在产品说明和渠道物料中明确标注"非固定安装、无需注册"的属性定位，与固定式家储/阳储产品形成注册义务上的明确区隔。
+
+> **来源：**
+> - [New VDE-AR-N 4100: Changes for balcony power plants and e-car charging cables — heise online](https://www.heise.de/en/news/New-VDE-AR-N-4100-Changes-for-balcony-power-plants-and-e-car-charging-cables-9976650.html) `[2026-04]`
 
 ### 2.5 便携储能 `[移储]`
 
@@ -416,10 +446,14 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 **累计装机**
 
-截至 2026-04，德国电池储能累计装机 **17.9 GW / 27.2 GWh**。
+| 时间 | 累计装机 |
+|------|---------|
+| 2026-04 | 17.9 GW / 27.2 GWh |
+| **2026-06 末** | **约 29.3 GWh（较 5 月末 25.4 GWh，单月新增约 3.9 GWh）** |
 
 > **来源：**
 > - [BESS Market Germany 2026: Trends & Growth Analysis — Mobility House Energy](https://mobilityhouse-energy.com/int_en/knowledge-center/article/bess-in-germany-market-overview-2026) `[2026]`
+> - [Germany solar PV generation up 10% year-on-year in H1 2026 — PV Tech](https://www.pv-tech.org/germany-solar-pv-generation-increases-h1-2026/) `[2026-07]`
 
 **季度新增**
 
@@ -530,7 +564,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 #### PM 解读
 
-> **[2026-07-01]**
+> **[2026-07-03]**
 > - **EEG 2027 内阁表决再次推迟至 7 月且无具体日期，但 2027-01-01 生效目标未变——产品准备窗口实质压缩**：从 6-24 推迟至 7 月意味着即使 7 月底过内阁、夏休后启动议会程序，Bundestag + Bundesrat 完成立法仅剩约 4 个月（9-12 月），议会仍可大幅修改条款。核心条款（取消 ≤25 kWp 馈电补偿、iMSys 门槛降至 2 kW）方向不变，但具体参数和过渡期可能在议会阶段被柔化。建议：产品路线图按"2027-01 生效"不变推进，但 ROI 计算器的馈电率参数需设计为可热更新——议会修改出台后 48 小时内完成参数切换
 > - **StromVKG 一读完成但 Südbonus 争议可能影响 BESS 拍卖区域分配**：联邦议院一读中，2/3 容量分配至南部的 Südbonus 条款引发争议。若最终立法保留该条款，2027-05 的 2 GW BESS 专项拍卖中约 1.3 GW 将定向分配至南部（巴伐利亚、巴登-符腾堡），北部项目竞争空间被压缩。对有 B 端工商储业务的厂商：项目选址应优先南部电网瓶颈区域，以增加拍卖中标概率
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
@@ -551,6 +585,8 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - **StromVKG 于 2026-07-09 提前一天经 Bundestag 通过，BESS 专项拍卖 EEA 门槛已入法——供应链评估窗口即刻开启**：Bundestag 于 7 月 9 日（KW28）完成二读/三读，StromVKG 正式通过议会立法程序，较计划（7-10）提前一天。BESS 专项拍卖（2027-05-18，2 GW）及其 ≥50% EEA 制造来源要求已从"草案条款"升格为已通过法律。后续须经 Bundesrat 程序。对产品线的核心行动：① 立即委托法律团队解读 StromVKG 最终文本中 EEA 来源比例的具体定义（是否包含欧洲组装）；② 在 Bundesrat 阶段通过 BVES/行业律所提交意见，聚焦过渡期设置和比例计算范围宽松化；③ 启动欧洲组装/BMS 供应商的可行性接触——距 2027-05-18 约 10 个月，是真实的最后合规窗口
 > - **法院首次以判决确认 960 Wp 阳台储能上限具强制力，供应链和产品定义必须立即对齐 VDE 标准**：LG Bochum、LG Osnabrück 两地法院裁定禁售超过 960 Wp 且无线路过载保护的插座式阳台储能产品，违规最高罚款 €250,000，且已购买产品的用户可依法定质保要求整改或更换——这意味着此前处于"行业惯例"层面的 960 Wp 限制，已升级为具有强制执行力的市场准入红线。对产品端的直接行动：① 逐一核查现有及在售阳台储能 SKU 的组件功率配置和线路过载保护设计是否符合 DIN VDE V 0126-95:2025-12；② 不合规产品应立即从德国渠道下架或提供固件/硬件整改方案，避免被追溯适用法定质保义务；③ 经销商合作协议中应明确合规责任划分，防止品牌方为经销商的历史销售买单
 > - **GeoBG 收紧独立式 BESS 规划特权，"变电站 200 米 + 4 MW"门槛重塑大型储能选址逻辑**：2025-12-04 通过的地热能加速法在放宽储能规划特权数周后即收紧标准，独立式项目须满足距变电站或 ≥50MW 电厂 200 米内、额定功率 ≥4MW 两个条件才能豁免常规建设规划审批。对有 B 端大型 BESS 业务的厂商：① 选址评估工具需要内置"变电站/电厂距离核算"模块，帮助项目开发前置判断是否符合规划特权资格；② 4 MW 门槛意味着更小型的独立式储能项目（<4MW）将被迫走常规规划审批程序，审批周期和不确定性显著增加，应优先规划 ≥4MW 项目以锁定特权路径；③ 政策数周内两次反复的信号是德国储能规划立法环境仍不稳定，B 端项目排期应预留额外的合规缓冲时间
+> - **VDE-AR-N 4100 首次以标准形式区分"固定式"与"移动式"储能的注册义务，为便携储能划出明确的合规豁免带**：2026-04-01 生效的新规明确阳台光伏储能注册要求仅适用于固定式电储能系统，移动式/便携式设备豁免注册。这为 `[移储]` 产品线提供了清晰的合规定位依据——便携电源即便作为阳台光伏配套放电设备销售，只要不构成固定安装，即可维持"即插即用、无需注册"的产品体验，与固定式家储/阳储在渠道物料和用户告知义务上应做明确区隔（例如安装引导流程中增加"是否固定安装"的判断分支，触发不同的合规提示文案）
+> - **德国储能装机 6 月单月新增约 3.9 GWh，光伏弃光 58.2% 集中于负电价时段——负电价规避已从"政策提示"变为"可量化的收益损失"，App 收益引擎应升级为可展示的对比数据**：H1 2026 德国光伏发电量同比 +10% 创新高，但弃光和负电价时段高度重合，印证配储能可直接减少弃光并提升捕获率。产品建议：App 内的"负电价规避"功能不应止步于自动调度，应增加"本月因负电价规避节省/增收金额"的可视化模块，用真实数据强化用户对储能配置价值的感知，也为渠道端提供更有说服力的销售话术素材
 
 ---
 
@@ -1331,7 +1367,7 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 
 | 州 | 政策 | 状态 |
 |----|------|------|
-| **新南威尔士（NSW）** | VPP 激励：**2025-07-01 起升级为一次性前置支付**，2–28 kWh 电池最高 **$1,500**（典型 10 kWh 约 $1,100），可与联邦 CHB 补贴叠加 | 有效（电池补贴已终止，仅 VPP 激励存续） |
+| **新南威尔士（NSW）** | VPP 激励：**2025-07-01 起升级为一次性前置支付**，2–28 kWh 电池最高 **$1,500**（典型 10 kWh 约 $1,100），可与联邦 CHB 补贴叠加；**2026-07-01 起 PDRS BESS2 准入容量上限从 28 kWh 扩大至 50 kWh**，但激励金额仍按前 28 kWh 可用容量计算封顶（>28 kWh 部分不再额外计入），电池须在 CEC 清单在册 | 有效（电池补贴已终止，仅 VPP 激励存续；准入容量扩大） |
 | **维多利亚（VIC）** | 免息贷款计划（Solar Victoria）**已关闭**；2026-07-01 起补贴收入门槛从 $210,000 降至 **$150,000** | 收紧中 |
 | **昆士兰（QLD）** | Battery Booster Loan and Rebate：免息贷款最高 $6,000 + 补贴最高 $3,000 | **已关闭** |
 | **南澳（SA）** | REPS 认证 VPP 补贴，最高 $2,050；⚠️ 2026-04-07 起 VPP1 暂停，2026-05-05 起非优先群体无法申请，仅 Amber SmartShift 优先群体可申 | 收紧中 |
@@ -1342,6 +1378,8 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - [Solar Battery Rebate VIC — Zero Energy Australia](https://zeroenergygroup.com.au/solar-battery-rebate-victoria-everything-you-need-to-know-before-applying-2026-edition/) `[2026]`
 > - [NSW turbocharges home battery savings with new incentive scheme — Clean Energy Council](https://cleanenergycouncil.org.au/news-resources/nsw-turbocharges-home-battery-savings-with-new-incentive-scheme) `[2025-07]`
 > - [NSW VPP Battery Incentive 2026 — Solar Battery Outlet](https://solarbatteryoutlet.com.au/nsw-vpp-battery-incentive-2026/) `[2026]`
+> - [The new rules for NSW solar battery rebates in 2026 — Solax Power](https://au.solaxpower.com/blogs/the-new-rules-for-nsw-solar-battery-rebates-in-2026.html) `[2026-07]`
+> - [New South Wales Battery Rebates (PDRS) / BESS2 VPP Rebate for Batteries — Amber Electric](https://help.amber.com.au/hc/en-us/articles/31159992778893-New-South-Wales-Battery-Rebates-PDRS-BESS2-VPP-Rebate-for-Batteries) `[2026-07]`
 
 ### 15.4 阳台/便携储能 `[阳储]` `[移储]`
 
@@ -1425,7 +1463,7 @@ AEMO CEO 表示"对被动家庭电池对系统的正面冲击规模感到意外"
 
 #### PM 解读
 
-> **[2026-07-01]**
+> **[2026-07-03]**
 > - **VPP 能力是澳大利亚家储的硬性市场准入门槛**：联邦补贴明确要求并网系统"必须具备 VPP 能力"。这不是"有了加分"，而是"没有就拿不到补贴"。App/固件必须内置 VPP 协议栈（支持澳洲主流 VPP 聚合商接口），否则产品在澳洲市场直接失去竞争力。Tesla、Sonnen、Enphase 在这块已经成熟，是硬门槛
 > - **14 kWh 甜点成立，但平均装机容量翻倍是重要信号——容量推荐算法不能只推 14 kWh**：阶梯补贴结构（0-14 kWh 全额，14-28 kWh 六折）使 13.5-14 kWh 依然是"补贴最优"选项，但用户平均装机容量翻倍表明相当比例用户主动选择更大容量——他们在用"补贴覆盖以外的自付成本"换取更长的 VPP 收益期。App 的容量推荐页需要同时呈现两个场景："补贴最大化方案（14 kWh）"和"VPP 收益最大化方案（XX kWh）"，用数字让用户自主决策
 > - **州级政策正在收缩（VIC/QLD 已关闭），联邦补贴成为唯一支撑**：多个州级补贴已关闭，NSW 仅保留 VPP 激励，SA 的 VPP 补贴最高 $2,050。趋势是"联邦补贴兜底 + VPP 收入驱动"。App 需要向用户清晰展示"联邦补贴节省 + VPP 年化收入"的组合经济账
@@ -1438,6 +1476,7 @@ AEMO CEO 表示"对被动家庭电池对系统的正面冲击规模感到意外"
 > - **SA REPS 补贴实质收紧（非优先群体已无法申请），南澳市场 VPP 销售逻辑需从"补贴驱动"切换为"套利收益驱动"**：VPP1 暂停 + 非优先群体锁定，意味着 SA 普通家庭用户通过 REPS 快速回本的路径基本关闭。App 在南澳市场的 VPP 推广文案需调整：突出"Amber/Tesla/AGL 每年 $300-$1,000 套利收益"而非"最高 $2,050 REPS 补贴"（后者对绝大多数用户已不适用）。**VIC 收入门槛 7 月 1 日降至 $15 万**：App 内的"补贴资格快速查询"功能须在 6 月 30 日前更新门槛逻辑，避免向年收入 $15-21 万的维州用户展示已失效的补贴预期，引发退款投诉
 > - **NSW VPP 激励已于 2025-07-01 从证书制切换为前置支付，App 收益展示逻辑需更新**：NSW VPP 激励从旧的"证书额度（$60-$1,680 PREO 证书）"升级为一次性前置支付——10 kWh 电池约 $1,100，上限 $1,500（28 kWh 时触及）。更重要的是：这笔钱在安装时直接从价格中扣减，而非事后返还。App 内的"NSW 收益测算"模块须同步更新：展示"联邦补贴（CHB）+ NSW VPP 前置支付"的组合节省（典型 10 kWh 用户合计超 $4,200），并明确说明 NSW VPP 前置支付与联邦补贴可叠加、且无需事后申请，以提升用户在安装决策时的置信度
 > - **CHB 计划一周年累计突破 40 万套 / 11.2 GWh，存量运营价值已超过新增拉新价值——App 应从"促装机"转向"促续费与增值服务"**：计划自 2025-07-01 启动至 2026-06 满一年，累计安装已超 40 万套，平均装机容量翻倍，意味着澳洲家储用户基数已具备规模化运营的门槛。对产品策略的含义：① VPP 收益优化、OTA 固件升级、能源报告等增值服务应成为存量用户 ARPU 提升的核心抓手，而非仅依赖新增装机拉动收入；② 40 万套的用户池足以支撑独立的澳洲本地化客服和运营团队投入产出比；③ 补贴阶梯递减（每半年一次）意味着后续新增用户的补贴强度将持续走低，用户全生命周期价值（LTV）中"软件订阅+服务"的占比会逐年提高，产品定价策略应提前布局订阅制或增值包
+> - **NSW 准入容量上限 7-1 起从 28 kWh 扩大至 50 kWh，但激励仍按 28 kWh 封顶——App 需要向大容量用户讲清"资格 vs 收益"的区别，避免预期落差投诉**：PDRS BESS2 允许 28-50 kWh 电池参与激励计划，但补贴金额计算仍以前 28 kWh 可用容量为上限，超出部分不再额外计入。这意味着容量扩大主要是"解锁大容量电池的市场准入资格"而非"提高补贴金额"。产品建议：① App 内 NSW 收益测算模块的容量输入框上限需同步从 28 kWh 调整为 50 kWh，但计算逻辑必须清晰展示"前 28 kWh 计入激励、超出部分不计入"的封顶规则，避免用户误以为大容量电池能拿到更高补贴；② 电池须在 CEC（Clean Energy Council）清单在册才符合 BESS2 资格，App 选品/报价流程中应加入 CEC 清单校验节点，防止安装商向客户推荐不合规 SKU
 
 ---
 
