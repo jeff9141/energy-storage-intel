@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-07-03
+> 最后更新：2026-07-04
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -771,7 +771,10 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 |------|------|------|
 | **RD 244/2019** | 自消费基础框架，compensación simplificada 机制：按 PVPC 现货价格月度结算余电，不跨月滚存 | 持续有效，截至 2026 无重大修订 |
 | **PVPC 余电价格** | 平均 €0.04–€0.12/kWh（随小时和季节波动） | 2025-2026 |
-| **集体自消费扩展** | 共享半径扩大至 5 km，新增"自消费管理人"角色 | 2025 |
+| **集体自消费扩展** | 共享半径扩大至 5 km（≤5 MW 项目适用），新增"自消费管理人"（gestor de autoconsumo）角色，代表参与消费者统一对接配电商/售电商 | 2025 提出；**2026-03-20 经 RDL 7/2026 正式立法** |
+| **双重模式兼容** `[新增]` | 允许消费者同时参与"无余电个体自消费"与"电网关联式集体自消费"两种模式，此前二者互斥 | **2026-03-20（RDL 7/2026）** |
+
+**RDL 7/2026 背景：** 该法令是西班牙政府应对中东（伊朗/霍尔木兹海峡）能源危机的"综合应对计划"（Plan Integral de Respuesta a la Crisis en Oriente Medio）组成部分，与 EU 层面 AccelerateEU 应急工具箱（见 1.9）同属危机响应政策序列，核心目标是加速自消费和分布式能源社区落地以降低对外部能源依赖。
 
 ### 5.2 补贴政策 `[家储]`
 
@@ -794,6 +797,9 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Solar Panels Spain 2026: IDAE Grants — SurgePV](https://www.surgepv.com/blog/residential-solar-adoption-spain) `[2026]`
 > - [Spain Allocates €840M for Storage — Energy Storage News](https://www.energy-storage.news/spain-allocates-e840-million-funds-for-storage-projects-passes-grid-resilience-decree/) `[2025]`
 > - [Spain Awards 133 Storage Projects — PV Magazine](https://www.pv-magazine.com/2025/12/01/spain-awards-133-energy-storage-projects-totaling-2-4-gw-and-10-gwh/) `[2025-12]`
+> - [Real Decreto-ley 7/2026 y autoconsumo: qué cambia en 2026 — Araoz & Rueda](https://www.araozyrueda.com/autoconsumo-compartido-espana/) `[2026-03]`
+> - [BOE-A-2026-6544: Real Decreto-ley 7/2026, de 20 de marzo, Plan Integral de Respuesta a la Crisis en Oriente Medio — BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2026-6544) `[2026-03]`
+> - [Ampliado hasta los 5 kilómetros el límite al autoconsumo — PV Magazine España](https://www.pv-magazine.es/2026/03/23/ampliado-hasta-los-5-kilometros-el-limite-al-autoconsumo-una-las-medidas-para-mitigar-el-impacto-de-la-guerra-en-oriente-proximo/) `[2026-03]`
 
 ### 5.4 市场动态 `[通用]`
 
@@ -829,12 +835,13 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 #### PM 解读
 
-> **[2026-06-28]**
+> **[2026-07-04]**
 > - **PVPC 现货价波动大（€0.04-0.12/kWh），分时电价优化能力是西班牙市场的核心软件差异化**：余电按小时现货价结算且不跨月，用户的实际收益高度依赖"什么时候充、什么时候放"。App 必须集成 PVPC 实时电价数据，并提供可视化的"最优充放电时间窗口"建议。Zendure 在这块已经有 AI 驱动的分时优化，是对标方向
 > - **集体自消费 5 km 扩展打开社区级储能管理场景**：5 km 共享半径 + "自消费管理人"角色，意味着未来可能出现"一个管理人管理多户储能"的 B 端场景。App 架构需要考虑"多设备多用户"的管理模式。短期不急，但值得在产品路线图上标记
 > - **各自治区政策碎片化增加本地化复杂度**：住宅储能补贴由各自治区管理，不是联邦统一标准。App 中的"补贴查询"功能如果做西班牙市场，需要按地区适配——用户输入邮编后展示对应区域的补贴信息
 > - **BESS 管线+464%、装机+589% 说明西班牙大型储能市场正在爆发，但住宅端受益有限**：Q1 2026 的数据爆发来自大型独立 BESS 和光储捆绑的商业项目，不是住宅补贴政策驱动。对家储产品线的含义：西班牙整体政策环境向好、市场生态趋于成熟，可以把西班牙纳入"2027-2028 进入"的候补市场，但当前不应把住宅端管线爆发误读为 C 端消费市场的信号
 > - **EU 批准 €90 亿容量机制是西班牙工商储 B 端的重要政策锚点，但住宅端无直接受益**：容量机制覆盖发电、储能和需求侧响应，BESS 通过竞价获得可用性补偿。10 年周期 + €9 亿/年的体量为大型独立 BESS 项目提供了稳定收益预期，是西班牙 B 端工商储市场爆发的政策底座（与管线+464% 的市场数据相互印证）。对产品策略的含义：西班牙大型 BESS 的收益路径已从"纯套利"升级为"容量补偿 + 套利"双轨，B 端 EMS 平台需要增加"容量机制合规运营"模块（确保设备在系统压力时段可用并可被调用），并在 B 端报价场景中将容量机制收益纳入 IRR 测算——这会显著缩短西班牙 BESS 项目的投资回收期
+> - **RDL 7/2026"双重模式兼容"打开家储+集体自消费叠加的新产品场景，App 需要支持单用户多份额账本**：此前个体自消费（无余电）与电网关联式集体自消费互斥，新规允许同一消费者同时参与两种模式——例如自家屋顶光伏优先自用，不足部分再从楼宇集体自消费池按份额补充。这是西班牙特有的场景，此前 App 的账户模型假设"一户一个自消费主体"，现在需要支持"个体账本 + 集体份额账本"并行核算，收益/账单页面需要分别列示两笔来源，避免用户混淆。建议放在 2027 西班牙市场深化阶段的产品需求清单中，短期可先在后端数据模型层面预留字段，避免后续大改
 
 ---
 
@@ -1111,12 +1118,14 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 |------|------|------|
 | **Pronovo 平台** | 管理可再生能源补贴分配和拍卖 | 持续有效 |
 | **自消费激励** | 新法规鼓励通过储能电池或电动汽车扩大自消费比例，削减注入电网高峰 | 2026 生效 |
+| **本地电力共同体（LEG）** `[新增]` | 同一电网区域、同一电压等级、同一市镇内的消费者可组建"本地电力共同体"（Lokale Elektrizitätsgemeinschaft），共享自产电力并享受电网使用费折扣（低压网络折扣 40%，占用变压器网络折扣 20%）；配电网运营商（VNB）须为所有终端用户、储能运营商、发电者按计量点开具计量费账单 | **2026-01-01 起施行** |
+| **储能电网费退款激励** `[新增]` | 具备终端用电能力的储能运营商可自 2026-01-01 起向 VNB 申请电网使用费退款，退款按小时现货市场电价计算，形成"低电价时段充电、避免高价时段馈网"的经济激励 | **2026-01-01 起施行** |
 | **冬季发电奖金** | 对冬季发电的光伏系统给予额外补贴 | 2025-11 |
 | **市场规模** | BTM 电池累计 2,461 MWh，过去一年新增 1,010 MWh（同比 +82%） | 2025 |
 
 - 非 EU 成员国，独立制定能源政策
 - 各州（Canton）可能有额外的地方补贴
-- `[2026]` 新法规允许本地电力交易（local electricity trading）
+- `[2026-01-01 起]` 新法规允许本地电力交易（local electricity trading），LEG 框架是其具体落地形式
 
 ### 9.2 阳台/便携储能 `[阳储]` `[移储]`
 
@@ -1127,13 +1136,16 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - [Switzerland Expands Rules for Rooftop Solar, Storage, Energy Communities — PV Magazine](https://www.pv-magazine.com/2025/02/24/switzerland-expands-rules-for-rooftop-solar-storage-energy-communities/) `[2025-02]`
 > - [Switzerland Introduces Winter Electricity Bonus — PV Magazine](https://www.pv-magazine.com/2025/11/27/switzerland-introduces-winter-electricity-bonus-for-solar-installations/) `[2025-11]`
 > - [Switzerland Deploys 1.52 GW of Solar in 2025 — PV Magazine](https://www.pv-magazine.com/2026/04/08/switzerland-deploys-1-52-gw-of-solar-in-2025/) `[2026-04]`
+> - [Strommarkt 2026: Was sich in der Schweiz ändert — energy unlimited](https://www.energyunlimited.ch/solar-ratgeber/strommarkt-2026-was-sich-in-der-schweiz-aendert) `[2026]`
+> - [Neun Fakten zu den Rückliefertarifen 2026 — EKZ](https://www.ekz.ch/de/blue/wissen/2025/rueckliefertarife-2026.html) `[2025]`
 
 #### PM 解读
 
-> **[2026-06-14]**
+> **[2026-07-04]**
 > - **本地电力交易（P2P Energy Trading）是前沿软件场景**：2026 新法规允许本地电力交易，这意味着家储用户未来可以"把多余的电卖给邻居"。App 需要预留 P2P 交易接口——虽然短期不会大规模落地，但这是继 VPP 之后家储软件的下一个大方向。Sonnen 的 sonnenCommunity 在德国已经做了类似探索
 > - **冬季发电奖金推动"季节性智能调度"**：冬季发电额外补贴意味着 App 的充放电策略需要有季节感知——冬季优先馈电（享受奖金），夏季优先自消费。这对 AI 调度算法提出了更细粒度的要求
 > - **BTM 电池 +82% 同比增长说明市场正在起飞**：瑞士虽然不是 EU 成员国，但高购买力+高电价+政策友好使其成为值得关注的高端市场。注意瑞士不适用 EU 电池法规，产品合规需要走独立路径
+> - **LEG 框架 + 现货价电网费退款正式落地（2026-01-01），BMS/EMS 需要"社区身份识别 + 现货价套利"双引擎**：LEG 明确了"本地电力共同体"的组建条件（同电网区域/同电压等级/同市镇）和折扣力度（低压 40%、变压器网络 20%），储能运营商额外可按小时现货价申请电网费退款。这意味着瑞士家储 EMS 需要同时具备两层逻辑：① 判断用户是否属于某个 LEG 及其对应折扣档位（低压/变压器网络），动态调整"本地共享优先"vs"自用优先"的调度策略；② 独立于 LEG 之外，仍可基于小时现货价做纯粹的充放电套利并申请电网费退款。建议 EMS 算法把"LEG 归属识别"作为瑞士市场的必选前置模块，而非选装功能——折扣差异（40% vs 20%）直接影响调度策略的经济最优解
 
 ---
 
