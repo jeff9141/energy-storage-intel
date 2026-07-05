@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-07-04
+> 最后更新：2026-07-05
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -481,6 +481,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 | **2026-06-24** | **联邦议院经济委员会公开听证（KW26）；多位专家批评 Südbonus 条款可能在德国内部制造新的区域不均衡，并就容量费征收机制结构要求政府提供明确信息** |
 | **计划 2026-07-10** | **联邦议院二读/三读（夏休前截止），通过后需提交 Bundesrat** |
 | **2026-07-09** | **联邦议院（Bundestag）提前一天完成二读/三读表决，StromVKG 正式通过 Bundestag 立法程序** |
+| **计划 2026-07-10** | **联邦参议院（Bundesrat）召开夏休前最后一次全体会议审议 StromVKG；此前 6-19 提出的保证金门槛、财务负担结构等修改诉求已被联邦政府拒绝，市政企业和中小型参与者的准入顾虑（首轮拍卖可能出现"认购不足"）仍未解决** |
 | **2026-09-01（计划）** | **首轮容量拍卖（4.5 GW，10 小时满负荷标准，氢气就绪燃气机组为主）** |
 | **2026-12-08（计划）** | **第二轮容量拍卖（4.5 GW，同上标准）** |
 | **2027-05-18（计划）** | **BESS 专项拍卖（2 GW，取消 10 小时标准；要求储能终端产品 ≥50% EEA 制造来源）** |
@@ -494,6 +495,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Experten kritisieren Südbonus im Stromversorgungsgesetz — Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw26-pa-wirtschaft-stromvkg-1184768) `[2026-06]`
 > - [Abstimmung über Sicherung der Stromversorgung (KW28) — Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-versorgungssicherheit-strom-1192538) `[2026-07]`
 > - [German Federal Government passes law on the provision of new capacity in the electricity market (StromVKG) — Eversheds Sutherland](https://www.eversheds-sutherland.com/en/germany/insights/german-federal-government-passes-law-on-the-provision-of-new-capacity-in-the-electricity-market) `[2026-07]`
+> - [Bundesrat sieht Änderungsbedarf beim StromVKG — Deutscher Bundestag](https://www.bundestag.de/presse/hib/kurzmeldungen-1190820) `[2026-06]`
 
 ### 2.10 输电网接入竞争机制（Reifegradverfahren）`[工商储]`
 
@@ -564,7 +566,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 #### PM 解读
 
-> **[2026-07-03]**
+> **[2026-07-05]**
 > - **EEG 2027 内阁表决再次推迟至 7 月且无具体日期，但 2027-01-01 生效目标未变——产品准备窗口实质压缩**：从 6-24 推迟至 7 月意味着即使 7 月底过内阁、夏休后启动议会程序，Bundestag + Bundesrat 完成立法仅剩约 4 个月（9-12 月），议会仍可大幅修改条款。核心条款（取消 ≤25 kWp 馈电补偿、iMSys 门槛降至 2 kW）方向不变，但具体参数和过渡期可能在议会阶段被柔化。建议：产品路线图按"2027-01 生效"不变推进，但 ROI 计算器的馈电率参数需设计为可热更新——议会修改出台后 48 小时内完成参数切换
 > - **StromVKG 一读完成但 Südbonus 争议可能影响 BESS 拍卖区域分配**：联邦议院一读中，2/3 容量分配至南部的 Südbonus 条款引发争议。若最终立法保留该条款，2027-05 的 2 GW BESS 专项拍卖中约 1.3 GW 将定向分配至南部（巴伐利亚、巴登-符腾堡），北部项目竞争空间被压缩。对有 B 端工商储业务的厂商：项目选址应优先南部电网瓶颈区域，以增加拍卖中标概率
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
@@ -587,6 +589,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - **GeoBG 收紧独立式 BESS 规划特权，"变电站 200 米 + 4 MW"门槛重塑大型储能选址逻辑**：2025-12-04 通过的地热能加速法在放宽储能规划特权数周后即收紧标准，独立式项目须满足距变电站或 ≥50MW 电厂 200 米内、额定功率 ≥4MW 两个条件才能豁免常规建设规划审批。对有 B 端大型 BESS 业务的厂商：① 选址评估工具需要内置"变电站/电厂距离核算"模块，帮助项目开发前置判断是否符合规划特权资格；② 4 MW 门槛意味着更小型的独立式储能项目（<4MW）将被迫走常规规划审批程序，审批周期和不确定性显著增加，应优先规划 ≥4MW 项目以锁定特权路径；③ 政策数周内两次反复的信号是德国储能规划立法环境仍不稳定，B 端项目排期应预留额外的合规缓冲时间
 > - **VDE-AR-N 4100 首次以标准形式区分"固定式"与"移动式"储能的注册义务，为便携储能划出明确的合规豁免带**：2026-04-01 生效的新规明确阳台光伏储能注册要求仅适用于固定式电储能系统，移动式/便携式设备豁免注册。这为 `[移储]` 产品线提供了清晰的合规定位依据——便携电源即便作为阳台光伏配套放电设备销售，只要不构成固定安装，即可维持"即插即用、无需注册"的产品体验，与固定式家储/阳储在渠道物料和用户告知义务上应做明确区隔（例如安装引导流程中增加"是否固定安装"的判断分支，触发不同的合规提示文案）
 > - **德国储能装机 6 月单月新增约 3.9 GWh，光伏弃光 58.2% 集中于负电价时段——负电价规避已从"政策提示"变为"可量化的收益损失"，App 收益引擎应升级为可展示的对比数据**：H1 2026 德国光伏发电量同比 +10% 创新高，但弃光和负电价时段高度重合，印证配储能可直接减少弃光并提升捕获率。产品建议：App 内的"负电价规避"功能不应止步于自动调度，应增加"本月因负电价规避节省/增收金额"的可视化模块，用真实数据强化用户对储能配置价值的感知，也为渠道端提供更有说服力的销售话术素材
+> - **StromVKG 进入 Bundesrat 立法收尾阶段（计划 7-10 夏休前最后表决），市政企业/中小参与者的准入顾虑未被采纳——B 端 EMS 应为首轮拍卖"认购不足"预留备选收益路径**：Bundesrat 此前提出的保证金门槛下调、财务负担结构调整诉求已被联邦政府拒绝，行业担忧 9-1 首轮拍卖可能因此出现中小型/市政参与者退场导致的认购不足。对有 B 端工商储业务的厂商：① 不应假设首轮 9 GW 气电招标必然满额成交，招标遇冷可能倒逼后续轮次（含 2027-05 的 2 GW BESS 专项拍卖）条款松动，需保持政策灵敏度；② B 端项目报价模型应同时准备"容量市场收益"和"纯套利+AgNes 容量费"两套情景，视 Bundesrat 7-10 最终结果切换基准假设
 
 ---
 
@@ -733,6 +736,12 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 - 适用于公寓楼和小型商业集群
 - `[2026-05]` 集体自消费模式遇到监管审批瓶颈
 - `[2026-06-26]` 法国政府发布法令，修订集体自消费分摊规则：确立"自消费最大化"原则，取消基于实际用电量和市场价格的**事后（ex post）分摊系数调整**机制；行业观点认为，随着光伏公共支持力度下降、馈网限制趋严，储能电池正从"锦上添花"升级为提升集体自消费项目经济性的关键杠杆——白天蓄电、晚间放电可显著提高自消费比例
+- `[2026-03-30]` 法国最高行政法院（Conseil d'État）裁定：此前税务机关对 <1 MW 集体自消费项目消费税（accise）0 欧元豁免附加的适用条件缺乏法律依据，判决豁免适用于所有符合资质的集体自消费项目
+- `[2026 Q1]` 集体自消费项目数量同比增长 **20%**，参与者数量增速更快于项目数量，行业预测法国将成为欧洲增长最快的集体自消费市场（至 2030 年）
+
+> **来源（Conseil d'État 裁定 + Q1 数据）：**
+> - [Autoconsommation collective : l'accise à 0 euro confirmée pour les opérations inférieures à 1 MW — PV Magazine France](https://www.pv-magazine.fr/2026/03/31/autoconsommation-collective-laccise-a-0-euro-confirmee-pour-les-operations-inferieures-a-1-mw/) `[2026-03]`
+> - [Autoconsommation collective : 320 opérations au T1 2026 — Les Énergies Renouvelables](https://www.les-energies-renouvelables.eu/320-nouvelles-operations-autoconsommation-collective-au-premier-trimestre-2026/) `[2026-Q1]`
 
 > **来源（2026-06-26 法令）：**
 > - [L'intérêt des batteries en renfort de l'autoconsommation collective — PV Magazine France](https://www.pv-magazine.fr/2026/06/02/les-batteries-en-renfort-de-lautoconsommation-collective/) `[2026-06]`
@@ -754,12 +763,13 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 #### PM 解读
 
-> **[2026-07-01]**
+> **[2026-07-05]**
 > - **法国是"政策空白型"市场，短期优先级低于德国和意大利**：无专项储能补贴意味着用户的购买决策完全靠经济性自驱（自消费省电 vs 系统成本）。App 中的"投资回报计算器"在法国市场比任何地方都更关键——用户需要被说服，而不是被补贴推动
 > - **2026-08 电网费率改革是战略转折点**：injection-withdrawal 电价方案落地后，家储 App 必须支持"冬季峰时放电、夏季午间充电"的分时策略。这和德国的负电价规避、英国的 SEG 分时售电本质上是同一个软件能力——**动态电价响应引擎**。如果产品在德国已经做了 EPEX 集成，法国市场的适配成本会大幅降低
 > - **集体自消费是差异化方向但风险高**：公寓楼共享光伏场景对家储和阳储都有需求，但 2026-05 已遇到监管瓶颈。短期不建议重仓这个方向，但可以在 App 架构上预留"多用户共享能源管理"的扩展接口
 > - **阳储审批慢是市场进入的实际障碍**：法国储能审批需数月（vs 德国即插即用），这意味着阳储产品在法国的渠道策略不能照搬德国的"用户自装"模式，可能需要更多依赖安装商渠道
 > - **2026-06-26 法令取消事后分摊系数调整，B 端集体自消费 EMS 需要从"事后核算"转向"事前优化"架构**：新规确立"自消费最大化"原则并取消基于实际用电和市场价格的事后分摊调整，意味着分摊策略必须在电力生产/消费发生前就确定，无法再依赖月末/年末的回溯校正。对面向公寓楼、社会住房等集体自消费场景的 B 端能源管理平台：储能调度算法需要承担起"事前预测 + 实时分摊执行"的双重职责，而非过去"先记录用电、后调整分摊系数"的简化模式；这也是储能在集体自消费项目中从"可选配件"转变为"分摊优化刚需组件"的政策信号，可作为向社会住房运营商推销 B 端 EMS + 储能捆绑方案的新论据
+> - **Conseil d'État 裁定消除税务合规不确定性 + Q1 项目数 +20%，集体自消费从"风险方向"转为"可加速投入的确定性赛道"**：此前 2026-05 提及的"监管审批瓶颈"中，税务处理的不确定性是主要顾虑之一——税务机关此前对 <1 MW 项目 0 欧元消费税豁免附加了法律未授权的限制条件，Conseil d'État 已明确裁定该限制违法，所有合规项目均适用豁免。叠加 Q1 项目数量 +20%、参与者增速更快的市场数据，此前"短期不建议重仓"的判断需要上调优先级：① B 端 EMS 的"多用户共享能源管理"扩展接口（此前列为预留项）应提前排入 2026 H2 开发计划，而非继续观望；② 税务合规不确定性消除后，安装商向公寓楼/社会住房推荐"集体自消费+储能"方案时的销售阻力显著降低，渠道物料可以直接引用 Conseil d'État 裁定作为合规背书
 
 ---
 
@@ -1217,7 +1227,7 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 
 #### Mój Prąd 7.0 详情 `[已启动]`
 
-**政策正文概述：** 官方名称调整为"家庭储能资助计划"（Finansowanie domowych magazynów energii），与前六期最大差异在于**完全以储能系统为主体**——不单独资助新建光伏，现有光伏用户方可搭配申请储能补贴。计划分两部分实施：**Part 1**（由 KPO/欧盟复苏基金资助，2026-03-30 启动）已于 **2026-06-19** 结束申请受理；**Part 2**（由"现代化基金"资助）计划接续。补贴额度按用户结算方式分档：net-billing（净结算）用户最高 **PLN 16,000**，net-metering（净计量，旧制）用户最高 **PLN 8,000**。预算约 PLN 3 亿（约 €7,000 万），远低于 Mój Prąd 6.0 的 PLN 18.5 亿（缩水约 16 倍），主要覆盖已完成安装但错过前期申请窗口的项目。
+**政策正文概述：** 官方名称调整为"家庭储能资助计划"（Finansowanie domowych magazynów energii），与前六期最大差异在于**完全以储能系统为主体**——不单独资助新建光伏，现有光伏用户方可搭配申请储能补贴。计划分两部分实施：**Part 1**（由 KPO/欧盟复苏基金资助，2026-03-30 启动）已于 **2026-06-19** 结束申请受理；**Part 2**（PME 部分二，由"现代化基金"资助）已明确具体方案，预计 2026 年秋季（9 月前后）开放申请。Part 1 补贴额度按用户结算方式分档：net-billing（净结算）用户最高 **PLN 16,000**，net-metering（净计量，旧制）用户最高 **PLN 8,000**，预算约 PLN 3 亿（约 €7,000 万），主要覆盖已完成安装但错过前期申请窗口的项目。Part 2 总预算扩大至 **PLN 20 亿**，补贴比例最高覆盖成本的 **30%**（不超过 **PLN 800/kWh**），要求储能标称容量 **≥10 kWh** 且须配备能源管理系统（EMS）和离网运行能力，费用可追溯期为 **2025-11-01** 之后完成的项目。
 
 **进展追踪：**
 | 时间 | 事件 |
@@ -1225,7 +1235,8 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 | 2026-02-05 | 公众咨询结束 |
 | **2026-03-30** | **Part 1（KPO 资金）正式启动，开放申请** |
 | **2026-06-19** | **Part 1 申请窗口关闭** |
-| 待定 | Part 2（"现代化基金"资助）储能项目接续 |
+| **2025-11-01** | **Part 2 费用可追溯起始日（覆盖已完成但未及申请的项目）** |
+| **2026 年内（预计 9 月）** | **Part 2（"现代化基金"资助，预算 PLN 20 亿）预计开放申请：补贴≤30%成本/≤PLN 800/kWh，要求≥10 kWh 容量 + EMS + 离网能力** |
 
 > **来源：**
 > - [Program Mój Prąd 7.0 powraca! — SWATT](https://swatt.pl/pl/SWATT_WIEDZY/dofinansowania/program-moj-prad-70-powraca-w-2026-rzad-finansuje-magazyny-energii-i-ciepla) `[2026]`
@@ -1233,15 +1244,18 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - [Mój Prąd 7.0 – zasady i dotacje na magazyny energii 2026 — SunSol](https://sunsol.pl/dofinansowanie-fotowoltaiki/moj-prad-7-0-zasady-programu/) `[2026]`
 > - [Nowy start programu Mój Prąd 7.0 — Alians OZE](https://alians-oze.pl/moj-prad-7-dotacje-magazyny-energii-2026/) `[2026]`
 > - [Nowy start programu Mój Prąd 7.0 – co zmieni się dla prosumentów w 2026 r.? — Alians OZE](https://alians-oze.pl/moj-prad-7-dotacje-magazyny-energii-2026/) `[2026-06]`
+> - [Przydomowe magazyny energii — Fundusz Modernizacyjny — Portal Gov.pl](https://www.gov.pl/web/funduszmodernizacyjny/przydomowe-magazyny-energii) `[2026-07]`
+> - [Druga szansa na dotację do magazynu energii i PV. NFOŚiGW wznawia nabór po programie Mój Prąd — GLOBENERGIA](https://globenergia.pl/druga-szansa-na-dotacje-do-magazynu-energii-i-pv-nfosigw-wznawia-nabor-po-programie-moj-prad/) `[2026-07]`
 
 #### PM 解读
 
-> **[2026-07-01]**
+> **[2026-07-05]**
 > - **Mój Prąd 60% 含储能，波兰是欧洲储能渗透率增长最快的市场之一**：12.1 万份申请中 7.4 万含储能，说明波兰用户对"光伏+储能"套装的接受度已经非常高。App 的波兰语本地化应该进入优先级序列
 > - **平均 5 kWh 容量段说明市场偏好小型系统**：波兰用户倾向于小容量储能（对标德国的 Balkonkraftwerk 配储场景），产品定义上 5-10 kWh 的入门级家储是主力 SKU。App 中的容量推荐算法需要适配波兰的用电模式和电价水平
 > - **Mój Prąd 7.0 已于 2026-03-30 启动，但预算缩水 16 倍，补贴申请功能需重新定位**：7.0 实际预算约 PLN 3 亿（6.0 为 PLN 18.5 亿），且面向的是"已装光伏、尚未申请储能补贴"的存量补录用户，而非新装用户。App 内置的"补贴申请引导"功能仍有价值，但目标用户画像必须调整——不是帮新买家申请补贴，而是帮"有光伏没储能"的老用户找到过渡计划的入口。由于预算有限，额度可能快速耗尽，App 需内置"补贴剩余额度提醒"功能
 > - **PLN 41.5 亿大型储能补贴说明波兰正在构建储能产业生态**：大型储能项目的落地将带动配套的 EMS、SCADA 等 B 端软件需求。对于有 B 端储能管理平台的厂商，波兰是值得关注的增量市场
 > - **Mój Prąd 7.0 Part 1 已于 6-19 关闭，补贴按结算方式分档（net-billing PLN 16,000 vs net-metering PLN 8,000）——App 补贴计算器需要按用户结算类型分支**：Part 1 关闭意味着当前窗口的补录用户申请已结束，产品运营需立即将资源转向 Part 2（现代化基金资助）的时间线跟踪。同时首次明确的分档金额差异（净结算用户补贴是净计量用户的 2 倍）说明波兰政府在通过补贴力度引导用户从旧的净计量向净结算迁移。App 内的"补贴查询/计算器"功能必须先判断用户当前的电费结算方式，再展示对应的补贴上限，避免因笼统展示单一金额造成用户预期错位
+> - **PME Part 2 明确 PLN 20 亿预算和"≥10 kWh + EMS + 离网能力"技术门槛，预算规模较 Part 1 扩大近 7 倍——波兰家储正从"补贴驱动的小额补录"升级为"技术合规驱动的规模化支持"**：与 Part 1（PLN 3 亿，无硬性技术门槛）相比，Part 2 首次将 EMS 配置和离网运行能力作为申领资格的强制要求，且费用可追溯至 2025-11-01。对产品端的行动：① 入门级 SKU（5 kWh 左右，见此前 PM 解读关于"5 kWh 甜点段"的判断）若不满足 ≥10 kWh 门槛，需在波兰市场推出满足新门槛的进阶 SKU，否则用户无法申领 Part 2 补贴；② App/固件的 EMS 模块和离网运行能力需要作为波兰市场的强制配置项，而非可选功能，直接关系产品能否进入补贴目录；③ 申请窗口预计 9 月开启，建议 Q3 前完成产品认证材料准备，避免错过窗口开放初期的申请高峰
 
 ---
 
@@ -1326,7 +1340,7 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 | **葡萄牙** | `[家储]` | 已建立完整的储能监管框架 | 截至 2025-04 |
 | **希腊** | `[家储]` | 储能政策早期阶段 | 截至 2025-04 |
 | **罗马尼亚** | `[工商储]` | EC 批准 €1.5 亿独立储能补贴计划（现代化基金） | 2026-03 |
-| **匈牙利** | `[家储]` | 储能政策早期阶段 | 截至 2025-04 |
+| **匈牙利** | `[家储]` `[工商储]` | 已推出 HUF 1,000 亿住宅储能补贴计划（详见 14.2） | 2025-12 |
 
 > **来源：**
 > - [EU Members Make Mixed Progress on Energy Storage — Energy Storage News](https://www.energy-storage.news/european-union-members-make-mixed-progress-in-implementing-energy-storage-strategies/) `[2025-04]`
@@ -1341,12 +1355,30 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - [European Commission approves Romania's battery storage subsidy scheme — ESS News](https://www.ess-news.com/2026/03/09/european-commission-approves-romanias-battery-storage-subsidy-scheme/) `[2026-03]`
 > - [Commission approves €150 million Romanian State aid scheme — EC](https://ec.europa.eu/commission/presscorner/detail/en/ip_26_524) `[2026-03]`
 
+### 14.2 匈牙利住宅储能补贴 `[家储]` `[工商储]` `[已实施]`
+
+#### HUF 1,000 亿住宅储能补贴计划
+
+**政策正文概述：** 匈牙利政府于 **2025-12** 宣布 **HUF 1,000 亿**（约 €2.6 亿/$3.05 亿）住宅储能补贴计划，面向已装或计划安装光伏的家庭，目标是提升家庭能源自给率。补贴为一次性无偿资助，每户最高 **HUF 250 万**，可覆盖约 HUF 320 万电池+逆变器系统成本的 **80% 以上**。技术要求：储能标称容量 **≥10 kWh**、直流耦合（DC-coupled）、高压（high-voltage）系统、支持**零馈网运行**。与住宅计划同步，面向企业和工业用户的储能补贴（总额 **HUF 2,300 亿**）已开放申请，Jedlik Ányos 能源计划下另有 **HUF 500 亿**工业储能专项激励，住宅与工商业两端政策同步落地。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2025-12 | 匈牙利政府宣布 HUF 1,000 亿住宅储能补贴计划 |
+| **2026-01-12 至 2026-02-15** | **住宅补贴申请窗口开放** |
+
+> **来源：**
+> - [Hungary launches $305 million subsidy for residential battery storage — pv magazine International](https://www.pv-magazine.com/2025/12/12/hungary-launches-huf-100-billion-subsidy-for-residential-battery-storage/) `[2025-12]`
+> - [Hungary announces residential battery energy storage subsidy program — ESS News](https://www.ess-news.com/2025/12/11/hungary-announces-residential-battery-energy-storage-subsidy-program/) `[2025-12]`
+> - [New Grant for Renewable Energy Production and Storage Announced — PwC Hungary](https://www.pwc.com/hu/en/pressroom/2025/uj_megujulo_energiatermelest_es_tarolast_tamogato_palyazat.html) `[2025]`
+
 #### PM 解读
 
-> **[2026-06-19]**
+> **[2026-07-05]**
 > - **爱尔兰和葡萄牙已有完整框架，值得评估进入时机**：两国框架完善但市场规模有限，适合作为"德国+意大利"之后的第二梯队市场。可以先通过当地安装商渠道小批量试水
 > - **东南欧（希腊、罗马尼亚、匈牙利）仍在早期，暂不投入**：政策不明朗+市场规模小，软件本地化的 ROI 不合算。持续跟踪即可
 > - **罗马尼亚从"早期阶段"升级为"有实质补贴机制"——EU 现代化基金 €1.5 亿是中东欧储能政策落地的先行案例，B 端工商储厂商可纳入 2026-2027 评估序列**：EC 批准后，罗马尼亚最高 100% 成本覆盖 + 15M 上限的竞争性招标对大型独立 BESS 项目吸引力显著；2030 年前部署要求意味着项目窗口为 3-4 年。对有 B 端储能管理平台的厂商，罗马尼亚可作为波兰之外的第二个中东欧优先市场进行接触性评估
+> - **匈牙利从"政策早期阶段"跃升为中东欧最具补贴强度的住宅储能市场之一，单户最高 HUF 250 万（覆盖系统成本 80%+）——应立即纳入中东欧市场评估序列**：与波兰 Mój Prąd（PLN 16,000/户）、罗马尼亚（工商储为主）相比，匈牙利住宅补贴的单户覆盖比例显著更高，且技术门槛（≥10 kWh、直流耦合、高压、零馈网）明确指向中大型家储系统而非入门级产品线。对产品策略：① 匈牙利语 App 本地化和当地安装商渠道接触应纳入 2026 H2 评估计划；② 首轮申请窗口仅 1 个月（2026-01-12 至 02-15），若后续开放第二轮，需提前准备"补贴申请引导"功能帮用户抢窗口；③ 住宅（HUF 1,000 亿）与工商业（HUF 2,300 亿 + Jedlik Ányos HUF 500 亿）补贴同步落地，意味着 B 端储能管理平台也应同步评估匈牙利市场机会，避免只做 C 端布局
 
 ---
 
