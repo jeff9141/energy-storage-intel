@@ -57,6 +57,7 @@ nav:
       - 德国馈电政策专题: policy/germany_feed_in_policy_analysis.md
   - 竞对分析:
       - 竞对软件能力分析: competitors/competitor_software_analysis.md
+      - Tibber VPP 调度权分析: competitors/tibber_vpp_analysis.md
   - 技术参考:
       - MTS 与家储系统连接拓扑: technical/mts_home_storage_connection.md
   - 信息源目录: reference_sources.md
