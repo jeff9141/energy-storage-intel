@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-07-10
+> 最后更新：2026-07-11
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -1075,9 +1075,38 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - [Plug-in Solar Device Interim Product Specification Version 1.0 — GOV.UK](https://assets.publishing.service.gov.uk/media/6a31167d15f2a70fac7e6026/plug-in-solar-interim-product-specification.pdf) `[2026-06]`
 > - [DESNZ Opens Plug-In Solar Consultation: PSSR Amendment and Interim Product Spec — Plug Solar Hub](https://plugsolarhub.co.uk/desnz-plug-in-solar-consultation-2026) `[2026-06]`
 
+### 7.9 动态频率响应市场规则修订 `[工商储]` `[部分已生效]`
+
+#### Ofgem 裁定 Dynamic Response 服务条款修订，六项获批、两项被拒
+
+**政策正文概述：** Ofgem 就 NESO（国家能源系统运营商）提交的 Dynamic Response 频率响应服务条款修订方案作出裁定：8 项提案中 6 项获批（分两批生效），2 项因"未充分征询"被拒（NESO 可补充征询后重新提交）。核心变更影响电池资产在英国频率响应市场（含 Dynamic Containment、Moderation、Regulation 等品类）的可用性认定、收益叠加规则和处罚机制，对独立参与该市场（尤其平衡机制外的中小型及聚合型电池资产）的收益构成实质约束。
+
+**已获批变更（2026-07-31 生效）：**
+- 未在平衡机制中提交有效最终物理通知（Final Physical Notification）的资产，无论实际技术能力如何，一律被认定为"Dynamic Response 不可用"
+- 资产若同时签约 Stability Network Procurement Services，须采用预先核准的基线方法学，防止收益重复计费
+- 可用性费用计算条款的名称调整（行政性变更）
+
+**已获批变更（2027-01-01 生效）：**
+- 未经 NESO 指令自行标记"解除武装"（disarmed）状态的服务商将被处罚
+- NESO 获授权公开各服务商的处罚数据
+- 非 BMU（非平衡机制单元）服务商须在合约期外同步提交运行计量和基线数据，滚动 28 天周期内达标率须 ≥80% 方可维持参与每日拍卖资格
+
+**被拒变更：** 四档分级处罚机制、NESO 扩大暂停参与权限——均因征询程序不充分被驳回，Ofgem 表示若补充征询后可重新考虑。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2026-07-06 | Ofgem 发布裁定结果 |
+| **2026-07-31** | **首批变更生效（可用性认定、收益叠加规则）** |
+| **2027-01-01** | **第二批变更生效（解除武装处罚、非 BMU 数据提交要求）** |
+
+> **来源：**
+> - [Ofgem approves rule changes for UK frequency response markets — ESS News](https://www.ess-news.com/2026/07/06/ofgem-approves-rule-changes-for-uk-frequency-response-markets/) `[2026-07]`
+> - [Ofgem approves rule changes for UK frequency response markets — PV Magazine](https://www.pv-magazine.com/2026/07/07/ofgem-approves-rule-changes-for-uk-frequency-response-markets/) `[2026-07]`
+
 #### PM 解读
 
-> **[2026-07-01]**
+> **[2026-07-11]**
 > - **SEG 分时售电 + VPP 参与 = 英国家储 App 的核心能力矩阵**：最高 50p/kWh 的 SEG 分时电价意味着储能不再只是"省电"工具，而是"赚电费"工具。App 需要三层能力：① 分时电价数据集成（Octopus、British Gas 等零售商电价 API）；② 智能充放电调度（低价充、高价放）；③ VPP 接入（参与频率响应、容量市场等辅助服务）。这三层是递进关系，至少前两层是市场准入的基本要求
 > - **Warm Homes Plan 面向低收入群体，安装商 B 端工具需要适配补贴申请流程**：£150 亿预算中有大量资金通过安装商渠道落地。B 端工具（Installer App/Portal）如果能嵌入"Warm Homes Plan 资格查询 + 申请流程引导"，将是安装商选择合作品牌的加分项
 > - **ECO4 于 2026-12-31 终止，ECO5 已确认取消**：政府决定终结整个 ECO 框架，£1.5B 资金重新分配至 Warm Homes Plan。渠道链路从"能源供应商分包"变为"地方政府 → 安装商"，安装商需持有 TrustMark + PAS 2030:2023 认证
@@ -1086,6 +1115,7 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - **社区电池征询（2026-06-04，截止 7-30）是英国政策向"无法自装用户"扩展的前置信号——C&I 产品线需在路线图上预留 50 kW–5 MW 社区电池形态**：DESNZ 征询议题框架直指现有家庭电池政策的覆盖盲区：租户、公寓住户、低收入群体。若政府跟进澳洲模式推出社区电池补贴，主力部署单元将是 50 kW–5 MW 的社区级储能系统，而非消费级家储产品。对于拥有 C&I 储能产品线的厂商，这是英国 2027-2028 年新增量的早期信号窗口：① 现阶段可向 DESNZ 提交书面证据意见（截止 7-30），展示技术能力并在政策制定层建立认知；② 软件侧提前规划"多建筑共享储能管理"的 B 端系统架构，避免后期重构成本
 > - **英国首次为阳台光伏立法，但过渡规范明确排除储能——这是产品定义上的关键约束，而非可以软件绕开的限制**：DESNZ 的 Plug-in Solar 征询标志着英国从"无阳台储能政策框架"（原 7.4 所述）转向"有纯光伏合规框架，但储能仍被排除"的过渡状态。对产品策略的含义：① 若要进入英国阳台光伏市场，短期内必须先以"纯光伏、不含电池"的产品形态合规上市，储能功能需等待后续规范迭代或另行走英国现有的家储合规（G98/G99 并网许可、BS 7671 布线规范）与安装商渠道；② 800VA/3.5A 的逆变器规格与德国 800W 馈电上限高度接近，意味着微逆固件的功率钳位逻辑可直接复用，但需要针对英国 BS 1363 插头规格单独做硬件适配；③ 每户限装 1 台设备的规定应体现在英国市场的产品注册与激活流程中，避免用户叠加安装导致合规风险；④ 建议在 2026-07-22 征询回应摘要发布后，第一时间评估储能纳入的可能性和时间表，这将决定英国阳台储能是"现在布局"还是"等下一版规范"的市场进入节奏
 > - **Ofgem 于 2026-06-26 发布 LDES Window 1 拟授权名单（16 项目 / 7.6 GW / 136.9 GWh），英国长时储能从"政策设计"正式进入"项目落地"阶段**：从 73 个合格项目中遴选 16 个，时长 8–22 小时，锂离子 BESS 和抽水蓄能为主，含 CAES 和全钒液流等新兴路线，征询截止 2026-08-07，正式合同预计 2026 年夏授予。对 C&I 储能产品的含义：① 英国长时储能的收益路径从"容量市场 + 频率响应（均为 2 小时内短时场景）"正式扩展为"Cap & Floor 保底机制（8-22 小时长时场景）"——B 端报价和 EMS 平台需为这两条路径提供独立的 IRR 测算模型（短时 BESS 套利 vs 长时 LDES 稳定回报）；② 7.6 GW Window 1 规模表明英国 LDES 市场体量不是试点而是系统性部署，有 B 端工商储业务的厂商应评估是否将 6-22 小时产品形态纳入英国产品矩阵；③ 正式合同授予后（2026 年夏），Cap/Floor 初始收益上下限将公开，届时可基于实际数字校正 LDES 项目的 IRR 预测区间，是 B 端 EMS 平台更新长时储能定价模型的关键时间点
+> - **Ofgem 收紧 Dynamic Response 可用性认定和处罚机制，B 端聚合 EMS 需要在 7-31 前完成合规适配**：未提交有效最终物理通知即被判定"不可用"（无论实际技术能力）、非 BMU 资产须达 80% 数据提交合规率方可维持每日拍卖参与资格——这两项 7-31 生效的变更直接提高了独立/聚合电池资产参与频率响应市场的操作门槛。对有 B 端聚合业务或对接英国 VPP 聚合商 API 的厂商：① EMS 调度逻辑需要将"平衡机制物理通知提交状态"作为频率响应可用性判断的前置条件之一，避免因未同步提交通知导致收益认定为零；② 非 BMU 参与路径的运行计量/基线数据提交需要自动化、常态化（而非仅合约期内提交），滚动 28 天 80% 达标率应作为内部监控指标；③ 2027-01 生效的"解除武装"处罚及 NESO 处罚数据公开机制，意味着违规记录未来对聚合商信誉可见，服务商筛选和商务谈判时应纳入考量
 
 ---
 
@@ -1098,7 +1128,10 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 | **气候与能源基金** | 光伏+储能补贴，储能部分 €150/kWh | 2025 年多轮 |
 | **2025 首轮** | €1,200 万预算（实际因超额申请扩大至 €4,880 万），目标 220 MW 光伏 + 200 MWh 储能 | 2025 |
 | **2025 末轮** | €800 万追加预算 | 2025-10 |
-| **欧洲制造加成** | 使用欧洲制造的组件/逆变器/储能，额外 10% "Made in Europe" 补贴 | 2025 |
+| **2026 首轮** | 原预算 €4,000 万，因超额申请扩大至 **€7,000 万**；约 29,000 份申请中 **约 90% 包含储能配置** | 2026 |
+| **2026 二轮** | €1,200 万预算，按容量分四档：≤10 kW 及 10–20 kW 各 €200 万，20–100 kW 及 >100 kW 各 €400 万；≤10 kW 固定费率 €150/kW，10–20 kW 为 €140/kW，20 kW 以上按最低补贴需求竞标排序 | 2026-06-17 开放 |
+| **2026 三轮** | €800 万预算 | 2026-10-08 至 10-22 |
+| **欧洲制造加成** | 使用欧洲制造的组件/逆变器/储能，额外 10% "Made in Europe" 补贴；截至 2026 年，约 46% 光伏申请已采用欧洲制造逆变器 | 2025 起持续 |
 
 - **申请条件**：储能须与新建或扩建的光伏系统一同申请，不得单独为已运行系统配储
 
@@ -1113,13 +1146,17 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 > - [Austria Allocates €12M for Solar-Plus-Storage — PV Magazine](https://www.pv-magazine.com/2025/08/20/austria-allocates-e12-million-for-solar-plus-storage-rebates/) `[2025-08]`
 > - [Austria Opens Final €8M Solar-Plus-Storage Round — PV Magazine](https://www.pv-magazine.com/2025/10/08/austria-opens-final-e8-million-solar-plus-storage-rebate-round/) `[2025-10]`
 > - [Austria Earmarks €35M for Battery Rebates — PV Magazine](https://www.pv-magazine.com/2024/04/11/austria-earmarks-e35-million-for-battery-rebates/) `[2024-04]`
+> - [Austria allocates €12 million for solar-plus-storage rebates (2026 second round) — PV Magazine](https://www.pv-magazine.com/2026/06/15/austria-allocates-e12-million-for-solar-plus-storage-rebates-2/) `[2026-06]`
+> - [Austria introduces 'Made in Europe' bonus for solar and storage projects using European components — PV Tech](https://www.pv-tech.org/austria-introduces-made-in-europe-bonus-solar-storage-european-components/) `[2026]`
 
 #### PM 解读
 
-> **[2026-06-14]**
+> **[2026-07-11]**
 > - **"Made in Europe" 10% 加成是有欧洲制造布局厂商的政策红利**：如果产品（或关键部件）在欧洲制造，App 中可以醒目展示"Made in Europe"标签和额外补贴金额，直接影响用户购买决策。对于中国厂商，这是一个值得评估的战略信号——是否需要在欧洲布局组装产能
 > - **"储能必须与新建光伏捆绑申请"限制了 retrofit 市场**：已有光伏系统的用户无法单独申请储能补贴，这意味着 App 中的"光伏+储能套装推荐"比"单独配储"优先级更高。产品包装策略上，"光储一体机"在奥地利比"独立储能箱"更有政策适配性
 > - **€500 阳台光伏补贴"秒光"说明需求旺盛**：2024 年 €500 补贴迅速用尽，说明奥地利阳储用户的价格敏感度高但购买意愿强。App 中可以内置"补贴开放提醒"功能，帮助用户抢窗口
+> - **2026 首轮 90% 申请含储能，奥地利已从"光伏配储"市场进化为"储能主导"市场**：29,000 份申请中九成含电池，且预算从 €4,000 万一路扩容至 €7,000 万，说明当地用户已默认"装光伏=装储能"。App 端不应再向奥地利用户展示"是否要加装储能"的选择分支，应默认捆绑呈现光储一体报价和 ROI，把决策成本从"要不要储能"转移到"选多大容量"
+> - **三档补贴窗口（6-17、10-8~10-22）叠加超额扩容的历史规律，App 应内置"申请窗口倒计时+预算消耗预警"**：过去三轮均出现预算超额扩容（€1,200 万→€4,880 万、€4,000 万→€7,000 万），意味着奥地利用户抢补贴窗口的行为模式稳定。安装商工具和 C 端 App 应在每轮窗口开放前主动推送提醒，并展示"历史扩容概率"来强化用户尽快申请的动机
 
 ---
 
