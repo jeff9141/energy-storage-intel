@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-07-11
+> 最后更新：2026-07-12
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -570,9 +570,27 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Privileged status for battery storage systems in unzoned areas — Gleiss Lutz](https://www.gleisslutz.com/en/know-how/privileged-status-battery-storage-systems-unzoned-areas-new-nos-11-and-12-section-351-baugb-simplify-approvals-and-create-legal) `[2026]`
 > - [Germany's Battery Storage Planning Privileges Face Reversal Weeks After Approval — Energy News](https://energynews.biz/germanys-battery-storage-planning-privileges-face-reversal-weeks-after-approval-as-policy-uncertainty-returns/) `[2026]`
 
+### 2.13 光伏储能创新拍卖（Innovationsausschreibung）`[工商储]` `[持续运行]`
+
+#### 2026-05 轮次结果：连续超额认购，均价企稳约 5.34 ct/kWh
+
+**政策正文概述：** Innovationsausschreibung 是 BNetzA 依据 EEG 面向光伏+储能联合项目开展的专项拍卖机制，每年固定 5-1 和 9-1 两轮，中标项目获得固定期限的市场溢价（Marktprämie），是德国光伏配储项目在 EEG 框架下除自用/Direktvermarktung 外的主要市场化支持通道，与 EEG 2027 改革"取消小型系统固定馈电补偿、转向拍卖机制"的方向一致。2026-05-01 轮次招标量 475 MW，收到 46 份投标共 749 MW（超额认购约 1.6 倍），最终 27 份中标共 482 MW，中标价区间 4.75–5.61 ct/kWh，加权均价 **5.34 ct/kWh**（与上一轮 5.31 ct/kWh 基本持平，价格已连续多轮企稳）。中标项目地域高度集中于巴伐利亚（287 MW / 15 个），其次石荷州（53 MW / 2 个）和勃兰登堡（51 MW / 2 个）。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2025-10-08（前一轮） | 超额认购逾 4 倍，33 个光伏+储能组合中标，均价 5.31 ct/kWh |
+| **2026-05-01** | **新一轮结果公布：482 MW 中标（27 份投标，共 749 MW 报名），均价 5.34 ct/kWh，巴伐利亚占中标量近六成** |
+| **2026-09-01（预计）** | **下一轮 Innovationsausschreibung 招标开启** |
+
+> **来源：**
+> - [Jüngste Innovationsausschreibung ist wieder weit überzeichnet — PV Magazine Deutschland](https://www.pv-magazine.de/2026/06/26/juengste-innovationsausschreibung-ist-wieder-weit-ueberzeichnet/) `[2026-06]`
+> - [Results of the May 2026 Innovation Tender — Suena Energy](https://www.suena.energy/en/post/results-of-the-may-2026-innovation-tender) `[2026-06]`
+> - [Innovationsausschreibung: Speicher und Solarparks vor allem in Bayern — top agrar](https://www.topagrar.com/energie/news/innovationsausschreibung-speicher-und-solarparks-vor-allem-in-bayern-20026719.html) `[2026-06]`
+
 #### PM 解读
 
-> **[2026-07-11]**
+> **[2026-07-12]**
 > - **EEG 2027 内阁表决再次推迟至 7 月且无具体日期，但 2027-01-01 生效目标未变——产品准备窗口实质压缩**：从 6-24 推迟至 7 月意味着即使 7 月底过内阁、夏休后启动议会程序，Bundestag + Bundesrat 完成立法仅剩约 4 个月（9-12 月），议会仍可大幅修改条款。核心条款（取消 ≤25 kWp 馈电补偿、iMSys 门槛降至 2 kW）方向不变，但具体参数和过渡期可能在议会阶段被柔化。建议：产品路线图按"2027-01 生效"不变推进，但 ROI 计算器的馈电率参数需设计为可热更新——议会修改出台后 48 小时内完成参数切换
 > - **StromVKG 一读完成但 Südbonus 争议可能影响 BESS 拍卖区域分配**：联邦议院一读中，2/3 容量分配至南部的 Südbonus 条款引发争议。若最终立法保留该条款，2027-05 的 2 GW BESS 专项拍卖中约 1.3 GW 将定向分配至南部（巴伐利亚、巴登-符腾堡），北部项目竞争空间被压缩。对有 B 端工商储业务的厂商：项目选址应优先南部电网瓶颈区域，以增加拍卖中标概率
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
@@ -598,6 +616,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - **StromVKG 进入 Bundesrat 立法收尾阶段（计划 7-10 夏休前最后表决），市政企业/中小参与者的准入顾虑未被采纳——B 端 EMS 应为首轮拍卖"认购不足"预留备选收益路径**：Bundesrat 此前提出的保证金门槛下调、财务负担结构调整诉求已被联邦政府拒绝，行业担忧 9-1 首轮拍卖可能因此出现中小型/市政参与者退场导致的认购不足。对有 B 端工商储业务的厂商：① 不应假设首轮 9 GW 气电招标必然满额成交，招标遇冷可能倒逼后续轮次（含 2027-05 的 2 GW BESS 专项拍卖）条款松动，需保持政策灵敏度；② B 端项目报价模型应同时准备"容量市场收益"和"纯套利+AgNes 容量费"两套情景，视 Bundesrat 7-10 最终结果切换基准假设
 > - **StromVKG 已完成立法但 EEG 2027 仍原地踏步——两条曾经绑定的法案已实质脱钩，馈电补偿参数的不确定性比容量市场规则更持久**：Reiche 此前将 EEG 与 Netzpaket/StromVKG 捆绑表决以换取谈判筹码，但截至 7 月初（距夏休仅两周）经济部与环境部在 ≤25 kWp 馈电补偿取消方案上仍无协议，Schneider 明确拒绝任何"危及可再生能源扩张"的版本；即便本轮内阁最终过关，后续仍需完整走完联邦议院、联邦参议院及布鲁塞尔国家援助审批，EEG 现行授权 2026 年底到期的时间压力持续累积。对产品端：馈电补偿相关参数（≤25 kWp 段是否取消固定补偿、50% 馈电上限豁免条件）在 Q3-Q4 仍可能反复变动，ROI 计算器除馈电率热更新外，应额外为"过渡期空窗"场景（EEG 到期但新法未生效）设计降级展示逻辑，避免用户在立法真空期看到错误或缺失的收益预测
 > - **绿党已启动问责施压（要求 Reiche 到经济委员会说明），Reiche 随即重申"7 月内阁"承诺——但这是第三次给出类似时间表，ROI 计算器的"过渡期空窗"降级逻辑优先级应进一步提升**：7 月 5-6 日绿党以延误为由要求部长到委员会说明，7 月 8 日 Reiche 在委员会重申 7 月内阁目标，绿党议员当场质疑其可信度（"此前每个时间节点都已错过"）。这是继 6-10、6-24 之后第三次公开时间承诺落空又重设，说明内阁表决的不确定性尚未实质缓解，产品端不应因"官方重申"而调高确定性权重；应继续按此前判断（Q3-Q4 参数波动预期不变）推进 ROI 计算器的热更新与降级展示能力建设，不因单次政治表态调整开发优先级
+> - **Innovationsausschreibung 光储联合拍卖均价连续两轮企稳在 5.3 ct/kWh 附近，为 B 端光储联合项目提供可预测的溢价收益锚点**：2026-05 轮次超额认购 1.6 倍、加权均价 5.34 ct/kWh，与上一轮（5.31 ct/kWh）几乎持平，说明该机制经过多轮运行后已进入价格稳定期，不再像早期轮次那样大幅波动。对有德国 B 端光储联合项目业务的厂商：① 项目报价和 IRR 测算可将 ~5.3 ct/kWh 的 Marktprämie 作为基准假设，不确定性显著低于仍在博弈中的 EEG 2027 固定馈电补偿；② 巴伐利亚以近六成中标量成为该机制事实上的核心投标区域，选址和渠道资源应优先向巴伐利亚倾斜；③ 下一轮申报窗口为 9-1，需提前完成场地和电网接入条件准备，避免错过窗口
 
 ---
 
@@ -1222,11 +1241,18 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 
 | 项目 | 内容 | 时间 |
 |------|------|------|
-| **Prosumertarief** | 产消者关税：安装储能可显著降低峰值注入，从而减少该税费 | 持续有效 |
+| **Prosumertarief** | 产消者关税：安装储能可显著降低峰值注入，从而减少该税费；2026 年费率区间 **€54.63–€69.59/kVA**（按逆变器交流侧最大功率计，各配电网区域差异化，由 VREG 每年核定），较 2025 年平均下降 | 持续有效 |
 | **电池补贴终止** | 法兰德斯电池补贴（Battery Premium）已于 2025-01-01 终止 | 2025-01 终止 |
 | **净计量** | `[2024]` 取消净计量，推动储能需求增长 | 2024 |
+| **旧电表滚存补偿终止** | 未换装智能电表的旧式电表用户，馈网电量与用电量按年滚存抵扣的补偿机制（saldering）正式取消：旧表用户须缴纳 Prosumertarief 且不再获得馈网补偿 | **2026-04-01 起** |
 
 - 法兰德斯是欧洲最强的住宅光伏+储能市场之一（储能同时降低 Prosumertarief 并提升自消费率）
+- 已完成数字电表强制安装（2025-01-01 起）的用户不再单独征收 Prosumertarief，改为通过"容量电价"（capacity tariff，按月度 15 分钟最高峰值功率）+ 实际用电量结算——2026-04-01 后，无论新旧电表用户，馈网电量均不再享有任何形式的补偿
+
+> **来源（2026-04-01 旧电表滚存补偿终止 + 2026 费率）：**
+> - [Prosumententarief in Vlaanderen Juli 2026: nog voor jou? — Selectra](https://selectra.be/nl/energie/prijzen/prosumententarief) `[2026-07]`
+> - [Zonnepanelen met digitale meter: regels en premies — Energiebewust Ontwerpen](https://www.energiebewustontwerpen.be/zonnepanelen/met-digitale-meter/) `[2026]`
+> - [Prosumententarief | Vlaamse Nutsregulator — VREG](https://www.vlaamsenutsregulator.be/elektriciteit-en-aardgas/nettarieven/prosumententarief) `[2026]`
 
 ### 10.2 瓦隆（Wallonie）`[家储]`
 
@@ -1248,10 +1274,11 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 
 #### PM 解读
 
-> **[2026-06-14]**
+> **[2026-07-12]**
 > - **法兰德斯的 Prosumertarief 是"储能即省税"的典型政策场景**：用户安装储能后，峰值注入降低 → Prosumertarief 税费减少。App 中需要可视化"安装储能前后的 Prosumertarief 对比"和"年化节省金额"，这是最有说服力的购买理由。不是"你省了多少电费"，而是"你少交了多少税"
 > - **三区政策割裂增加了软件本地化成本**：法兰德斯、瓦隆、布鲁塞尔三区政策独立，意味着 App 中的补贴信息、电价数据、合规要求需要按区域适配。如果资源有限，建议优先法兰德斯（市场最大、储能经济性最强）
 > - **法兰德斯电池补贴已终止，但储能需求反而因净计量取消而上升**：2024 取消净计量 → 2025 取消电池补贴，看似利空，但净计量取消后自消费率成为核心回报驱动力，储能需求反而更刚性。这是"补贴退坡但市场自驱"的典型案例
+> - **旧电表滚存补偿 2026-04-01 正式清零，法兰德斯完成从"补贴驱动"到"纯自消费经济性驱动"的最后过渡——渠道话术需从"少交税"升级为"馈网无补偿，不装电池就是白送电"**：此前电池补贴（2025-01 终止）和净计量（2024 取消）已经营造"补贴退坡但市场自驱"的叙事，2026-04-01 旧表用户滚存补偿的彻底清零意味着无论新旧电表用户，目前都面临馈网电量不获得任何形式补偿（无论是电量抵扣还是税费减免）的局面。App 的购买说服逻辑应聚焦"馈网已无任何补偿"这一比"Prosumertarief 对比"更强的触发点——不装电池等于把发出去的电白送电网，而非仅仅多交一点税
 
 ---
 
@@ -1271,6 +1298,23 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 
 - `[2025-04]` PLN 41.5 亿（约 €9.6 亿）大型储能补贴计划开放申请
 - `[2025-12]` 172 个项目共 14.5 GWh 获得补贴，要求 2028 年底前建设完成
+
+**容量市场（Rynek Mocy）BESS 修正可用性系数骤降** `[已生效]`
+
+**政策正文概述：** 波兰容量市场 2025-12-15 公布 2030 交付年主拍卖结果：BESS 的"修正可用性系数"（de-rating factor）从 2023 年 95%、2024 年 60% 骤降至 **13%**，中标 BESS 容量随之降至约 **685 MW**（2024 年为 2.5 GW，首次出现同比下滑），容量市场收入贡献大幅缩水；同期燃气机组中标约 2.4 GW，政策倾斜方向明显转向燃气。这是现行拍卖框架下的最后一轮，后续拍卖参数将纳入 EU 层面协商调整。尽管容量市场收入承压，Clean Horizon Storage Index（2026-05 更新版）显示波兰仍是欧洲电池储能收益最高市场：2 小时电池年化收益超 **€80 万/MW**，主要驱动力已切换为 **aFRR（自动调频备用）容量价格**（当月一度突破 €120/MW/h），而非容量市场收入——波兰 BESS 收益结构已从"容量市场主导"转向"辅助服务市场主导"。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2023 年拍卖 | BESS de-rating factor 95% |
+| 2024 年拍卖 | BESS de-rating factor 60% |
+| **2025-12-15** | **2030 交付年主拍卖结果公布：de-rating factor 骤降至 13%，BESS 中标容量降至约 685 MW（同比首次下滑）** |
+| **2026-05** | **Clean Horizon Storage Index 显示波兰 2 小时电池年化收益超 €80 万/MW，居欧洲首位，收入主要来自 aFRR 而非容量市场** |
+
+> **来源：**
+> - [Energy storage de-rating factor cut in Poland capacity market 'created an opportunity' — Energy-Storage.News](https://www.energy-storage.news/energy-storage-de-rating-factor-cut-in-poland-capacity-market-created-an-opportunity/) `[2026]`
+> - [BESS wins in Poland capacity market falls for the first time, de-rating cut to blame — Energy-Storage.News](https://www.energy-storage.news/bess-wins-in-poland-capacity-market-falls-for-the-first-time-de-rating-cut-to-blame/) `[2025-12]`
+> - [Poland, Italy lead Europe's battery storage revenue rankings — ESS News](https://www.ess-news.com/2026/07/01/poland-italy-lead-europes-battery-storage-revenue-rankings/) `[2026-07]`
 
 ### 11.3 阳台储能 `[阳储]`
 
@@ -1306,13 +1350,14 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 
 #### PM 解读
 
-> **[2026-07-05]**
+> **[2026-07-12]**
 > - **Mój Prąd 60% 含储能，波兰是欧洲储能渗透率增长最快的市场之一**：12.1 万份申请中 7.4 万含储能，说明波兰用户对"光伏+储能"套装的接受度已经非常高。App 的波兰语本地化应该进入优先级序列
 > - **平均 5 kWh 容量段说明市场偏好小型系统**：波兰用户倾向于小容量储能（对标德国的 Balkonkraftwerk 配储场景），产品定义上 5-10 kWh 的入门级家储是主力 SKU。App 中的容量推荐算法需要适配波兰的用电模式和电价水平
 > - **Mój Prąd 7.0 已于 2026-03-30 启动，但预算缩水 16 倍，补贴申请功能需重新定位**：7.0 实际预算约 PLN 3 亿（6.0 为 PLN 18.5 亿），且面向的是"已装光伏、尚未申请储能补贴"的存量补录用户，而非新装用户。App 内置的"补贴申请引导"功能仍有价值，但目标用户画像必须调整——不是帮新买家申请补贴，而是帮"有光伏没储能"的老用户找到过渡计划的入口。由于预算有限，额度可能快速耗尽，App 需内置"补贴剩余额度提醒"功能
 > - **PLN 41.5 亿大型储能补贴说明波兰正在构建储能产业生态**：大型储能项目的落地将带动配套的 EMS、SCADA 等 B 端软件需求。对于有 B 端储能管理平台的厂商，波兰是值得关注的增量市场
 > - **Mój Prąd 7.0 Part 1 已于 6-19 关闭，补贴按结算方式分档（net-billing PLN 16,000 vs net-metering PLN 8,000）——App 补贴计算器需要按用户结算类型分支**：Part 1 关闭意味着当前窗口的补录用户申请已结束，产品运营需立即将资源转向 Part 2（现代化基金资助）的时间线跟踪。同时首次明确的分档金额差异（净结算用户补贴是净计量用户的 2 倍）说明波兰政府在通过补贴力度引导用户从旧的净计量向净结算迁移。App 内的"补贴查询/计算器"功能必须先判断用户当前的电费结算方式，再展示对应的补贴上限，避免因笼统展示单一金额造成用户预期错位
 > - **PME Part 2 明确 PLN 20 亿预算和"≥10 kWh + EMS + 离网能力"技术门槛，预算规模较 Part 1 扩大近 7 倍——波兰家储正从"补贴驱动的小额补录"升级为"技术合规驱动的规模化支持"**：与 Part 1（PLN 3 亿，无硬性技术门槛）相比，Part 2 首次将 EMS 配置和离网运行能力作为申领资格的强制要求，且费用可追溯至 2025-11-01。对产品端的行动：① 入门级 SKU（5 kWh 左右，见此前 PM 解读关于"5 kWh 甜点段"的判断）若不满足 ≥10 kWh 门槛，需在波兰市场推出满足新门槛的进阶 SKU，否则用户无法申领 Part 2 补贴；② App/固件的 EMS 模块和离网运行能力需要作为波兰市场的强制配置项，而非可选功能，直接关系产品能否进入补贴目录；③ 申请窗口预计 9 月开启，建议 Q3 前完成产品认证材料准备，避免错过窗口开放初期的申请高峰
+> - **容量市场 de-rating 骤降至 13% + aFRR 收益跃居欧洲第一——波兰 B 端 BESS 收益模型必须从"容量市场优先"转向"辅助服务优先"**：2025-12 拍卖将 BESS 修正可用性系数从 60% 砍至 13%，中标容量同比首次下滑（2.5 GW→685 MW），容量市场收入大幅缩水；但 Clean Horizon 数据显示 2026-05 波兰 2 小时电池年化收益仍超 €80 万/MW，居欧洲首位，收入来源已切换为 aFRR 容量价格。对面向波兰 B 端工商储的 EMS/报价平台：① 收益预测模型权重需从"容量市场合约"转向"实时 aFRR/mFRR 竞价参与能力"，需具备频率响应市场自动投标接口；② 向波兰项目开发商推介 EMS 时应突出"多市场收益叠加优化"（aFRR + 现货套利），而非单一呈现容量市场合约收益——这是波兰与德国（AgNes 容量费为主）市场打法的核心差异化卖点
 
 ---
 
