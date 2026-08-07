@@ -498,11 +498,11 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [German Solar Association confirms more storage, less solar — ESS News](https://www.ess-news.com/2026/05/04/german-solar-association-confirms-more-storage-less-solar-capacity-installed-in-q1-2026/) `[2026-05]`
 > - [Drop in residential solar drives German PV down Q1 2026 — PV Tech](https://www.pv-tech.org/drop-in-residential-solar-drives-german-pv-installations-down-in-q1-2026/) `[2026]`
 
-### 2.9 电力供应安全与容量法（StromVKG） `[工商储]`
+### 2.9 电力供应安全与容量法（StromVKG） `[工商储]` `[已生效]`
 
-#### 内阁已通过，进入议会程序 `[立法进行中]`
+#### 已完成立法，2026-07-22 正式生效 `[已生效]`
 
-**政策正文概述：** StromVKG（原 Kraftwerksstrategie）于 **2026-05-13** 经联邦内阁（Bundeskabinett）表决通过，进入议会立法程序。目标新增 **11 GW** 备用容量，分三轮拍卖落地：① **首轮**（2026-09-01，4.5 GW）和 **次轮**（2026-12-08，4.5 GW）合计 9 GW，须满足 10 小时持续满负荷标准，实质仅适用氢气就绪型燃气机组；② **BESS 专项拍卖**（计划 2027-05-18，2 GW），取消 10 小时标准，但要求储能终端产品 **≥50% EEA 制造来源**。9 GW 气优格局实质将独立大型 BESS 排除在 2026 年两轮主体拍卖之外；中国厂商参与 2027 年 BESS 专项拍卖还面临 EEA 来源合规门槛。
+**政策正文概述：** StromVKG（原 Kraftwerksstrategie）于 **2026-05-13** 经联邦内阁（Bundeskabinett）表决通过，进入议会立法程序。目标新增 **11 GW** 备用容量，分三轮拍卖落地：① **首轮**（2026-09-01，4.5 GW）和 **次轮**（2026-12-08，4.5 GW）合计 9 GW，须满足 10 小时持续满负荷标准，实质仅适用氢气就绪型燃气机组；② **BESS 专项拍卖**（计划 2027-05-18，2 GW），取消 10 小时标准，但要求储能终端产品 **≥50% EEA 制造来源**。9 GW 气优格局实质将独立大型 BESS 排除在 2026 年两轮主体拍卖之外；中国厂商参与 2027 年 BESS 专项拍卖还面临 EEA 来源合规门槛。**立法已完成**：继联邦议院 2026-07-09 通过后，联邦参议院（Bundesrat）在夏休前最后一次全体会议表决通过，法律于 **2026-07-22 正式生效**，成为德国容量市场的法律基础。首轮 4.5 GW 容量拍卖将于 2026-09-01 据此启动；BESS 专项拍卖（2027-05-18，2 GW）及其 **≥50% EEA 制造来源**要求随之从"草案条款"升格为已生效法律的确定义务。
 
 **进展追踪：**
 | 时间 | 事件 |
@@ -514,7 +514,8 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 | **2026-06-24** | **联邦议院经济委员会公开听证（KW26）；多位专家批评 Südbonus 条款可能在德国内部制造新的区域不均衡，并就容量费征收机制结构要求政府提供明确信息** |
 | **计划 2026-07-10** | **联邦议院二读/三读（夏休前截止），通过后需提交 Bundesrat** |
 | **2026-07-09** | **联邦议院（Bundestag）提前一天完成二读/三读表决，StromVKG 正式通过 Bundestag 立法程序** |
-| **计划 2026-07-10** | **联邦参议院（Bundesrat）召开夏休前最后一次全体会议审议 StromVKG；此前 6-19 提出的保证金门槛、财务负担结构等修改诉求已被联邦政府拒绝，市政企业和中小型参与者的准入顾虑（首轮拍卖可能出现"认购不足"）仍未解决** |
+| **2026-07-11** | **联邦参议院（Bundesrat）在夏休前最后一次全体会议表决通过 StromVKG；6-19 提出的保证金门槛、财务负担结构等修改诉求最终未被采纳** |
+| **2026-07-22** | **StromVKG 正式生效，成为德国容量市场的法律基础；BESS 专项拍卖 ≥50% EEA 制造来源要求升格为已生效法律义务** |
 | **2026-09-01（计划）** | **首轮容量拍卖（4.5 GW，10 小时满负荷标准，氢气就绪燃气机组为主）** |
 | **2026-12-08（计划）** | **第二轮容量拍卖（4.5 GW，同上标准）** |
 | **2027-05-18（计划）** | **BESS 专项拍卖（2 GW，取消 10 小时标准；要求储能终端产品 ≥50% EEA 制造来源）** |
@@ -529,6 +530,8 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - [Abstimmung über Sicherung der Stromversorgung (KW28) — Bundestag](https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-versorgungssicherheit-strom-1192538) `[2026-07]`
 > - [German Federal Government passes law on the provision of new capacity in the electricity market (StromVKG) — Eversheds Sutherland](https://www.eversheds-sutherland.com/en/germany/insights/german-federal-government-passes-law-on-the-provision-of-new-capacity-in-the-electricity-market) `[2026-07]`
 > - [Bundesrat sieht Änderungsbedarf beim StromVKG — Deutscher Bundestag](https://www.bundestag.de/presse/hib/kurzmeldungen-1190820) `[2026-06]`
+> - [StromVKG verabschiedet — stadt+werk](https://www.stadt-und-werk.de/k21-meldungen/stromvkg-verabschiedet/) `[2026-07]`
+> - [Meilenstein für die Versorgungssicherheit: Kapazitätsmarkt sichert zukünftig die Stromversorgung ab — BMWE](https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260710-meilenstein-fuer-versorgungssicherheit.html) `[2026-07]`
 
 ### 2.10 输电网接入竞争机制（Reifegradverfahren）`[工商储]`
 
@@ -617,7 +620,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 #### PM 解读
 
-> **[2026-08-05]**
+> **[2026-08-07]**
 > - **EEG 2027 内阁表决再次推迟至 7 月且无具体日期，但 2027-01-01 生效目标未变——产品准备窗口实质压缩**：从 6-24 推迟至 7 月意味着即使 7 月底过内阁、夏休后启动议会程序，Bundestag + Bundesrat 完成立法仅剩约 4 个月（9-12 月），议会仍可大幅修改条款。核心条款（取消 ≤25 kWp 馈电补偿、iMSys 门槛降至 2 kW）方向不变，但具体参数和过渡期可能在议会阶段被柔化。建议：产品路线图按"2027-01 生效"不变推进，但 ROI 计算器的馈电率参数需设计为可热更新——议会修改出台后 48 小时内完成参数切换
 > - **StromVKG 一读完成但 Südbonus 争议可能影响 BESS 拍卖区域分配**：联邦议院一读中，2/3 容量分配至南部的 Südbonus 条款引发争议。若最终立法保留该条款，2027-05 的 2 GW BESS 专项拍卖中约 1.3 GW 将定向分配至南部（巴伐利亚、巴登-符腾堡），北部项目竞争空间被压缩。对有 B 端工商储业务的厂商：项目选址应优先南部电网瓶颈区域，以增加拍卖中标概率
 > - **德国是家储+阳储的第一优先市场**：0% VAT + KfW 补贴 + 120 万套阳台光伏存量，政策环境在欧洲无出其右。软件本地化（德语 App、EPEX 电价集成、KfW 申请流程引导）应该是最高优先级
@@ -646,6 +649,7 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 > - **Innovationsausschreibung 光储联合拍卖均价连续两轮企稳在 5.3 ct/kWh 附近，为 B 端光储联合项目提供可预测的溢价收益锚点**：2026-05 轮次超额认购 1.6 倍、加权均价 5.34 ct/kWh，与上一轮（5.31 ct/kWh）几乎持平，说明该机制经过多轮运行后已进入价格稳定期，不再像早期轮次那样大幅波动。对有德国 B 端光储联合项目业务的厂商：① 项目报价和 IRR 测算可将 ~5.3 ct/kWh 的 Marktprämie 作为基准假设，不确定性显著低于仍在博弈中的 EEG 2027 固定馈电补偿；② 巴伐利亚以近六成中标量成为该机制事实上的核心投标区域，选址和渠道资源应优先向巴伐利亚倾斜；③ 下一轮申报窗口为 9-1，需提前完成场地和电网接入条件准备，避免错过窗口
 > - **EEG 2027 + Netzpaket 于 2026-07-29 正式通过内阁，"固定馈电补偿"从"取消"修订为"36 个月限时过渡补贴"，储能豁免 50% 馈电上限的条款已锁定——App ROI 计算器的过渡期参数框架可以从"等立法"转为"按内阁版本建模"**：内阁通过版本相比 2 月草案有实质妥协：固定 Einspeisevergütung 不是直接取消，而是改为每台新装 <50 kW 系统最长 36 个月的过渡补贴（起步约 5.2 ct/kWh），且适用装机上限逐年收紧（2028 降至 25 kW，2029 降至 7 kW，2030 完全退出）。储能豁免 50% 馈电上限的条款明确写入，这是配储的核心经济价值点，且不依赖后续议会修改。行动建议：① ROI 计算器可立即按内阁版本更新两套情景——"2027 内新装（享 36 个月过渡补贴）"vs"2030 后新装（无补贴，自消费优先）"，前者帮用户感知 2027 年前行动窗口的价值，后者展示储能在无补贴时代的纯经济性；② Netzpaket"first ready, first served"改革与 EEG 同步通过，并网接入从"抢占先机"变为"比成熟度"——B 端项目可行性评估框架需更新，将"场地控制证明 + 技术方案完成度"列为前置条件；③ 联邦议院 9 月表决仍可能修改部分参数，ROI 计算器的过渡补贴额度建议保留热更新入口，不要写死为 5.2 ct/kWh
 > - **H1 2026 负电价小时数实际下降至 299 小时（vs H1 2025 的 389 小时），但商业弃光量逆势增长 20%——"弃光强度"而非"负电价时数"是 App 储能价值叙事的新锚点**：Solarspitzengesetz 生效后，新建光伏运营商在电价转负时主动停机（丧失补贴顶格），导致每小时弃光量显著上升——这与"储能规避负电价"的用户痛点并不矛盾，反而使痛点更尖锐。App 叙事应从"今年负电价小时数 X 小时"（绝对数字可能让用户感觉风险在下降）切换为"你的系统本月有 Y kWh 发电在负电价时段有弃电风险，储能实际帮你捕获了 Z kWh"（具体到用户自己的损失）。风和光超过化石能源发电占比（H1 2026 报道）是第一性里程碑，进一步验证储能在结构性弃电格局下的长期刚性需求，App 首屏的"可再生能源占比"数据卡片可同步更新这一宏观背景叙事
+> - **StromVKG 已于 2026-07-22 正式生效，BESS ≥50% EEA 制造来源要求从"待表决草案"变为已生效法律——供应链合规评估的"最后窗口"正式开启，不再有观望空间**：继 Bundestag（7-9）后，Bundesrat 在夏休前完成最终表决，StromVKG 于 7-22 生效。此前 PM 解读中多次提示的"立法通过后 48 小时内启动 EEA 比例评估"触发条件现已达成，且 Bundesrat 提出的保证金/财务负担松绑诉求全部未被采纳，意味着终版法律没有为中小型/非欧洲参与者留出缓冲。对产品线的确定性行动：① 2027-05-18 BESS 专项拍卖距今约 9 个月，是唯一且已锁定的参与窗口，欧洲组装/BMS 供应商可行性接触必须立即从"评估"转入"落地谈判"，不能再等条款松动；② EEA 来源比例的具体计算口径（是否含欧洲组装、BMS 是否单独计权）现已是生效法律文本，应立即委托法律团队出具确定性解读，据此确定供应链改造的最小合规路径；③ 由于议会阶段松绑诉求已被否，B 端工商储收益模型应彻底移除"依赖 StromVKG 主体容量拍卖"的假设，回归"EPEX 套利 + AgNes 容量费 + 2 GW 技术中立拍卖（若合规）"三条现实路径
 
 ---
 
@@ -724,11 +728,21 @@ BNetzA 公布新电网费体系（Allgemeine Netzentgeltsystematik Strom，AgNes
 
 2026–2030 年被业界视为意大利储能从"光伏附件"升格为"电力基础设施"的关键五年。
 
+**H1 2026 更新（截至 2026-06 底）：**
+
+| 指标 | 数值 | 说明 |
+|------|------|------|
+| 可再生配套电化学储能 | **11.94 GWh** | 较 Q1（11.4 GWh）继续爬升 |
+| 配套储能功率 | **6 GW** | — |
+| 累计光伏装机 | **>46 GW** | 光储协同基本盘持续扩大 |
+| 6 月单月新增储能装置 | **4,656 套** | 住宅端仍以小容量增量为主 |
+
 **投资动态：**
 - `[2026-03]` 欧洲投资银行（EIB）宣布支持意大利 **€5.07 亿**太阳能+储能项目计划，利好大型储能市场扩张
 
 > **来源：**
 > - [Italian storage market in Q1 2026 — ESS News](https://www.ess-news.com/2026/05/05/italian-storage-market-in-q1-2026-ci-and-standalone-bess-grow-residential-stabilizes/) `[2026-05]`
+> - [Italy nears 12 GWh of battery storage as solar tops 46 GW — ESS News](https://www.ess-news.com/2026/07/15/italy-nears-12-gwh-of-battery-storage-as-solar-tops-46-gw/) `[2026-07]`
 > - [Italy's energy storage needs could reach 170 GWh by 2035 — ESS News](https://www.ess-news.com/2026/06/12/italys-energy-storage-needs-could-reach-170-gwh-by-2035/) `[2026-06]`
 > - [EIB Backs €507 Million Solar and Storage Programme in Italy — Funds for NGOs](https://news.fundsforngos.org/2026/03/18/eib-backs-e507-million-solar-and-storage-programme-in-italy/) `[2026-03]`
 
