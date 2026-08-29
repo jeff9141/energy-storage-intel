@@ -1,6 +1,6 @@
 # 储能行业政策法规汇总
 
-> 最后更新：2026-08-07
+> 最后更新：2026-08-29
 > 覆盖地区：欧洲（全覆盖）、澳大利亚
 
 **适用品类标记说明：**
@@ -270,9 +270,34 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - [EU Batteries Regulation: Commission Proposes New Exemptions from End-User Battery Removability Requirements — Cooley](https://products.cooley.com/2026/05/15/eu-batteries-regulation-european-commission-proposes-new-exemptions-from-end-user-battery-removability-requirements/) `[2026-05]`
 > - [Batteries: EU proposes simpler removability and replacement rules — ERP Global](https://erp-recycling.org/news-and-events/2026/04/batteries-eu-proposes-simpler-removability-and-replacement-rules/) `[2026-04]`
 
+### 1.11 市场动态 `[通用]`
+
+**装机容量反超核电（2026 Q2）**
+
+欧洲 2025 年新增创纪录的 **13.5 GW / 26.4 GWh** 电化学储能，推动累计装机首次突破 **100 GW**（达 102.7 GW）；2026 年第二季度，欧洲储能装机容量正式**反超核电装机**（约 105 GW，德国核电全面退役移除约 11 GW 核容量是关键推手），到年中反超幅度扩大至约 10 GW。LCP Delta 与 Energy Storage Europe 预测：到 2030 年欧洲累计电化学储能装机将超过 **202 GW**，本十年剩余时间还将新增 **153 GW / 485 GWh**。
+
+> **来源：**
+> - [Europe's storage capacity passes 100 GW, overtakes nuclear — PV Magazine](https://www.pv-magazine.com/2026/06/23/europes-storage-capacity-passes-100-gw-overtakes-nuclear/) `[2026-06]`
+> - [There is now more installed energy storage capacity than nuclear in Europe, yet 'no country has reached its potential' — Energy-Storage.News](https://www.energy-storage.news/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential/) `[2026-06]`
+
+### 1.12 欧洲经济与社会委员会（EESC）储能战略意见 `[通用]` `[政策征询中]`
+
+#### EESC 呼吁委员会制定欧盟层面综合储能战略
+
+**政策正文概述：** 欧洲经济与社会委员会（EESC）于 **2026-07-15/16** 全会通过自主意见《储能——系统重要性基础设施》，由 Thomas Kattnig（奥地利）与 Konstantinos Mousouroulis（希腊）联合起草。意见核心判断：欧盟目前**缺乏统一的储能战略**，仅靠市场机制无法交付能源转型所需的储能容量，需要战略性公共投资、长期规划和有针对性的监管。意见呼吁委员会聚焦可再生能源、电网、关键原材料、电池、去中心化及能源基础设施网络安全，制定跨领域储能战略，并就储能规划纳入各成员国国家能源与气候计划（NECP）提出统一指引，确保储能部署速度与可再生能源发展保持同比例。EESC 意见不具法律约束力，但作为欧盟正式咨询机构的立场文件，通常影响委员会后续立法提案的政治优先级排序，可视为对 1.6 成员国灵活性评估进程的政治背书信号。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| **2026-07-15/16** | **EESC 全会通过储能战略意见，呼吁委员会制定综合储能战略** |
+
+> **来源：**
+> - [Energy – EESC calls for a comprehensive storage strategy — EESC](https://www.eesc.europa.eu/en/news-media/news/energy-eesc-calls-comprehensive-storage-strategy) `[2026-07]`
+> - [EESC calls for a comprehensive storage strategy — Renewable Energy Magazine](https://www.renewableenergymagazine.com/storage/eesc-calls-for-a-comprehensive-storage-strategy-20260728) `[2026-07]`
+
 #### PM 解读
 
-> **[2026-08-07]**
+> **[2026-08-29]**
 >
 > - 碳足迹合规是 2026-2027 年 EU 市场准入的**第一优先级事项**。不做 = 退出 EU 市场（无碳足迹申报 → 无 CE 认证 → 产品禁售）
 > - 碳足迹合规不是"填个表"，而是需要**六层软件系统全链路贯通**的系统工程：供应链数据采集 → LCA 计算引擎 → 电池护照平台 → BMS 固件改造 → 云平台扩展 → App 端展示
@@ -288,6 +313,8 @@ EU 电池法规第二阶段标注强制要求将于 2026-08-18 落地：
 > - **可拆卸性豁免草案对储能产品线本身影响有限，但释放了"Omnibus 简化窗口内可争取条款松绑"的信号，应同步评估电池护照数据颗粒度是否有类似松绑空间**：草案聚焦可穿戴设备、玩具、ATEX 设备等消费电子/工业专用品类，家储/阳储/移储主力产品（>2 kWh 电池组）不在拟豁免范围内，第 11 条可拆卸性要求对储能产品的适用性预期不变。但该草案证明 Omnibus 简化一揽子计划确实在实质性调整 EUBR 细则（如 LMT 电池包排除可拆卸性适用、数据审查频率放宽），且 2026 年底前是最后立法窗口。建议：① 通过 Energy Storage Europe/BVES 等行业协会评估电池护照数据模型（1.1/1.5）是否有类似"简化数据颗粒度或更新频率"的游说空间；② 密切跟踪 2026 年底 Omnibus 立法收尾进展，避免临近 2027-02 强制生效前才发现细则变化
 >
 > - **再生材料含量方法学是与电池护照并列的第二个 2026-08-18 关键委托法规节点——质量平衡核算法直接决定 BOM 与供应链数据管道设计**：JRC 制定的再生含量计算/验证方法学采用工厂级质量平衡核算（而非逐电芯溯源），这对软件系统设计是重大利好也是明确约束。① 数据颗粒度定在"工厂-年度"级：ERP/MES 需按工厂维度归集再生金属（钴/锂/镍/铅）投入占比，再生含量字段无需下沉到单电芯 BOM，显著降低电池护照数据管道的溯源复杂度；② 与碳足迹申报共用同一套上游供应链数据采集层——再生含量申报（2028-08-18 强制）应与已在建的碳足迹 LCA 数据管道合并规划，避免二次建设；③ 门槛硬约束前置到采购策略：2031-08-18 起钴 16%/锂 6%/镍 6% 为强制准入门槛（2036 提高至钴 26%/锂 15%/镍 12%），意味着电芯供应商选择需从现在起将"再生金属占比可申报、可验证"纳入供应商准入标准，LFP 路线虽无钴但锂/镍申报义务同样适用。建议 2026-08-18 方法学发布后立即与碳足迹合规专题合并解读，统一规划上游数据采集架构
+> - **储能装机反超核电（2026 Q2）是资产类别成熟度的里程碑信号，B 端项目融资素材应立即引用这一数据背书**：欧洲储能装机 2026 年年中反超核电约 10 GW，标志储能从"可再生能源配件"正式升格为"主力电力基础设施"。对有欧洲 C&I/独立 BESS 项目业务的厂商：向银行、基金等项目融资方提交的尽调材料中，可将"储能反超核电"作为资产类别系统重要性的宏观背书，提升大型 BESS 项目的融资谈判议价能力；产品端无需因此调整功能路线图，这是渠道/资本市场沟通素材而非研发优先级信号
+> - **EESC 储能战略意见呼吁"储能与可再生能源发展比例挂钩"的国家级指引，尚不具约束力但预示 NECP 修订窗口正在打开**：意见本身不产生强制义务，但作为欧盟正式咨询机构立场文件，通常会提高相关立法提案在委员会内部的优先级排序。对产品端的含义有限，但值得纳入政府事务/行业协会游说工作的背景素材——在向各国 NECP 修订进程提交储能子目标建议时，可引用 EESC 意见作为"欧盟层面共识已形成"的政治背书，加强游说材料的说服力
 >
 > **详细分析见 → [EU 碳足迹合规专题分析](eu_carbon_footprint_compliance_analysis.md)**（含六层架构拆解、不合规四级影响链路、产品线差异化影响、竞争格局分析、行动时间表）
 
@@ -1656,7 +1683,9 @@ Ofgem 的 LDES Cap and Floor 机制为长时储能（抽水蓄能、压缩空气
 | 原 $23 亿预算 | 预计 2026-06 耗尽（较原计划提前 ~3.5 年） |
 | 扩资后预算 | **$72 亿**（至 2030 年） |
 | 2030 年目标 | 超 200 万户安装，新增约 40 GWh |
-| **累计安装量（截至 2026-06）** | **超 40 万套，约 11.2 GWh 分布式储能容量**（2025-07-01 计划启动） |
+| 累计安装量（截至 2026-06） | 超 40 万套，约 11.2 GWh 分布式储能容量（2025-07-01 计划启动） |
+| **累计安装量（2026-08-14 里程碑）** | **突破 50 万套**，耗时约 13 个月，约为 2030 年 200 万套目标的 25%；日均新增安装约 2,000 套 |
+| **SAA 认证安装商数量** | **较计划启动时翻倍至 8,846 家**（截至 2026-08-14） |
 
 **AEMO 关键数据（2026 澳洲能源周，CEO Daniel Westerman 主旨演讲）：**
 
@@ -1678,10 +1707,29 @@ AEMO CEO 表示"对被动家庭电池对系统的正面冲击规模感到意外"
 > - [AEMO CEO speech at Australian Energy Week 2026 — PV Magazine Australia](https://www.pv-magazine-australia.com/2026/06/12/aemo-ceo-speech-at-australian-energy-week-2026/) `[2026-06]`
 > - [Australia's battery storage fleet triples daily load-shifting as 4.4GW comes online — Energy-Storage.News](https://www.energy-storage.news/australias-battery-storage-fleet-triples-daily-load-shifting-as-4-4gw-comes-online-in-q1-2026-says-aemo/) `[2026-04]`
 > - [350,000 installations in 10 months under Cheaper Home Batteries Program — PV Magazine Australia](https://www.pv-magazine-australia.com/2026/05/01/350000-installations-in-10-months-under-cheaper-home-battery-program/) `[2026-05]`
+> - [Australia's Cheaper Home Batteries Program officially passes 500,000 installations — Energy-Storage.News](https://www.energy-storage.news/australias-cheaper-home-batteries-program-officially-passes-500000-installations/) `[2026-08]`
+> - [Prime Minister marks 500,000 battery milestone — EcoGeneration](https://www.ecogeneration.com.au/prime-minister-marks-500000-battery-milestone) `[2026-08]`
+> - [Australia Hits 500,000 Home Battery Installations — Energy Matters](https://www.energymatters.com.au/renewable-news/australia-500000-home-battery-installations/) `[2026-08]`
+
+### 15.7 最低系统负荷（MSL）市场规则改革 `[工商储]` `[政策征询中]`
+
+#### AEMC 就 MSL 治理框架公开征询，独立 BESS 参与调度的经济性缺口浮出水面
+
+**政策正文概述：** 屋顶光伏渗透率上升导致 NEM 部分区域午间净负荷跌至系统安全运行下限（Minimum System Load, MSL）以下，AEMO 被迫指令部分独立 BESS 保持并网同步、跟随调度目标以维持系统稳定，而非按经济最优策略自主充放电。典型案例：南澳 AGL 旗下 250MW Torrens Island BESS 在 2025 年末至 2026 年初被多次指令用于 MSL 管理，仅 2025-11 单月即造成数千澳元套利收益损失，而现行补偿机制（针对传统发电机组设计）难以适配储能资产的运营经济模型。AEMC 现就两项竞争性提案开展公开征询：① AEMC 可靠性委员会（Reliability Panel）提出 MSL 治理框架 + 底价（floor price）机制；② 清洁能源理事会（CEC）提出建立"MSL 备用服务"付费市场，允许公用级 BESS、抽水蓄能及需求响应资源竞标提供备用容量，参照现行 FCAS（频率控制辅助服务）市场模式运作，为 AEMO 提供透明、可契约化的需求响应采购工具。
+
+**进展追踪：**
+| 时间 | 事件 |
+|------|------|
+| 2025-11 至 2026 年初 | AEMO 多次指令 Torrens Island BESS 用于 MSL 管理，暴露现行补偿机制缺陷 |
+| **2026-08-20** | **公众意见征询截止** |
+| **2026-12-03（预计）** | **AEMC 发布草案裁定（Draft Determination）** |
+
+> **来源：**
+> - [Battery storage investment at stake as Australia's AEMC consults on minimum system load market rules — Energy-Storage.News](https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/) `[2026]`
 
 #### PM 解读
 
-> **[2026-08-05]**
+> **[2026-08-29]**
 > - **VPP 能力是澳大利亚家储的硬性市场准入门槛**：联邦补贴明确要求并网系统"必须具备 VPP 能力"。这不是"有了加分"，而是"没有就拿不到补贴"。App/固件必须内置 VPP 协议栈（支持澳洲主流 VPP 聚合商接口），否则产品在澳洲市场直接失去竞争力。Tesla、Sonnen、Enphase 在这块已经成熟，是硬门槛
 > - **14 kWh 甜点成立，但平均装机容量翻倍是重要信号——容量推荐算法不能只推 14 kWh**：阶梯补贴结构（0-14 kWh 全额，14-28 kWh 六折）使 13.5-14 kWh 依然是"补贴最优"选项，但用户平均装机容量翻倍表明相当比例用户主动选择更大容量——他们在用"补贴覆盖以外的自付成本"换取更长的 VPP 收益期。App 的容量推荐页需要同时呈现两个场景："补贴最大化方案（14 kWh）"和"VPP 收益最大化方案（XX kWh）"，用数字让用户自主决策
 > - **州级政策正在收缩（VIC/QLD 已关闭），联邦补贴成为唯一支撑**：多个州级补贴已关闭，NSW 仅保留 VPP 激励，SA 的 VPP 补贴最高 $2,050。趋势是"联邦补贴兜底 + VPP 收入驱动"。App 需要向用户清晰展示"联邦补贴节省 + VPP 年化收入"的组合经济账
@@ -1696,6 +1744,8 @@ AEMO CEO 表示"对被动家庭电池对系统的正面冲击规模感到意外"
 > - **NSW PDRS 2026-07-01 重大调整：光伏要求取消 + 准入容量上限扩至 50 kWh + BESS3/BESS4 新品类 9 月开放——NSW 从"光储绑定补贴"转向"纯储能 VPP 激励"，产品打包策略需重新设计**：三项同步变化的组合效应：① 取消光伏要求意味着现有光伏用户（存量约 150 万套）可单独加装储能并享受 VPP 前置补贴，而无需等待光伏翻新——存量改造市场规模远超新装市场，App 中"已有光伏用户加装储能引导"功能的优先级应显著提升；② 准入容量上限从 28 kWh 扩至 50 kWh（但激励封顶仍在 28 kWh），补贴测算页须在容量输入框清晰展示"28 kWh 补贴封顶"逻辑，避免大容量用户误判实际收益；③ BESS3（公寓楼共享电池）+ BESS4（小中型企业）9 月开放，是 NSW VPP 从"家庭消费级"扩展到"B 端商业级"的转折点——有公寓楼集体售电或企业需量管理产品线的厂商应提前向 NSW PDRS 主管部门确认新品类技术规格，争取 9 月首批开放资格
 > - **CHB 计划一周年累计突破 40 万套 / 11.2 GWh，存量运营价值已超过新增拉新价值——App 应从"促装机"转向"促续费与增值服务"**：计划自 2025-07-01 启动至 2026-06 满一年，累计安装已超 40 万套，平均装机容量翻倍，意味着澳洲家储用户基数已具备规模化运营的门槛。对产品策略的含义：① VPP 收益优化、OTA 固件升级、能源报告等增值服务应成为存量用户 ARPU 提升的核心抓手，而非仅依赖新增装机拉动收入；② 40 万套的用户池足以支撑独立的澳洲本地化客服和运营团队投入产出比；③ 补贴阶梯递减（每半年一次）意味着后续新增用户的补贴强度将持续走低，用户全生命周期价值（LTV）中"软件订阅+服务"的占比会逐年提高，产品定价策略应提前布局订阅制或增值包
 > - **NSW 准入容量上限 7-1 起从 28 kWh 扩大至 50 kWh，但激励仍按 28 kWh 封顶——App 需要向大容量用户讲清"资格 vs 收益"的区别，避免预期落差投诉**：PDRS BESS2 允许 28-50 kWh 电池参与激励计划，但补贴金额计算仍以前 28 kWh 可用容量为上限，超出部分不再额外计入。这意味着容量扩大主要是"解锁大容量电池的市场准入资格"而非"提高补贴金额"。产品建议：① App 内 NSW 收益测算模块的容量输入框上限需同步从 28 kWh 调整为 50 kWh，但计算逻辑必须清晰展示"前 28 kWh 计入激励、超出部分不计入"的封顶规则，避免用户误以为大容量电池能拿到更高补贴；② 电池须在 CEC（Clean Energy Council）清单在册才符合 BESS2 资格，App 选品/报价流程中应加入 CEC 清单校验节点，防止安装商向客户推荐不合规 SKU
+> - **CHB 计划 13 个月突破 50 万套（约为 2030 年 200 万套目标的 25%），SAA 认证安装商翻倍至 8,846 家——渠道网络已具备规模化运营基础，产品重心应转向安装商效率与存量用户 ARPU**：从 40 万套（2026-06）到 50 万套（2026-08-14）仅用约 6 周，增速未见放缓迹象；安装商数量翻倍意味着渠道产能同步扩张，而非被单一大型安装商垄断。对产品策略的含义：① 安装商侧的差异化竞争（预配置效率、远程调试、VPP 一键激活）将比新增拉新更早成为品牌选择的决定性因素，因为安装商基数已足够大、议价能力增强；② 50 万套存量用户池的规模已可支撑独立的澳洲本地化运营团队和数据驱动的续费/增值服务策略；③ 25% 进度对应约 4 年内完成剩余 75%，意味着 2026-2029 是产品在澳洲建立渠道壁垒的窗口期，越晚进入越难突破已固化的安装商合作关系
+> - **AEMC MSL 治理框架征询（截止 2026-08-20）触及独立 BESS"被指令而非自主调度"的收益损失痛点——B 端 EMS 应评估 CEC 备用服务提案对收益模型的增量价值**：Torrens Island 案例证明现行机制下大型 BESS 被 AEMO 指令用于系统稳定性管理时，收益损失缺乏透明补偿依据；若 CEC 提出的 MSL 备用服务付费市场被采纳，将参照 FCAS 模式为大型 BESS 新增一条可契约化的收益来源，但也意味着 EMS 调度算法需新增"MSL 备用容量竞标"模块，与现有能量套利、FCAS 竞标模块并行运作、协调冲突窗口。对有澳洲 B 端大型 BESS 业务的厂商：① 建议通过行业协会在 8-20 截止前提交意见，重点关注补偿机制是否覆盖历史损失场景的追溯适用；② EMS 产品路线图应预留"MSL 备用市场竞标"接口位，待 12-3 草案裁定明确具体规则后快速对接，避免正式规则落地后临时补开发
 
 ---
 
